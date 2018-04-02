@@ -1,0 +1,1 @@
+MediaAnalyzer.exe --ai %1 "audioInfo"

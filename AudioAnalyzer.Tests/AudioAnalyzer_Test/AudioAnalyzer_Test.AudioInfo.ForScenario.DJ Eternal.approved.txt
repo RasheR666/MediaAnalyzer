@@ -1,0 +1,104 @@
+﻿   Ext  |  Size  |  Duration  |  Bitrate  |     BPM  |  Name
+  .mp3  |    10  |  00:04:06  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\01 - DJ Eternal - Don't Judge Me (Chris Brown cover).mp3
+  .mp3  |     6  |  00:02:38  |      320  |  149.10  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\02 - DJ Eternal - In My Veins (Bailey Feat. Sarah Howells).mp3
+  .mp3  |     8  |  00:03:27  |      320  |  147.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\03 - DJ Eternal - Waiting (Emma Hewitt).mp3
+  .mp3  |     9  |  00:03:52  |      320  |  157.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\04 - DJ Eternal - Invisible (Tenishia Feat. Kirsty Hawkshaw).mp3
+  .mp3  |     8  |  00:03:18  |      320  |  157.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\05 - DJ Eternal - Here Without You (3 Doors Down cover).mp3
+  .mp3  |     8  |  00:03:36  |      320  |   82.60  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\06 - DJ Eternal - Burned With Desire (Justine Suissa) (DJ Eternal Rework).mp3
+  .mp3  |    10  |  00:04:11  |      320  |  149.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\07 - DJ Eternal - Forward Facing (Josh Gabriel Presents Winter Kills).mp3
+  .mp3  |     8  |  00:03:28  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\08 - DJ Eternal - Impossible (James Arthur cover).mp3
+  .mp3  |     8  |  00:03:18  |      320  |  152.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\09 - DJ Eternal - When I Was Your Man (Bruno Mars).mp3
+  .mp3  |     8  |  00:03:30  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\10 - DJ Eternal - Use Somebody (Kings Of Leon cover).mp3
+  .mp3  |     9  |  00:03:40  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\11 - DJ Eternal - Diamonds (Rihanna cover).mp3
+  .mp3  |    10  |  00:04:14  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\12 - DJ Eternal - Words (Skylar Grey).mp3
+  .mp3  |     9  |  00:03:42  |      320  |   81.50  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\01 - The Beginning\13 - DJ Eternal - I Need A Doctor (Eminem Feat. Skylar Grey).mp3
+  .mp3  |     9  |  00:03:41  |      320  |  149.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\01 - DJ Eternal - Reach Out To Me (Cathy Burton).mp3
+  .mp3  |     9  |  00:03:43  |      320  |  152.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\02 - DJ Eternal - Shores Of Eden (Tenishia).mp3
+  .mp3  |     9  |  00:04:01  |      320  |  146.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\03 - DJ Eternal - I Am (Solo Feat. Helena - Christopher Breeze Remix) (Eternal Rework).mp3
+  .mp3  |     9  |  00:03:46  |      320  |  153.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\04 - DJ Eternal - As The Rush Comes (Motorcycle Feat. Jes) (Gabriel & Dresden Remix) (Eternal Rework).mp3
+  .mp3  |     8  |  00:03:35  |      320  |   80.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\05 - DJ Eternal - Survive (TC).mp3
+  .mp3  |     8  |  00:03:22  |      320  |  146.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\06 - DJ Eternal - Love And Light (Amurai).mp3
+  .mp3  |     8  |  00:03:22  |      320  |  146.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\07 - DJ Eternal - Desperate Religion (ATB - Seven24 & Zetandel Remix) (Eternal Rework).mp3
+  .mp3  |     8  |  00:03:28  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\08 - DJ Eternal - Straight From My Heart (Turn & Aguada).mp3
+  .mp3  |     8  |  00:03:23  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\09 - DJ Eternal - Too Far (Matt Darey Feat. Erica Driscoll - Zetandel Remix) (Eternal Rework).mp3
+  .mp3  |     8  |  00:03:16  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\10 - DJ Eternal - Radioactive (Imagine Dragons Cover).mp3
+  .mp3  |    11  |  00:04:45  |      320  |  158.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\11 - DJ Eternal - Mirrors (Justin Timberlake Cover).mp3
+  .mp3  |     7  |  00:03:08  |      320  |  140.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\02 - Eternal Dreams\12 - DJ Eternal - Imagination (Jes).mp3
+  .mp3  |    11  |  00:04:34  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\01 - DJ Eternal - If You Were Here.mp3
+  .mp3  |    10  |  00:04:14  |      320  |  153.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\02 - DJ Eternal - Sky.mp3
+  .mp3  |     7  |  00:03:02  |      320  |  133.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\03 - DJ Eternal - Skyscraper.mp3
+  .mp3  |    10  |  00:04:30  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\04 - DJ Eternal - Not A Bad Thing.mp3
+  .mp3  |     8  |  00:03:35  |      320  |  146.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\05 - DJ Eternal - Mirror.mp3
+  .mp3  |     9  |  00:03:44  |      320  |  160.05  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\06 - DJ Eternal - Never Be The Same.mp3
+  .mp3  |     9  |  00:03:50  |      320  |   87.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\07 - DJ Eternal - Roar.mp3
+  .mp3  |     8  |  00:03:23  |      320  |  135.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\08 - DJ Eternal - All Of Me.mp3
+  .mp3  |     9  |  00:04:01  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\09 - DJ Eternal - Everything Has Changed.mp3
+  .mp3  |     8  |  00:03:26  |      320  |  133.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\10 - DJ Eternal - Young And Beautiful.mp3
+  .mp3  |     8  |  00:03:15  |      320  |  140.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\11 - DJ Eternal - Concrete Angel.mp3
+  .mp3  |     8  |  00:03:19  |      320  |  147.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\12 - DJ Eternal - Question Existing.mp3
+  .mp3  |    10  |  00:04:29  |      320  |  154.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\13 - DJ Eternal - A Team.mp3
+  .mp3  |    10  |  00:04:21  |      320  |  106.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\03 - Here With Me\14 - DJ Baloo & DJ Eternal - Read All About It Pt III (Emeli Sande).mp3
+  .mp3  |    10  |  00:04:13  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\01 - DJ Eternal - Heart Wants What It Wants (Selena Gomez).mp3
+  .mp3  |    10  |  00:04:29  |      320  |  145.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\02 - DJ Eternal - Thinking Out Loud (Ed Sheeran Cover).mp3
+  .mp3  |     8  |  00:03:23  |      320  |  145.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\03 - DJ Eternal - Goddess (Banks).mp3
+  .mp3  |     8  |  00:03:34  |      320  |  145.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\04 - DJ Eternal - Go (Grimes Feat. Blood Diamonds).mp3
+  .mp3  |     9  |  00:04:11  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\05 - DJ Eternal - Shatter Me (Lzzy Hale & Lindsey Sterling).mp3
+  .mp3  |     8  |  00:03:22  |      320  |  152.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\06 - DJ Eternal - Stay With Me (Sam Smith Cover).mp3
+  .mp3  |     9  |  00:04:01  |      320  |  145.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\07 - DJ Eternal - Bloodstream (Ed Sheeran Cover).mp3
+  .mp3  |     7  |  00:03:18  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\08 - DJ Eternal - I Want U (Alison Wonderland).mp3
+  .mp3  |     8  |  00:03:28  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\09 - DJ Eternal - Black Widow (Rita Ora & Iggy Azalea).mp3
+  .mp3  |    10  |  00:04:28  |      320  |  147.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\10 - DJ Eternal - Cold Shower (Alexandra Badoi).mp3
+  .mp3  |     7  |  00:03:19  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\11 - DJ Eternal - Cold (Alison Wonderland).mp3
+  .mp3  |     8  |  00:03:20  |      320  |  140.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\12 - DJ Eternal - She Wolf (Sia Cover).mp3
+  .mp3  |    11  |  00:04:43  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\13 - DJ Eternal - World's Apart (Audrey Gallagher).mp3
+  .mp3  |     9  |  00:03:56  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\14 - DJ Eternal - Dreams (Bastille & Gabrielle Aplin).mp3
+  .mp3  |     8  |  00:03:27  |      320  |   79.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\15 - DJ Eternal - What Is Love (Jaymes Young).mp3
+  .mp3  |     8  |  00:03:27  |      320  |  134.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\04 - Born To Zouk\16 - DJ Eternal - Beating Heart (Ellie Goulding).mp3
+  .mp3  |     8  |  00:03:24  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\01 - DJ Eternal - Be Together (Wilde Belle).mp3
+  .mp3  |     8  |  00:03:35  |      320  |  145.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\02 - DJ Eternal - Runaway (Jes).mp3
+  .mp3  |    10  |  00:04:27  |      320  |   90.02  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\03 - DJ Eternal - All My Love (Ariana Grande).mp3
+  .mp3  |    10  |  00:04:19  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\04 - DJ Eternal - High For This (The Weeknd Cover).mp3
+  .mp3  |     9  |  00:03:50  |      320  |  124.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\05 - DJ Eternal - The Hills (The Weeknd Cover).mp3
+  .mp3  |     8  |  00:03:25  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\06 - DJ Eternal - Style (Taylor Swift Cover).mp3
+  .mp3  |    10  |  00:04:38  |      320  |  147.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\07 - DJ Eternal - The Scientist (Coldplay Cover).mp3
+  .mp3  |     9  |  00:03:59  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\08 - DJ Eternal - Locked Away (R City Feat. Adam Levine Cover).mp3
+  .mp3  |     6  |  00:02:53  |      320  |  144.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\09 - DJ Eternal - Try (Colbie Caillat).mp3
+  .mp3  |     7  |  00:03:09  |      320  |  130.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\10 - DJ Eternal - Summertime Sadness (Lana Del Rey).mp3
+  .mp3  |     8  |  00:03:40  |      320  |   95.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\11 - DJ Eternal - You Know You Like It (AlunaGeorge Cover).mp3
+  .mp3  |     8  |  00:03:38  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\12 - DJ Eternal - Sparks (Neon Hitch).mp3
+  .mp3  |     8  |  00:03:25  |      320  |   87.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\13 - DJ Eternal - Crazy (Gnarls Barkley Cover).mp3
+  .mp3  |     8  |  00:03:44  |      320  |  124.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\14 - DJ Eternal - Photograph (Ed Sheeran Cover).mp3
+  .mp3  |     8  |  00:03:27  |      320  |  147.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\15 - DJ Eternal - Chains (Nick Jonas Cover).mp3
+  .mp3  |     7  |  00:03:04  |      320  |  130.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\16 - DJ Eternal - I Was Made For Loving You (Tori Kelly & Ed Sheeran Cover).mp3
+  .mp3  |     9  |  00:04:07  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\05 - Together As One\17 - DJ Eternal - See You Again (Wiz Khalifa & Charlie Puth Cover).mp3
+  .mp3  |     9  |  00:04:10  |      320  |  155.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\01 - DJ Eternal - Faded (Iselin Solheim).mp3
+  .mp3  |     7  |  00:03:12  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\02 - DJ Eternal - Killin It (Cappa).mp3
+  .mp3  |     8  |  00:03:24  |      320  |  125.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\03 - DJ Eternal - Pillowtalk (Zayn Cover).mp3
+  .mp3  |    11  |  00:04:42  |      320  |  152.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\04 - DJ Eternal - Chasing The Sky (Empire).mp3
+  .mp3  |     8  |  00:03:44  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\05 - DJ Eternal - Inside Out (Chainsmokers & Charlee).mp3
+  .mp3  |     7  |  00:03:00  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\06 - DJ Eternal - One Dance (Drake Cover).mp3
+  .mp3  |     9  |  00:03:49  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\07 - DJ Eternal - Send My Love (Adele Cover).mp3
+  .mp3  |     8  |  00:03:24  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\08 - DJ Eternal - Don't Let Me Down (Chainsmokers & Daya).mp3
+  .mp3  |     7  |  00:03:06  |      320  |  132.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\09 - DJ Eternal - Like I'm Gonna Lose You (Meghan Trainor & John Legend Cover).mp3
+  .mp3  |     9  |  00:03:59  |      320  |  158.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\10 - DJ Eternal - Without Him (Christina Grimmie).mp3
+  .mp3  |     8  |  00:03:20  |      320  |  159.96  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\11 - DJ Eternal - Off To The Races (Lana Del Rey).mp3
+  .mp3  |     9  |  00:03:48  |      320  |  147.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\12 - DJ Eternal - Take Me Home (Jess Glynne Cover).mp3
+  .mp3  |     7  |  00:03:01  |      320  |  152.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\13 - DJ Eternal - GDFR (Flo Rida).mp3
+  .mp3  |     8  |  00:03:30  |      320  |  148.08  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\14 - DJ Eternal - Under Control (Ellie Goulding).mp3
+  .mp3  |     8  |  00:03:39  |      320  |   86.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\15 - DJ Eternal - Diamonds 2016 (Rihanna Cover).mp3
+  .mp3  |     6  |  00:02:47  |      320  |  112.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\16 - DJ Eternal - Shameless (The Weeknd Cover).mp3
+  .mp3  |    10  |  00:04:26  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\17 - DJ Eternal - Armour (Lupa J).mp3
+  .mp3  |     7  |  00:03:00  |      320  |  144.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\18 - DJ Eternal - Halo (Beyonce Cover).mp3
+  .mp3  |     8  |  00:03:36  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\19 - DJ Eternal - Magnets (Disclosure & Lorde).mp3
+  .mp3  |     8  |  00:03:21  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\06 - Illusion\20 - DJ Eternal - Let Me Love You (Justin Bieber Cover).mp3
+  .mp3  |     7  |  00:03:10  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\01 - DJ Eternal - Starboy (The Weeknd Cover).mp3
+  .mp3  |     9  |  00:04:07  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\02 - DJ Eternal - Fracture ( Slumberjack & Vera Blue).mp3
+  .mp3  |     9  |  00:03:54  |      320  |  147.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\03 - DJ Eternal - Feel Good (Gryffin, Illenium & Daya).mp3
+  .mp3  |     7  |  00:02:54  |      320  |  149.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\04 - DJ Eternal - Lonely Walls (Pon Cho & Paige IV).mp3
+  .mp3  |    10  |  00:04:22  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\05 - DJ Eternal - Cold (Maroon 5 & Futures).mp3
+  .mp3  |     9  |  00:03:51  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\06 - DJ Eternal - Capsize (Frenship & Emily Warren Cover).mp3
+  .mp3  |     7  |  00:02:58  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\07 - DJ Eternal - Back To Black (Amy Winehouse Cover).mp3
+  .mp3  |     7  |  00:02:51  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\08 - DJ Eternal - Never Been Better (Steve Void & Grace Tither).mp3
+  .mp3  |     6  |  00:02:46  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\09 - DJ Eternal - Shape Of You (Ed Sheeran Cover).mp3
+  .mp3  |     9  |  00:04:01  |      320  |  122.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\10 - DJ Eternal - Young & Beautiful 2017 (Lana Del Rey Cover).mp3
+  .mp3  |     7  |  00:03:13  |      320  |  160.03  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Eternal\07 - The End\11 - DJ Eternal - Party Monster (The Weeknd).mp3

@@ -1,0 +1,9 @@
+﻿Resolution  |  Video  |  Audio  |  Size  |  Duration  |  Name
+
+   720x480  |   2836  |    128  |    75  |  00:03:33  |  d:\Dance\!VIDEO\!ZOUK\!INSTRUCTORS COURSE\2013-08-09 Zouk Congress St Piter 2\Gilson Damasco & Natasha Terekhina - safety at zouk classes\02 musicality.mp4
+   720x480  |   2840  |    128  |     8  |  00:00:24  |  d:\Dance\!VIDEO\!ZOUK\!INSTRUCTORS COURSE\2013-08-09 Zouk Congress St Piter 2\William Teixeira & Paloma Alves - modern tendencies in brazilian zouk\03 demo2.mp4
+   720x480  |   2839  |    128  |    28  |  00:01:19  |  d:\Dance\!VIDEO\!ZOUK\!INSTRUCTORS COURSE\2013-08-09 Zouk Congress St Piter 2\William Teixeira & Paloma Alves - modern tendencies in brazilian zouk\04 demo3.mp4
+   720x480  |   2838  |    128  |    56  |  00:02:39  |  d:\Dance\!VIDEO\!ZOUK\!INSTRUCTORS COURSE\2013-08-09 Zouk Congress St Piter 2\William Teixeira & Paloma Alves - modern tendencies in brazilian zouk\05 demo4.mp4
+
+  1280x720  |   2782  |    125  |     5  |  00:00:15  |  d:\Dance\!VIDEO\!ZOUK\!INSTRUCTORS COURSE\2017-02-24 Spring Zouk Fest\MAH03556.mp4
+  1280x720  |   2656  |    128  |    12  |  00:00:38  |  d:\Dance\!VIDEO\!ZOUK\!INSTRUCTORS COURSE\2017-02-24 Spring Zouk Fest\MAH03561.mp4

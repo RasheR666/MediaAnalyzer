@@ -1,0 +1,47 @@
+﻿   Ext  |  Size  |  Duration  |  Bitrate  |     BPM  |  Name
+  .mp3  |     7  |  00:03:20  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\02 - Alive [2012]\01 - Si l'on s'en souvient (feat. Judith).mp3
+  .mp3  |     7  |  00:03:12  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\02 - Alive [2012]\02 - Tu ne m'as laissé le choix (feat. Amine).mp3
+  .mp3  |    13  |  00:06:05  |      320  |  156.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\02 - Alive [2012]\03 - Alive (feat. Mads Arp & Julie Harrington).mp3
+  .mp3  |     8  |  00:03:32  |      320  |  160.36  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\02 - Alive [2012]\04 - Juste une raison encore (feat. Patrick Fiori).mp3
+  .mp3  |    10  |  00:04:39  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\02 - Alive [2012]\06 - Video Games (feat. Lana Del Rey & Liam Walds).mp3
+  .mp3  |     8  |  00:03:47  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\02 - Alive [2012]\08 - Empire State of Mind (feat. Alicia Keys).mp3
+  .mp3  |     6  |  00:04:29  |      192  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\02 - Alive [2012]\09 - Si tu no vuelves (feat. Shakira & Miguel Bose).mp3
+  .mp3  |     8  |  00:03:38  |      320  |  145.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\02 - Alive [2012]\12 - Tu n'es plus la (feat. Amel Bent).mp3
+  .mp3  |     3  |  00:01:53  |      256  |   85.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 01 - Intro.mp3
+  .mp3  |     5  |  00:03:55  |      192  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 02 - Diamonds.mp3
+  .mp3  |     5  |  00:03:42  |      192  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 03 - Mest Ondt.mp3
+  .mp3  |     7  |  00:05:19  |      192  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 04 - You.mp3
+  .mp3  |     5  |  00:03:40  |      192  |  136.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 05 - Ring my bells.mp3
+  .mp3  |     4  |  00:03:32  |      192  |  155.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 06 - Brand New Me.mp3
+  .mp3  |     5  |  00:03:55  |      192  |  152.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 07 - Bittersweet.mp3
+  .mp3  |     5  |  00:03:13  |      256  |  141.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 08 - In and Out of Love.mp3
+  .mp3  |     4  |  00:03:26  |      192  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 09 - This World.mp3
+  .mp3  |     5  |  00:03:55  |      192  |  152.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\03 - This World [2013]\Brandon Zk - 10 - Xmas Bittersweet.mp3
+  .mp3  |     6  |  00:04:40  |      192  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\Brandon Zk - 01 - Let me love you (version 2).mp3
+  .mp3  |     5  |  00:04:20  |      192  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\Brandon Zk - 02 - Tonight.mp3
+  .mp3  |     5  |  00:04:12  |      192  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\Brandon Zk - 03 - Made to love.mp3
+  .mp3  |     6  |  00:04:51  |      192  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\Brandon Zk - 04 - That.mp3
+  .mp3  |     6  |  00:04:39  |      192  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\Brandon Zk - 05 - High Hopes.mp3
+  .mp3  |     7  |  00:04:16  |      256  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\Brandon Zk - 06 - Warrior Worrier.mp3
+  .mp3  |     5  |  00:04:16  |      192  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\Brandon Zk - 07 - Nana.mp3
+  .mp3  |     5  |  00:04:13  |      192  |   88.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\Brandon Zk - 08 - Goodbye.mp3
+  .mp3  |     5  |  00:04:16  |      192  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\Brandon Zk - 09 - Let her go.mp3
+  .mp3  |     5  |  00:03:58  |      192  |  142.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\04 - Made to love [2014]\DJ Baloo ft. DJ Brandon Zk - Do we even matter.mp3
+  .mp3  |     6  |  00:04:35  |      192  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\01 - Brandon Zk - Dance Like We're Making Love.mp3
+  .mp3  |     5  |  00:03:51  |      192  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\02 - Brandon Zk - Summer breakup.mp3
+  .mp3  |     6  |  00:04:30  |      192  |   75.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\03 - Brandon Zk - Vulnerable.mp3
+  .mp3  |     4  |  00:03:15  |      192  |   76.50  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\04 - Brandon Zk - Lights and Camera.mp3
+  .mp3  |     6  |  00:04:54  |      192  |   77.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\05 - Brandon Zk - L-l-lick me like a lollipop.mp3
+  .mp3  |     9  |  00:06:50  |      192  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\06 - Brandon Zk - 7 Minutes of Poetry.mp3
+  .mp3  |     5  |  00:03:51  |      192  |   73.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\07 - Brandon Zk - Twenty eigth.mp3
+  .mp3  |     4  |  00:03:03  |      192  |   75.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\08 - Brandon Zk - Do you right.mp3
+  .mp3  |     4  |  00:03:20  |      192  |   72.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\09 - Brandon Zk - Drunk in love.mp3
+  .mp3  |     4  |  00:03:17  |      192  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\10 - Brandon Zk - Tear My Heart Out.mp3
+  .mp3  |     6  |  00:04:43  |      192  |   76.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\05 - Dance Like We're Making Love [2015]\11 - Brandon Zk - Valerie.mp3
+  .mp3  |     2  |  00:03:10  |      128  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\OTHER\DJ Brandon Zk - Bien Para Ti (ft. Kevin Karla & La ba).mp3
+  .mp3  |     3  |  00:03:39  |      128  |  144.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\OTHER\DJ Brandon ZK - Crush (feat. Yuna & Usher).mp3
+  .mp3  |     3  |  00:04:12  |      128  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\OTHER\DJ Brandon Zk - Dance Till Sunrise.mp3
+  .mp3  |     3  |  00:03:18  |      128  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\OTHER\DJ Brandon Zk - I'm in love (feat. James Vincent McMorrow).mp3
+  .mp3  |     3  |  00:03:19  |      128  |   90.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\OTHER\DJ Brandon ZK - Sweet Harmony.mp3
+  .mp3  |     6  |  00:04:23  |      192  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\OTHER\DJ Brandon ZK - We dont talk anymore.mp3
+  .mp3  |     3  |  00:03:23  |      128  |   82.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Brandon ZK\OTHER\DJ Brandon ZK - You really hurt me.mp3

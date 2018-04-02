@@ -1,0 +1,149 @@
+﻿   Ext  |  Size  |  Duration  |  Bitrate  |     BPM  |  Name
+  .mp3  |    12  |  00:09:07  |      192  |  160.37  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\01 - New era (DJ Mafie Zouker).mp3
+  .mp3  |     6  |  00:05:04  |      192  |  154.18  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\02 - Seven Seconds (DJ Max Blacksoul).mp3
+  .mp3  |     7  |  00:06:14  |      160  |  151.83  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\03 - Forever (DJ Mafie Zouker).mp3
+  .mp3  |     8  |  00:05:54  |      192  |  159.87  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\04 - Woman in chains (DJ Max Blacksoul).mp3
+  .mp3  |     7  |  00:05:21  |      192  |   92.95  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\05 - Jaleo mix (DJ Mafie Zouker).mp3
+  .mp3  |     8  |  00:04:31  |      256  |   81.02  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\06 - Sexy eyes (DJ Max Blacksoul).mp3
+  .mp3  |     6  |  00:04:49  |      192  |  158.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\07 - Arabian Two (DJ Mafie Zouker).mp3
+  .mp3  |     5  |  00:03:46  |      192  |  151.38  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\08 - To Desejo (DJ Max Blacksoul).mp3
+  .mp3  |     7  |  00:05:41  |      192  |   82.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\09 - Neo-Tinka (DJ Mafie Zouker).mp3
+  .mp3  |     6  |  00:05:05  |      192  |  154.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\10 - Bia (DJ Max Blacksoul).mp3
+  .mp3  |     5  |  00:04:10  |      192  |  151.38  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\11 - Should I go 2006 (DJ Mafie Zouker).mp3
+  .mp3  |     5  |  00:04:19  |      192  |   84.89  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\12 - Over again (DJ Max Blacksoul).mp3
+  .mp3  |     7  |  00:05:23  |      192  |   87.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\13 - I don't wanna Know (DJ Mafie Zouker).mp3
+  .mp3  |     4  |  00:03:35  |      192  |   94.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\01 - Trinity (feat. DJ Max Blacksoul) [2007]\14 - Why you wanna (DJ Max Blacksoul).mp3
+  .mp3  |     1  |  00:00:44  |      320  |  119.28  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\01 - Intro.mp3
+  .mp3  |    17  |  00:07:48  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\02 - Master Key (feat. DJ Cronus).mp3
+  .mp3  |    16  |  00:07:24  |      320  |  158.45  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\03 - Spirit.mp3
+  .mp3  |    12  |  00:05:23  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\04 - Lazy Summer Days.mp3
+  .mp3  |    12  |  00:05:28  |      320  |  148.47  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\05 - Garde Moi.mp3
+  .mp3  |     9  |  00:04:19  |      320  |   96.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\06 - Blue Coast.mp3
+  .mp3  |     5  |  00:02:28  |      320  |   91.80  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\07 - Interlude NeoZouk.mp3
+  .mp3  |    15  |  00:06:37  |      320  |   89.63  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\08 - Gothica.mp3
+  .mp3  |    11  |  00:05:04  |      320  |   86.60  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\09 - The Sides.mp3
+  .mp3  |    10  |  00:04:26  |      320  |  151.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\10 - Le Printemps.mp3
+  .mp3  |    13  |  00:05:55  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\11 - My Dream of Paradise.mp3
+  .mp3  |    14  |  00:06:27  |      320  |   88.98  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\12 - All Good Things.mp3
+  .mp3  |    16  |  00:07:10  |      320  |   93.90  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\13 - ZNL Impact (feat. DJ Lex Zouk).mp3
+  .mp3  |    10  |  00:04:47  |      320  |  151.20  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\14 - Should I Go (Instrumental).mp3
+  .mp3  |    10  |  00:04:44  |      320  |   95.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\02 - Master Key Gold Volume 1\15 - Vermelho (feat. Aixa).mp3
+  .mp3  |    14  |  00:06:16  |      320  |   80.60  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\01 - Indian Snaper.mp3
+  .mp3  |    14  |  00:06:18  |      320  |   91.83  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\02 - Memory.mp3
+  .mp3  |    13  |  00:05:55  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\03 - Sanctuary.mp3
+  .mp3  |    12  |  00:05:33  |      320  |  148.47  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\04 - Gare moi (Ingles).mp3
+  .mp3  |    11  |  00:04:55  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\05 - Wo wilist du hin.mp3
+  .mp3  |    10  |  00:04:35  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\06 - Mind Unleash (feat. DJ Cronus).mp3
+  .mp3  |     9  |  00:04:03  |      320  |   90.19  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\07 - Sexy Cherie.mp3
+  .mp3  |    14  |  00:06:22  |      320  |  156.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\08 - Midnight poison (DJ Cronus).mp3
+  .mp3  |    10  |  00:04:44  |      320  |  152.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\09 - Surrealism (DJ Cronus).mp3
+  .mp3  |    14  |  00:06:13  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\10 - I Wanna Fly (DJ Cronus).mp3
+  .mp3  |    14  |  00:06:13  |      320  |  151.82  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\11 - Forever.mp3
+  .mp3  |    20  |  00:09:06  |      320  |  160.42  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\12 - New Era.mp3
+  .mp3  |    12  |  00:05:18  |      320  |   93.02  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\03 - Master Key Gold Volume 2\13 - Jaleo.mp3
+  .mp3  |     5  |  00:04:01  |      192  |   90.19  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\04 - Neo-style (feat. DJ Cronus)\01 - Sexy chérie (DJ Mafie Zouker feat. Lord Feifer).mp3
+  .mp3  |     5  |  00:04:02  |      192  |  152.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\04 - Neo-style (feat. DJ Cronus)\02 - Surrealism (DJ Cronus).mp3
+  .mp3  |     7  |  00:05:07  |      192  |   86.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\04 - Neo-style (feat. DJ Cronus)\03 - Sanctuary (DJ Mafie Zouker).mp3
+  .mp3  |    14  |  00:06:13  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\04 - Neo-style (feat. DJ Cronus)\04 - I Wanna Fly (DJ Cronus).mp3
+  .mp3  |     8  |  00:06:21  |      192  |   91.83  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\04 - Neo-style (feat. DJ Cronus)\05 - Memory (DJ Mafie Zouker).mp3
+  .mp3  |     7  |  00:05:15  |      192  |  152.98  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\04 - Neo-style (feat. DJ Cronus)\06 - Element (DJ Cronus).mp3
+  .mp3  |     6  |  00:04:54  |      192  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\04 - Neo-style (feat. DJ Cronus)\07 - Wo willst du hin (DJ Mafie Zouker).mp3
+  .mp3  |    13  |  00:05:58  |      320  |   80.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\01 - Mais Que Um Amigo (feat. Aixa).mp3
+  .mp3  |    13  |  00:05:41  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\02 - Mais Que Prazer (feat. Paulo Mac).mp3
+  .mp3  |    14  |  00:06:10  |      320  |   92.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\03 - Foi Facil Saber Que Eu Amo Voce (feat. Alvaro).mp3
+  .mp3  |    11  |  00:05:02  |      320  |   66.10  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\04 - Zouk Fantasy.mp3
+  .mp3  |    10  |  00:04:29  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\05 - Space Odissey (DJ Cronus).mp3
+  .mp3  |    14  |  00:06:16  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\06 - Indian Snaper II.mp3
+  .mp3  |    10  |  00:04:33  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\07 - Destiny (DJ Cronus).mp3
+  .mp3  |    12  |  00:05:39  |      320  |  160.02  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\08 - Shadow.mp3
+  .mp3  |     9  |  00:04:12  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\09 - Dark Angel (DJ Cronus).mp3
+  .mp3  |    14  |  00:06:15  |      320  |   86.15  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\10 - Gregorian Medieval.mp3
+  .mp3  |    11  |  00:05:06  |      320  |  153.60  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\11 - Back to You (DJ Cronus).mp3
+  .mp3  |    12  |  00:05:27  |      320  |   94.57  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\12 - Monument.mp3
+  .mp3  |    10  |  00:04:33  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\13 - Falling (DJ Cronus).mp3
+  .mp3  |    12  |  00:05:24  |      320  |   93.10  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\14 - Disco Lies.mp3
+  .mp3  |    10  |  00:04:29  |      320  |   80.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\05 - Neo\15 - Maris Que Um Amigo (Instrumental) (feat. Aixa).mp3
+  .mp3  |     4  |  00:02:58  |      192  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\01 -  Intro Mais que prazer (feat. Paulo Mac).mp3
+  .mp3  |     7  |  00:05:12  |      192  |   86.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\02 -  Intenções (feat. Paulo Mac).mp3
+  .mp3  |     5  |  00:04:02  |      192  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\03 -  In for the kill (feat. LaRoux).mp3
+  .mp3  |     6  |  00:05:00  |      192  |   81.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\04 -  My immortal (feat. Evanecense Cover).mp3
+  .mp3  |     8  |  00:06:17  |      192  |   90.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\05 -  Cry (feat. Tamara).mp3
+  .mp3  |     5  |  00:03:58  |      192  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\06 -  Progressive.mp3
+  .mp3  |     8  |  00:05:54  |      192  |   92.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\07 -  Whats my name (feat. Rihanna cover).mp3
+  .mp3  |     5  |  00:03:45  |      192  |  154.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\08 -  Fallin (feat. Alicia Keys Cover).mp3
+  .mp3  |     6  |  00:04:55  |      192  |   89.49  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\09 -  Llorar (feat. Tamara).mp3
+  .mp3  |     7  |  00:05:21  |      192  |   93.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\10 -  Breaking the habbit (feat. Linkin Park).mp3
+  .mp3  |     7  |  00:05:24  |      192  |   95.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\11 -  Memories (feat. David Guetta).mp3
+  .mp3  |     8  |  00:06:04  |      192  |   93.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\12 -  Open your eyes.mp3
+  .mp3  |     5  |  00:04:04  |      192  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\13 -  On and on.mp3
+  .mp3  |     6  |  00:05:00  |      192  |   81.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\14 -  My immortal (Instrumental).mp3
+  .mp3  |     5  |  00:04:05  |      192  |   89.48  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\15 -  Llorar (instrumental).mp3
+  .mp3  |     9  |  00:06:49  |      192  |   94.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\06 - The prince of Zouk\16 -  Stereo Love (feat. Edward Maya).mp3
+  .mp3  |     8  |  00:06:18  |      192  |  146.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\07 - News Productions\01 - Promises.mp3
+  .mp3  |     8  |  00:06:14  |      192  |  146.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\07 - News Productions\02 - Tonight... freak `n you.mp3
+  .mp3  |     9  |  00:06:58  |      192  |   93.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\07 - News Productions\03 - Du temps.mp3
+  .mp3  |    11  |  00:04:51  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\07 - News Productions\04 - Passar a noite com voce (feat. Paulo Mac & DJ Kadu Pires).mp3
+  .mp3  |     6  |  00:04:40  |      192  |  142.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\07 - News Productions\05 - Freak you.mp3
+  .mp3  |     8  |  00:04:42  |      256  |  151.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\07 - News Productions\06 - Waterfall (DJ Cronus).mp3
+  .mp3  |     7  |  00:05:10  |      192  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\07 - News Productions\07 - Stagger (DJ Cronus).mp3
+  .mp3  |     6  |  00:04:46  |      192  |   95.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\07 - News Productions\08 - Memories (Instrumental).mp3
+  .mp3  |     7  |  00:05:21  |      192  |   93.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\07 - News Productions\09 - Breaking the habbit (Instrumental).mp3
+  .mp3  |    15  |  00:06:29  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\01 Angel.mp3
+  .mp3  |    13  |  00:05:24  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\02 Anthem.mp3
+  .mp3  |    17  |  00:07:02  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\03 Blue Jeans.mp3
+  .mp3  |    10  |  00:03:56  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\04 Butterfly.mp3
+  .mp3  |    11  |  00:04:37  |      320  |   85.90  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\04 Come And Talk To Me.mp3
+  .mp3  |    12  |  00:04:48  |      320  |   97.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\06 G.u.y.mp3
+  .mp3  |    10  |  00:04:06  |      320  |   93.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\07 Glad U Came.mp3
+  .mp3  |    13  |  00:05:27  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\08 I See Fire (Woman Cover).mp3
+  .mp3  |    13  |  00:05:33  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\09 L See Fire.mp3
+  .mp3  |    13  |  00:05:18  |      320  |   98.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\10 Latin Moon.mp3
+  .mp3  |    15  |  00:06:30  |      320  |  156.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\11 Like Spinning Plates.mp3
+  .mp3  |    16  |  00:06:42  |      320  |   93.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\12 Sky Full For Stars.mp3
+  .mp3  |    18  |  00:07:24  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\08 - Divinity\13 Sweet.mp3
+  .mp3  |    10  |  00:07:18  |      192  |   72.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\01 - Mafie Zouker - Big Sky.mp3
+  .mp3  |     5  |  00:04:00  |      192  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\02 - Mafie Zouker - Acele.mp3
+  .mp3  |     7  |  00:05:07  |      192  |   86.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\03 - Mafie Zouker - Mad world.mp3
+  .mp3  |     7  |  00:05:08  |      192  |   78.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\04 - Mafie Zouker - Sky.mp3
+  .mp3  |     6  |  00:05:01  |      192  |   90.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\05 - Mafie Zouker - Airpile.mp3
+  .mp3  |     6  |  00:04:25  |      192  |   96.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\06 - Mafie Zouker - Raining.mp3
+  .mp3  |     8  |  00:05:57  |      192  |   72.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\07 - Mafie Zouker & Allan Z - Pinnacle.mp3
+  .mp3  |     7  |  00:05:13  |      192  |   85.62  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\08 - Mafie Zouker - The scientist.mp3
+  .mp3  |     6  |  00:04:22  |      192  |   95.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\09 - Mafie Zouker & Paulo Mac - Chorado se foi ( Feat. Loalwa Braz ).mp3
+  .mp3  |    15  |  00:06:43  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\10 - Mafie Zouker - Mercy street.mp3
+  .mp3  |     5  |  00:03:42  |      192  |   95.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\11 - Mafie Zouker & Loalwa Braz - Chorando se foi.mp3
+  .mp3  |     5  |  00:03:50  |      192  |   78.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\09 - Spirit of NEO Volume 1 [2017]\12 - Mafie Zouker - Les invalides.mp3
+  .mp3  |    11  |  00:04:59  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\2015\DJ Mafie Zouker - Divinity (feat. Ive Jamile & Isac Martins & DJ Arkkanjo).mp3
+  .mp3  |     8  |  00:06:08  |      192  |  152.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Aren't Be.mp3
+  .mp3  |     6  |  00:05:06  |      192  |  155.16  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Beson.mp3
+  .mp3  |     5  |  00:04:54  |      160  |  153.30  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Comment Un Fils.mp3
+  .mp3  |     6  |  00:04:42  |      192  |   89.49  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Cry (feat. Rihanna) [2011].mp3
+  .mp3  |     6  |  00:04:23  |      192  |  160.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Don't Keep Me Waiting.mp3
+  .mp3  |     6  |  00:04:48  |      192  |   88.06  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Ewwa2.mp3
+  .mp3  |     6  |  00:05:53  |      160  |  151.11  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Hayling [Long].mp3
+  .mp3  |     8  |  00:05:54  |      192  |   86.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Je Sais Qui Elle Est (feat. Kaysha & Soumia) [UNTRUSTED].mp3
+  .mp3  |     7  |  00:05:14  |      192  |  152.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Juste Un Mot.mp3
+  .mp3  |     9  |  00:04:02  |      320  |  156.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Lady In Red (feat. Chris DeBurgh).mp3
+  .mp3  |     7  |  00:05:48  |      192  |   82.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Love (feat. Clara).mp3
+  .mp3  |     8  |  00:05:57  |      192  |   80.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - More Than A Friend (feat. Aixa).mp3
+  .mp3  |     6  |  00:05:38  |      160  |   88.47  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - My All.mp3
+  .mp3  |     5  |  00:04:42  |      160  |   87.98  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - My Yeah.mp3
+  .mp3  |     5  |  00:06:22  |      128  |  142.63  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - New Song.mp3
+  .mp3  |    12  |  00:05:19  |      320  |   86.16  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Nummer 2 (You).mp3
+  .mp3  |    11  |  00:05:02  |      320  |   80.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Pleure (feat. Outros).mp3
+  .mp3  |     7  |  00:03:51  |      256  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Pra que ficar.mp3
+  .mp3  |     5  |  00:04:40  |      160  |  159.99  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - RDV.mp3
+  .mp3  |     5  |  00:06:02  |      128  |   92.46  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Redemption.mp3
+  .mp3  |     2  |  00:04:38  |        0  |   84.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Sacrifice.mp3
+  .mp3  |    18  |  00:08:06  |      320  |  151.38  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Should I Go.mp3
+  .mp3  |     2  |  00:04:50  |        0  |   83.51  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Softcore.mp3
+  .mp3  |     5  |  00:03:54  |      192  |  150.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - UseB (feat. Elisia).mp3
+  .mp3  |     6  |  00:05:05  |      192  |  155.16  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Wallen (feat. L'Olivier).mp3
+  .mp3  |     2  |  00:04:47  |        0  |  146.02  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - When I close my eyes.mp3
+  .mp3  |    11  |  00:05:12  |      320  |   82.02  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Why.mp3
+  .mp3  |     4  |  00:04:34  |      128  |   90.01  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - Winter on July.mp3
+  .mp3  |     4  |  00:05:25  |      128  |   87.98  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker - With Or Without You.mp3
+  .mp3  |     7  |  00:05:26  |      192  |  156.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker feat. DJ Cronus - Beautifull.mp3
+  .mp3  |     8  |  00:06:07  |      192  |   83.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker feat. DJ Cronus - Castell flow.mp3
+  .mp3  |     4  |  00:04:58  |      128  |  156.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker feat. DJ Cronus - Now or Never (feat. DJ Shah & Aruna).mp3
+  .mp3  |     4  |  00:03:09  |      192  |   92.00  |  d:\Dance\!MUSIC\ZOUK\DJs\DJ Mafie Zouker\OTHER\DJ Mafie Zouker feat. DJ Kadu - ... (feat. Lualva).mp3

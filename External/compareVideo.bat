@@ -1,0 +1,1 @@
+MediaAnalyzer.exe --vdc %1 %2 "videoDurationComparison"

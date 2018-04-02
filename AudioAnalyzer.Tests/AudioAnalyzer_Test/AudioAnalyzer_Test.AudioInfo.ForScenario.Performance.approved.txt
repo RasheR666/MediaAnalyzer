@@ -1,0 +1,20 @@
+﻿   Ext  |  Size  |  Duration  |  Bitrate  |     BPM  |  Name
+  .mp3  |     6  |  00:02:49  |      320  |   92.15  |  d:\Dance\!MUSIC\Для постановок\Mafie Zouker - GUY\Mikhail and Valery. Yekaterinburg. From the point.mp3
+  .mp3  |     5  |  00:04:00  |      192  |   93.01  |  d:\Dance\!MUSIC\Для постановок\Mafie Zouker - Open your eyes\Mafie Zouker - Open your eyes (выступление).mp3
+  .mp3  |     8  |  00:06:04  |      192  |   93.00  |  d:\Dance\!MUSIC\Для постановок\Mafie Zouker - Open your eyes\THE PRINCE OF ZOUK -- 12 -- Mafie Zouker - Open your eyes.mp3
+  .mp3  |     6  |  00:03:31  |      256  |   89.49  |  d:\Dance\!MUSIC\Для постановок\Rihanna - Cry\misha_cry3.mp3
+  .mp3  |     9  |  00:03:56  |      320  |   90.99  |  d:\Dance\!MUSIC\Для постановок\Tinie Tempah - Pass Out\Original mod\01. Pass Out (Radio Edit) (step 0).mp3
+  .mp3  |     8  |  00:03:54  |      320  |   91.00  |  d:\Dance\!MUSIC\Для постановок\Tinie Tempah - Pass Out\Original mod\01. Pass Out (Radio Edit) (step 1).mp3
+  .mp3  |     8  |  00:03:32  |      320  |   90.99  |  d:\Dance\!MUSIC\Для постановок\Tinie Tempah - Pass Out\Original mod\01. Pass Out (Radio Edit) (step 2).mp3
+  .mp3  |     7  |  00:03:22  |      320  |   90.99  |  d:\Dance\!MUSIC\Для постановок\Tinie Tempah - Pass Out\Original mod\01. Pass Out (Radio Edit) (step 3).mp3
+  .mp3  |     7  |  00:03:22  |      320  |   90.99  |  d:\Dance\!MUSIC\Для постановок\Tinie Tempah - Pass Out\Original mod\01. Pass Out (Radio Edit) (step 4).mp3
+  .mp3  |     7  |  00:03:11  |      320  |   90.99  |  d:\Dance\!MUSIC\Для постановок\Tinie Tempah - Pass Out\Original mod\01. Pass Out (Radio Edit) (step 5).mp3
+  .mp3  |     6  |  00:03:01  |      320  |   90.99  |  d:\Dance\!MUSIC\Для постановок\Tinie Tempah - Pass Out\Original mod\01. Pass Out (Radio Edit) (step 6).mp3
+  .mp3  |     6  |  00:02:50  |      320  |   90.98  |  d:\Dance\!MUSIC\Для постановок\Tinie Tempah - Pass Out\Original mod\01. Pass Out (Radio Edit) (step 7).mp3
+  .mp3  |     7  |  00:03:06  |      320  |   85.02  |  d:\Dance\!MUSIC\Для постановок\Отчетник\2015 - Summer\01 - Prazer a dois (step 9) ver 2.mp3
+  .mp3  |     7  |  00:03:27  |      320  |  153.01  |  d:\Dance\!MUSIC\Для постановок\Отчетник\2015 - Summer\01 - Prazer a dois (step 9) ver 3 [90perc].mp3
+  .mp3  |     7  |  00:03:07  |      320  |   85.01  |  d:\Dance\!MUSIC\Для постановок\Отчетник\2015 - Summer\01 - Prazer a dois (step 9) ver 3.mp3
+  .mp3  |     8  |  00:03:30  |      320  |   85.00  |  d:\Dance\!MUSIC\Для постановок\Отчетник\2015 - Summer\01 - Prazer a dois. FINAL EDITION.mp3
+  .mp3  |     9  |  00:04:02  |      320  |   85.00  |  d:\Dance\!MUSIC\Для постановок\Отчетник\2015 - Summer\01 - Prazer a dois.mp3
+  .mp3  |     7  |  00:03:19  |      320  |  140.00  |  d:\Dance\!MUSIC\Для постановок\Отчетник\Well Assis - Brigas\Well Assis - Brigas (На отчетник).mp3
+  .mp3  |     8  |  00:03:42  |      320  |  140.00  |  d:\Dance\!MUSIC\Для постановок\Отчетник\Well Assis - Brigas\Well Assis - BRIGAS.mp3

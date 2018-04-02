@@ -1,0 +1,39 @@
+﻿Resolution  |  Video  |  Audio  |  Size  |  Duration  |  Name
+
+   640x480  |   1127  |      0  |    31  |  00:03:39  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-03-12 - Freddy Marinho & Andressa Castelhano\2011 03 12 - Freddy Marinho  Andressa Castelhano - Samba de Gafieira.flv
+   640x480  |   1135  |      0  |    43  |  00:04:55  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-03-12 - Freddy Marinho & Andressa Castelhano\2011 03 12 - Freddy Marinho  Andressa Castelhano - zouk.flv
+
+   720x480  |   1127  |    128  |     0  |  00:00:05  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 133330.flv
+   720x480  |   1149  |    129  |     2  |  00:00:16  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 133707.flv
+   720x480  |   1127  |    127  |     1  |  00:00:11  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 133839.flv
+   720x480  |   1169  |    128  |     1  |  00:00:08  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 134144.flv
+   720x480  |   1165  |    128  |     1  |  00:00:08  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 135446.flv
+   720x480  |    986  |    128  |     2  |  00:00:21  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 135935.flv
+   720x480  |   1110  |    129  |     5  |  00:00:37  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 140527.flv
+   720x480  |   1137  |    129  |     2  |  00:00:17  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 140857.flv
+   720x480  |   1020  |    129  |    12  |  00:01:31  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 143144.flv
+   720x480  |   1048  |    128  |    11  |  00:01:18  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 144121.flv
+   720x480  |   1149  |    128  |     2  |  00:00:16  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 144758.flv
+   720x480  |   1156  |    128  |     3  |  00:00:20  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 145243.flv
+   720x480  |   1156  |    127  |     2  |  00:00:15  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 151003.flv
+   720x480  |   1141  |    129  |     6  |  00:00:41  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 151708.flv
+   720x480  |   1122  |    128  |     4  |  00:00:33  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 152404.flv
+   720x480  |   1073  |    129  |     9  |  00:01:04  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 152733.flv
+   720x480  |   1148  |    129  |    16  |  00:01:48  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 153233.flv
+   720x480  |   1130  |    129  |    18  |  00:02:00  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 154925.flv
+   720x480  |   1165  |    128  |     4  |  00:00:28  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 155600.flv
+   720x480  |   1144  |    130  |     1  |  00:00:08  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 14 27 34.flv
+   720x480  |   1038  |    129  |    21  |  00:02:33  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 14 31 15.flv
+   720x480  |    970  |    123  |     0  |  00:00:04  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 14 39 52.flv
+   720x480  |   1141  |    129  |     4  |  00:00:32  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 14 50 29.flv
+   720x480  |   1151  |    128  |     7  |  00:00:51  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 14 54 33.flv
+   720x480  |   1151  |    129  |    12  |  00:01:20  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 14 57 49.flv
+   720x480  |   1021  |    128  |     5  |  00:00:42  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 15 27 24.flv
+   720x480  |   1161  |    128  |     3  |  00:00:23  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 15 32 58.flv
+   720x480  |   1138  |    128  |     2  |  00:00:17  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 15 36 01.flv
+   720x480  |   1163  |    128  |     1  |  00:00:09  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 15 39 00.flv
+   720x480  |   1141  |    128  |     8  |  00:00:53  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 15 43 20.flv
+   720x480  |   1044  |    128  |    10  |  00:01:15  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 15 46 46.flv
+   720x480  |   1159  |    129  |    13  |  00:01:26  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 15 51 31.flv
+   720x480  |   1149  |    128  |     2  |  00:00:19  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 16 01 14.flv
+   720x480  |   1125  |    128  |     3  |  00:00:20  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 16 27 57.flv

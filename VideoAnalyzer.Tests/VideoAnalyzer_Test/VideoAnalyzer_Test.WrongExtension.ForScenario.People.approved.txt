@@ -1,0 +1,18 @@
+﻿Resolution  |  Video  |  Audio  |  Size  |  Duration  |  Name
+
+   426x240  |      0  |    270  |     3  |  00:01:23  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\Bruno Galhardo zouk workshop in DC zouk festival.webm
+   426x240  |      0  |    270  |     7  |  00:03:05  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Zouk Workshop.webm
+
+   320x240  |    257  |      0  |     8  |  00:03:46  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - HKSF 2009.flv
+
+   640x480  |   1032  |      0  |    29  |  00:03:39  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Suellen Violante - zouk 2011.flv
+   640x480  |    693  |      0  |    20  |  00:03:38  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Vanessa - zouk 2010.flv
+   640x480  |   1159  |      0  |    11  |  00:01:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\Kamacho & Grace - zouk 2011.flv
+
+   854x480  |   1002  |    129  |    23  |  00:02:53  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho & Vanessa - Gravity.flv
+
+   320x240  |    251  |      0  |    10  |  00:04:49  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\show\Mafie Zouker & Larissa - Sydney Salsa Congress.flv
+
+   640x480  |    960  |    129  |    12  |  00:01:38  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Anastasiia Nedobytkina - Zouk and Contact Improvization (Minsk).flv
+
+   320x240  |    258  |      0  |    12  |  00:04:46  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\show\Wakko & Ju.flv

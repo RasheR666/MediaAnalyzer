@@ -1,0 +1,106 @@
+﻿Resolution  |  Video  |  Audio  |  Size  |  Duration  |  Name
+
+   720x576  |   2000  |    106  |    52  |  00:03:28  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Carlos & Lenka. Advanced\Enrosca encantado.mp4
+   720x576  |   2014  |    106  |    44  |  00:02:56  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Carlos & Lenka. Advanced\Espiral de frente com cambre da dama.mp4
+   720x576  |   2017  |    108  |    32  |  00:02:06  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Carlos & Lenka. Advanced\Gafieira.mp4
+   720x576  |   2010  |    107  |    52  |  00:03:26  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Carlos & Lenka. Advanced\Ilusao.mp4
+   720x576  |   2017  |    105  |    38  |  00:02:30  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Carlos & Lenka. Advanced\Io-io com relogio.mp4
+   720x576  |   2026  |    110  |    41  |  00:02:43  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Carlos & Lenka. Advanced\Lateral com giro torcido da dama.mp4
+   720x576  |   2004  |    108  |    56  |  00:03:44  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Carlos & Lenka. Advanced\Torsao do homem e cambre da dama.mp4
+
+   768x576  |   1959  |    320  |  1432  |  01:27:00  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Gilson & Natashа Brazilian Zouk.avi
+
+   960x720  |   1500  |    128  |    41  |  00:03:19  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\01 - Bonus with variation.mp4
+   960x720  |   1500  |    128  |    47  |  00:03:49  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\02 - Bonus with turn and return.mp4
+   960x720  |   1500  |    128  |    55  |  00:04:27  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\03 - Lunge variation.mp4
+   960x720  |   1500  |    128  |    55  |  00:04:27  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\04 - Lunge turn return option 2.mp4
+   960x720  |   1500  |    128  |    47  |  00:03:48  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\05 - One arm turn variation.mp4
+
+  1280x720  |   1500  |    128  |    66  |  00:05:19  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\06 - Raul variation.mp4
+
+   960x720  |   1500  |    128  |    43  |  00:03:29  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\07 - Simple turn option 2.mp4
+   960x720  |   1500  |    128  |    55  |  00:04:27  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\08 - Io Io changing direction.mp4
+   960x720  |   1500  |    128  |    96  |  00:07:48  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\09 - Lateral with 'S' forwards.mp4
+   960x720  |   1500  |    128  |    63  |  00:05:04  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg 2\10 - Viradinha changing direction.mp4
+
+   854x480  |    800  |      0  |    36  |  00:05:15  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 01 - Basic.mp4
+   854x480  |    800  |      0  |    41  |  00:06:06  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 02 - Basic Front&Back.mp4
+   854x480  |    800  |      0  |    56  |  00:08:16  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 03 - Lateral.mp4
+   854x480  |    800  |      0  |    41  |  00:05:58  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 04 - Simple Turn.mp4
+   854x480  |    800  |      0  |    53  |  00:07:44  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 05 - One arm turn.mp4
+   854x480  |    800  |      0  |    40  |  00:05:49  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 06 - Io-Io.mp4
+   854x480  |    800  |      0  |    56  |  00:08:12  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 07 - Viradinha.mp4
+   854x480  |    800  |      0  |    39  |  00:05:42  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 08 - Lunge.mp4
+   854x480  |    800  |      0  |    56  |  00:08:15  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 09 - Rau.mp4
+   854x480  |    800  |      0  |    56  |  00:08:13  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 10 - Lunge Turn&Return.mp4
+   854x480  |    800  |      0  |    51  |  00:07:26  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 11 - Bonus.mp4
+   854x480  |    800  |      0  |    33  |  00:04:53  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Beg\Zouk Beg Lesson 12 - Bonus Opposite Side.mp4
+   854x480  |    800  |      0  |    38  |  00:05:35  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 1.mp4
+   854x480  |    800  |      0  |    63  |  00:09:13  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 10.mp4
+   854x480  |    800  |      0  |    52  |  00:07:35  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 11.mp4
+   854x480  |    800  |      0  |    58  |  00:08:27  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 12.mp4
+   854x480  |    800  |      0  |    51  |  00:07:29  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 2.mp4
+   854x480  |    800  |      0  |    47  |  00:06:53  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 3.mp4
+   854x480  |    800  |      0  |    62  |  00:09:07  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 4.mp4
+   854x480  |    800  |      0  |    77  |  00:11:20  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 5.mp4
+   854x480  |    800  |      0  |    35  |  00:05:01  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 6.mp4
+   854x480  |    800  |      0  |    42  |  00:06:11  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 7.mp4
+   854x480  |    800  |      0  |    64  |  00:09:24  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 8.mp4
+   854x480  |    800  |      0  |    42  |  00:06:06  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Kadu & Larissa Online Classes. Int\Zouk Int Lesson 9.mp4
+
+   720x480  |   1891  |    126  |    60  |  00:04:11  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Alex Gomes & Mirna Mendes. Advanced.mp4
+   720x480  |   1875  |    126  |    52  |  00:03:38  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Alex Gomes & Mirna Mendes. Beginners.mp4
+   720x480  |   1883  |    126  |    57  |  00:03:59  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Bruno Arkkanjo & Diana Werneck. Advanced.mp4
+   720x480  |   1845  |    126  |    35  |  00:02:30  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Bruno Arkkanjo & Diana Werneck. Intermediate.mp4
+   720x480  |   1852  |    126  |    42  |  00:02:59  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Carlos & Fernanda da Silva. Beginners.mp4
+   720x480  |   1832  |    126  |    32  |  00:02:19  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Carlos & Fernanda da Silva. Intermediate.mp4
+   720x480  |   1836  |    126  |    37  |  00:02:40  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Carlos & Fernanda da Silva. Master class.mp4
+   720x480  |   1837  |    126  |    32  |  00:02:18  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\China. Beginners.mp4
+   720x480  |   1812  |    126  |    24  |  00:01:44  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\China. Master class.mp4
+   720x480  |   1838  |    126  |    35  |  00:02:30  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Dario Dias & Elaine Pereira. Advanced.mp4
+   720x480  |   1774  |    125  |    17  |  00:01:15  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Dario Dias & Elaine Pereira. Intermediate.mp4
+   720x480  |   1800  |    126  |    24  |  00:01:44  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Fernando Martins & Milena Rocha. Advanced.mp4
+   720x480  |   1779  |    125  |    15  |  00:01:09  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Flavio Cszouker & Carolina Dias. Advanced.mp4
+   720x480  |   1898  |    126  |    68  |  00:04:45  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Freddy Marinho & Andressa Castelhano. Intermediate.mp4
+   720x480  |   1837  |    126  |    33  |  00:02:22  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Gilson Damasco & Natasha Terekina. Advanced.mp4
+   720x480  |   1897  |    126  |    71  |  00:04:54  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Gilson Damasco & Natasha Terekina. Beginners.mp4
+   720x480  |   1853  |    126  |    42  |  00:03:00  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Gilson Damasco & Natasha Terekina. Master class.mp4
+   720x480  |   1902  |    126  |    73  |  00:05:02  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Jefferson Dadinho & Aline Cleto. Advanced.mp4
+   720x480  |   1909  |    126  |    82  |  00:05:40  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Jefferson Dadinho & Aline Cleto. Intermediate.mp4
+   720x480  |   1848  |    126  |    37  |  00:02:39  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Joe & Kika. Intermediate.mp4
+   720x480  |   1840  |    126  |    39  |  00:02:49  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Jorge Peres & Renata Pecanha. Advanced.mp4
+   720x480  |   1823  |    126  |    34  |  00:02:28  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Jorge Peres & Renata Pecanha. Intermadiate.mp4
+   720x480  |   1747  |    117  |    89  |  00:06:43  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Jorge Peres & Vanessa Rodrigues. Advanced.mp4
+   720x480  |   1864  |    126  |    44  |  00:03:06  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Jorge Peres & Vanessa Rodrigues. Beginners.mp4
+   720x480  |   1808  |    126  |    22  |  00:01:37  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Leo & Becky Neves. Master class.mp4
+   720x480  |   1847  |    126  |    31  |  00:02:13  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Leonardo Bruno & Romina Hidalgo. Advanced.mp4
+   720x480  |   1805  |    125  |    18  |  00:01:22  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Leonardo Bruno & Romina Hidalgo. Master class.mp4
+   720x480  |   1832  |    126  |    31  |  00:02:16  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Lidio Freitas & Monique Marculano. Advanced.mp4
+   720x480  |   1785  |    125  |    19  |  00:01:24  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Lidio Freitas & Monique Marculano. Beginners.mp4
+   720x480  |   1873  |    126  |    59  |  00:04:09  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Luis Floriao & Adriana Darci. Beginners.mp4
+   720x480  |   1887  |    126  |    60  |  00:04:11  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Luis Floriao & Adriana Darci. Master class.mp4
+   720x480  |   1849  |    126  |    46  |  00:03:15  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Marcelo Bal & Dana Daniela. Intermediate.mp4
+   720x480  |   1826  |    126  |    36  |  00:02:35  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Marcelo Bal & Dana Daniela. Master class.mp4
+   720x480  |   1872  |    126  |    53  |  00:03:46  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Philip Miha & Sandrine Gasques. Beginners.mp4
+   720x480  |   1902  |    126  |    77  |  00:05:19  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Philip Miha & Sandrine Gasques. Intermediate.mp4
+   720x480  |   1898  |    126  |    65  |  00:04:32  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Philip Miha & Sandrine Gasques. Master class.mp4
+   720x480  |   1798  |    126  |    21  |  00:01:33  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Rafael Oliveira & Juliana Magalhaes. Intermediate.mp4
+   720x480  |   1808  |    126  |    22  |  00:01:38  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Rafael Oliveira & Juliana Magalhaes. Master class.mp4
+   720x480  |   1830  |    126  |    34  |  00:02:26  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Rodgiro & Rachel Ramalho. Advanced.mp4
+   720x480  |   1827  |    126  |    31  |  00:02:13  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Rodgiro & Rachel Ramalho. Beginners.mp4
+   720x480  |   1833  |    126  |    34  |  00:02:27  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Rodrigo Delano & Ruana Vasques. Intermediate.mp4
+   720x480  |   1847  |    126  |    38  |  00:02:43  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Rodrigo Delano & Ruana Vasques. Master class.mp4
+   720x480  |   1847  |    126  |    32  |  00:02:16  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\Val Clemente & Thayna Trovick. Advanced.mp4
+   720x480  |   1833  |    126  |    31  |  00:02:15  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\William Texeira & Paloma Alves. Beginners.mp4
+   720x480  |   1878  |    126  |    52  |  00:03:40  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Rio zouk congress 2015\William Texeira & Paloma Alves. Master class.mp4
+
+  1280x720  |   2505  |    128  |    26  |  00:01:23  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Xandi Liberato Zouk Training 1\01.mp4
+  1280x720  |   2499  |    128  |    85  |  00:04:32  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Xandi Liberato Zouk Training 1\02.mp4
+  1280x720  |   2499  |    128  |    73  |  00:03:54  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Xandi Liberato Zouk Training 1\03.mp4
+  1280x720  |   2500  |    128  |   142  |  00:07:32  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Xandi Liberato Zouk Training 1\04.mp4
+  1280x720  |   2500  |    128  |   152  |  00:08:05  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Xandi Liberato Zouk Training 1\05.mp4
+  1280x720  |   2500  |    128  |   144  |  00:07:40  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Xandi Liberato Zouk Training 1\06.mp4
+  1280x720  |   2500  |    128  |   155  |  00:08:14  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Xandi Liberato Zouk Training 1\07.mp4
+  1280x720  |   2500  |    128  |   161  |  00:08:34  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Xandi Liberato Zouk Training 1\08.mp4
+  1280x720  |   2500  |    128  |   189  |  00:10:05  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Xandi Liberato Zouk Training 1\09.mp4
+  1280x720  |      0  |   1054  |    64  |  00:07:55  |  d:\Dance\!VIDEO\!ZOUK\!DISCs\Zouk Basic From Kamacho.mp4

@@ -1,0 +1,200 @@
+﻿Resolution  |  Video  |  Audio  |  Size  |  Duration  |  Name
+
+   640x480  |   2500  |      0  |   243  |  00:13:06  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2012-12-22 Wakko & Masha (Misha & Sasha)\01.mp4
+   640x480  |   2000  |    192  |    30  |  00:01:57  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\01 beija-flor.mp4
+   640x480  |   2000  |    192  |    51  |  00:03:18  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\02 beija-flor.mp4
+   640x480  |   2000  |    192  |    34  |  00:02:10  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\03 beija-flor.mp4
+   640x480  |   2000  |    192  |    31  |  00:01:58  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\04 turn with head and casa comigo.mp4
+   640x480  |   2000  |    192  |    76  |  00:04:53  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\05 bonuses.mp4
+   640x480  |   2000  |    192  |    75  |  00:04:48  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\06 turn with head.mp4
+   640x480  |   2000  |    192  |    37  |  00:02:23  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\07 plane.mp4
+   640x480  |   2000  |    192  |    38  |  00:02:27  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\08 bamboleo in shadow.mp4
+   640x480  |   2000  |    192  |    25  |  00:01:37  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\09 suicido.mp4
+   640x480  |   2000  |    192  |    11  |  00:00:43  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\10 head.mp4
+   640x480  |   2000  |    192  |    12  |  00:00:46  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\11 chicotes.mp4
+   640x480  |   2000  |    192  |     9  |  00:00:37  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\12 chicotes.mp4
+   640x480  |   2000  |    192  |    13  |  00:00:51  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\13 double cambre turn.mp4
+   640x480  |   2000  |    192  |    35  |  00:02:13  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\14 double cambre turn.mp4
+   640x480  |   2000  |    192  |     8  |  00:00:33  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\15 hands.mp4
+   640x480  |   2000  |    192  |     3  |  00:00:14  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\16 head.mp4
+   640x480  |   2000  |    192  |    48  |  00:03:06  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\17 beija-flor.mp4
+   640x480  |   2000  |    192  |    36  |  00:02:17  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\18 viradinha unlimited.mp4
+   640x480  |   2000  |    192  |     3  |  00:00:12  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\19 cambre.mp4
+   640x480  |   2000  |    192  |     1  |  00:00:05  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\20 cambre.mp4
+   640x480  |   2000  |    192  |    23  |  00:01:31  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\21 leke simple.mp4
+   640x480  |   2000  |    192  |    29  |  00:01:54  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\22 bonus with mans turn.mp4
+   640x480  |   2000  |    192  |    51  |  00:03:15  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-03-09 Wakko & Masha (Andrei & Sasha & Veronika)\23 rabada.mp4
+   640x480  |   2500  |    128  |   570  |  00:30:15  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-04-13 Wakko & Olya (Andrei & Veronika)\part1.mp4
+   640x480  |   2500  |    128  |   661  |  00:35:05  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-04-13 Wakko & Olya (Andrei & Veronika)\part2.mp4
+
+  1280x720  |   2500  |    128  |    65  |  00:03:27  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\00 hand flick.mp4
+  1280x720  |   2500  |    128  |   101  |  00:05:24  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\01 cambre hands.mp4
+  1280x720  |   2500  |    128  |    88  |  00:04:40  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\02 bonus cross.mp4
+  1280x720  |   2499  |    127  |    35  |  00:01:52  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\03 hips.mp4
+  1280x720  |   2500  |    128  |   103  |  00:05:28  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\04 flow.mp4
+  1280x720  |   2500  |    128  |   100  |  00:05:19  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\05 head.mp4
+  1280x720  |   2500  |    128  |   100  |  00:05:20  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\06 chicotes.mp4
+  1280x720  |   2500  |    128  |    43  |  00:02:19  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\07 basic step.mp4
+  1280x720  |   2500  |    127  |    37  |  00:02:00  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\08 lady style.mp4
+  1280x720  |   2498  |    128  |    15  |  00:00:49  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\09 errors.mp4
+  1280x720  |   2500  |    118  |    88  |  00:04:43  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\10 dance.mp4
+  1280x720  |   2500  |    127  |    36  |  00:01:55  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\11 errors2.mp4
+  1280x720  |   2500  |    128  |   118  |  00:06:17  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\12 turbulencia.mp4
+  1280x720  |   2500  |    128  |   159  |  00:08:26  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Andrey & Lera\13 turns helicopter.mp4
+
+   640x480  |   2501  |      0  |   105  |  00:05:39  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\demo zouk3.mp4
+   640x480  |   2500  |    127  |    47  |  00:02:30  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\demo zouk4.mp4
+   640x480  |   2503  |      0  |    15  |  00:00:50  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\dolphin vs chicotes.mp4
+   640x480  |   2500  |      0  |   208  |  00:11:13  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Misha & Sasha\00 bonus turns rabada.mp4
+
+  1280x720  |   2500  |      0  |    78  |  00:04:14  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Misha & Sasha\01 rabada head.mp4
+  1280x720  |   2499  |      0  |    79  |  00:04:16  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Misha & Sasha\02 head.mp4
+  1280x720  |   2500  |      0  |    49  |  00:02:40  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Misha & Sasha\03 cambre.mp4
+  1280x720  |   2500  |      0  |    49  |  00:02:38  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Misha & Sasha\04 balao apagado.mp4
+  1280x720  |   2500  |      0  |   127  |  00:06:52  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Misha & Sasha\05 one leg turn & man style.mp4
+  1280x720  |   2500  |      0  |    87  |  00:04:41  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Misha & Sasha\06 wave frame contact.mp4
+  1280x720  |   2499  |      0  |    18  |  00:01:00  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Misha & Sasha\07.mp4
+  1280x720  |   2500  |      0  |   110  |  00:05:55  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\Misha & Sasha\08 dance critique.mp4
+
+   640x480  |   2501  |    113  |    65  |  00:03:30  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2013-11-29 Wakko (Misha & Sasha & Andrei & Lera)\misha cry.mp4
+
+  1280x720  |   2500  |      0  |    85  |  00:04:37  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04298.mp4
+  1280x720  |   2500  |      0  |   200  |  00:10:49  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04299.mp4
+  1280x720  |   2500  |      0  |    29  |  00:01:35  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04300.mp4
+  1280x720  |   2499  |      0  |    36  |  00:01:57  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04302.mp4
+  1280x720  |   2500  |      0  |   218  |  00:11:45  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04304.mp4
+  1280x720  |   2501  |      0  |    41  |  00:02:14  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04305.mp4
+  1280x720  |   2500  |      0  |    72  |  00:03:54  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04306.mp4
+  1280x720  |   2501  |      0  |    88  |  00:04:45  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04308.mp4
+  1280x720  |   2500  |      0  |   194  |  00:10:29  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04309.mp4
+  1280x720  |   2501  |      0  |    48  |  00:02:36  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04311.mp4
+  1280x720  |   2500  |      0  |   181  |  00:09:45  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04312.mp4
+  1280x720  |   2503  |      0  |     9  |  00:00:29  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04313.mp4
+  1280x720  |   2500  |      0  |    17  |  00:00:56  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04316.mp4
+  1280x720  |   2501  |      0  |    35  |  00:01:54  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Aline (Misha & Lera)\MOV04317.mp4
+  1280x720  |   2500  |    126  |     6  |  00:00:21  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Dadinho (Misha & Lera)\01_wakko.mp4
+  1280x720  |   2501  |    128  |    86  |  00:04:36  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Dadinho (Misha & Lera)\02_misha dance.mp4
+  1280x720  |   2500  |    124  |   164  |  00:08:44  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Dadinho (Misha & Lera)\03_lamba tradicional modern.mp4
+  1280x720  |   2500  |    124  |   561  |  00:29:50  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Dadinho (Misha & Lera)\04_leading.mp4
+  1280x720  |   2500  |    119  |   129  |  00:06:52  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Dadinho (Misha & Lera)\05_talk.mp4
+  1280x720  |   2500  |    116  |    73  |  00:03:54  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Dadinho (Misha & Lera)\06_homework.mp4
+  1280x720  |   2501  |    121  |    86  |  00:04:34  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-15 Dadinho (Misha & Lera)\07_bad lera.mp4
+  1280x720  |   2499  |      0  |    17  |  00:00:57  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\01.mp4
+  1280x720  |   2493  |      0  |     8  |  00:00:28  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\02.mp4
+  1280x720  |   2500  |      0  |    95  |  00:05:09  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\03 dance.mp4
+  1280x720  |   2500  |      0  |    26  |  00:01:27  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\04 stay close.mp4
+  1280x720  |   2500  |      0  |    60  |  00:03:14  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\05.mp4
+  1280x720  |   2499  |      0  |    29  |  00:01:34  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\06.mp4
+  1280x720  |   2500  |      0  |    30  |  00:01:38  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\07.mp4
+  1280x720  |   2500  |      0  |    99  |  00:05:21  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\08 cambre up.mp4
+  1280x720  |   2500  |      0  |    27  |  00:01:28  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\09 touch not only hands.mp4
+  1280x720  |   2499  |      0  |   104  |  00:05:37  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\10 leading.mp4
+  1280x720  |   2500  |      0  |    95  |  00:05:08  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\11.mp4
+  1280x720  |   2502  |      0  |    21  |  00:01:11  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\12.mp4
+  1280x720  |   2497  |      0  |    10  |  00:00:34  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\13.mp4
+  1280x720  |   2499  |      0  |    40  |  00:02:11  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\14 alco with and without head.mp4
+  1280x720  |   2501  |      0  |    41  |  00:02:14  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\15.mp4
+  1280x720  |   2500  |      0  |   112  |  00:06:06  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\16.mp4
+  1280x720  |   2500  |      0  |    38  |  00:02:03  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\17 skin.mp4
+  1280x720  |   2500  |      0  |    70  |  00:03:49  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-06-17 Bruno (Sergei & Lera)\18.mp4
+  1280x720  |   2500  |    121  |   315  |  00:16:46  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-07-17 Bruno (Sergei & Lera)\00.mp4
+  1280x720  |   2500  |    124  |   118  |  00:06:18  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-07-17 Bruno (Sergei & Lera)\01.mp4
+  1280x720  |   2500  |    122  |   188  |  00:10:00  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-07-17 Bruno (Sergei & Lera)\02.mp4
+  1280x720  |   2499  |    122  |   129  |  00:06:52  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-07-17 Bruno (Sergei & Lera)\03.mp4
+  1280x720  |   2500  |    116  |   162  |  00:08:39  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-07-17 Bruno (Sergei & Lera)\04 hand over head.mp4
+  1280x720  |   2500  |    119  |    56  |  00:03:02  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-07-17 Bruno (Sergei & Lera)\05.mp4
+  1280x720  |   2498  |    121  |    21  |  00:01:09  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-07-17 Bruno (Sergei & Lera)\06.mp4
+  1280x720  |   2499  |    122  |    29  |  00:01:34  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-07-17 Bruno (Sergei & Lera)\07.mp4
+  1280x720  |   2495  |    109  |     5  |  00:00:16  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-08-08 Wakko & Masha (Misha & Sasha)\01.mp4
+  1280x720  |   2495  |    124  |     5  |  00:00:16  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-08-08 Wakko & Masha (Misha & Sasha)\02.mp4
+  1280x720  |   2500  |    123  |   561  |  00:29:50  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-08-08 Wakko & Masha (Misha & Sasha)\03.mp4
+  1280x720  |   2500  |    124  |   474  |  00:25:13  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-08-08 Wakko & Masha (Misha & Sasha)\04.mp4
+  1280x720  |   2500  |    120  |    30  |  00:01:36  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-08-08 Wakko & Masha (Misha & Sasha)\05.mp4
+  1280x720  |   2500  |    123  |   151  |  00:08:03  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-08-08 Wakko & Masha (Misha & Sasha)\06.mp4
+  1280x720  |   2498  |    123  |    22  |  00:01:11  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-08-08 Wakko & Masha (Misha & Sasha)\07.mp4
+  1280x720  |   2500  |      0  |   236  |  00:12:46  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\01.mp4
+  1280x720  |   2502  |      0  |    30  |  00:01:39  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\02 base and style.mp4
+  1280x720  |   2501  |      0  |     9  |  00:00:31  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\03.mp4
+  1280x720  |   2500  |      0  |    36  |  00:01:59  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\04 steps.mp4
+  1280x720  |   2500  |      0  |   170  |  00:09:12  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\05.mp4
+  1280x720  |   2500  |      0  |    66  |  00:03:34  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\06 turns.mp4
+  1280x720  |   2500  |      0  |   182  |  00:09:52  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\07 chicotes.mp4
+  1280x720  |   2500  |      0  |    59  |  00:03:14  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\08 turn & counterbalance.mp4
+  1280x720  |   2500  |      0  |   176  |  00:09:32  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\09 head teaching.mp4
+  1280x720  |   2500  |      0  |    48  |  00:02:36  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2014-12-12 Wakko & Masha (Misha & Lera)\10 head.mp4
+  1280x720  |   2000  |    138  |   282  |  00:18:23  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-03-28 Mafie Zouker (Misha)\01.mp4
+  1280x720  |   2000  |    132  |   457  |  00:29:50  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-03-28 Mafie Zouker (Misha)\02.mp4
+  1280x720  |   2000  |    132  |   150  |  00:09:46  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-03-28 Mafie Zouker (Misha)\03.mp4
+  1280x720  |   2000  |    141  |   161  |  00:10:29  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-03-28 Mafie Zouker (Misha)\04 Lera & hiphop.mp4
+  1280x720  |   2000  |      0  |    61  |  00:04:05  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-06-14 Wakko & Masha (Misha & Olya)\01 - Turn with head for shoulder.mp4
+  1280x720  |   2062  |      0  |    73  |  00:04:43  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-06-14 Wakko & Masha (Misha & Olya)\02 - Good leading.mp4
+  1280x720  |   2000  |      0  |    18  |  00:01:12  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-06-14 Wakko & Masha (Misha & Olya)\03 - Good leading 2.mp4
+  1280x720  |   2500  |    152  |  1094  |  00:57:36  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-08-13 Bruno (Sergei & Anna)\MOV_0159_x264.mp4
+  1280x720  |   2500  |    128  |   413  |  00:21:55  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-12-13 Jorge & Jessica (Misha & Lera)\MAH00053.mp4
+  1280x720  |   2500  |    128  |   114  |  00:06:01  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-12-13 Jorge & Jessica (Misha & Lera)\MAH00054.mp4
+  1280x720  |   2500  |    122  |    55  |  00:02:57  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-12-13 Jorge & Jessica (Misha & Lera)\MAH00055.mp4
+  1280x720  |   2500  |    115  |   125  |  00:06:40  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2015-12-13 Jorge & Jessica (Misha & Lera)\MAH00056.mp4
+  1280x720  |   2500  |    128  |   108  |  00:05:44  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02821.mp4
+  1280x720  |   2500  |    128  |    77  |  00:04:05  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02822.mp4
+  1280x720  |   2500  |    126  |    18  |  00:00:56  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02823.mp4
+  1280x720  |   2500  |    128  |    45  |  00:02:26  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02824.mp4
+  1280x720  |   2500  |    128  |    91  |  00:04:47  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02825.mp4
+  1280x720  |   2500  |    128  |    71  |  00:03:48  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02826.mp4
+  1280x720  |   2500  |    127  |    56  |  00:03:00  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02827.mp4
+  1280x720  |   2500  |    128  |   102  |  00:05:27  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02828.mp4
+  1280x720  |   2500  |    128  |   138  |  00:07:20  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02829.mp4
+  1280x720  |   2500  |    128  |   137  |  00:07:14  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02830.mp4
+  1280x720  |   2500  |    128  |    53  |  00:02:49  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02831.mp4
+  1280x720  |   2500  |    127  |    36  |  00:01:56  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02832.mp4
+  1280x720  |   2500  |    128  |    95  |  00:05:01  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02833.mp4
+  1280x720  |   2500  |    127  |    32  |  00:01:44  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02834.mp4
+  1280x720  |   2500  |    128  |    33  |  00:01:44  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02835.mp4
+  1280x720  |   2500  |    127  |    53  |  00:02:50  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-08-12 William (Misha & Andrei & Gulya & Lera)\MAH02836.mp4
+  1280x720  |   2500  |    128  |   190  |  00:10:09  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-10-30 Leo & Becky (Misha & Lera)\MAH03171.mp4
+  1280x720  |   2500  |    128  |    23  |  00:01:13  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-10-30 Leo & Becky (Misha & Lera)\MAH03172.mp4
+  1280x720  |   2500  |    126  |     9  |  00:00:29  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-10-30 Leo & Becky (Misha & Lera)\MAH03173.mp4
+  1280x720  |   2500  |    128  |   214  |  00:11:22  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-10-30 Leo & Becky (Misha & Lera)\MAH03174.mp4
+  1280x720  |   2500  |    128  |    69  |  00:03:42  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-10-30 Leo & Becky (Misha & Lera)\MAH03175.mp4
+  1280x720  |   2500  |    126  |    14  |  00:00:46  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-10-30 Leo & Becky (Misha & Lera)\MAH03176.mp4
+  1280x720  |   2500  |    128  |   255  |  00:13:32  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-10-30 Leo & Becky (Misha & Lera)\MAH03177.mp4
+  1280x720  |   2500  |    127  |    26  |  00:01:22  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2016-10-30 Leo & Becky (Misha & Lera)\MAH03178.mp4
+  1280x720  |   2500  |    128  |   563  |  00:29:50  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-03-17 William & Paloma (Andrey)\MAH02016.mp4
+  1280x720  |   2500  |    128  |   459  |  00:24:22  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-03-19 William & Paloma (Misha & Lera)\MAH03981.mp4
+  1280x720  |   2500  |    128  |   129  |  00:06:49  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-03-19 William & Paloma (Misha & Lera)\MAH03982.mp4
+  1280x720  |   2500  |    128  |   467  |  00:24:43  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-03-19 William & Paloma (Misha & Lera)\MAH03983.mp4
+  1280x720  |   2500  |    128  |   328  |  00:17:22  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-03-19 William & Paloma (Misha & Lera)\MAH03984.mp4
+  1280x720  |   2500  |      0  |   236  |  00:12:46  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-03-19 William & Paloma (Misha & Lera)\MOV00006.mp4
+  1280x720  |   2500  |      0  |   237  |  00:12:46  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-03-19 William & Paloma (Misha & Lera)\MOV00007.mp4
+  1280x720  |   2500  |      0  |   237  |  00:12:47  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-03-19 William & Paloma (Misha & Lera)\MOV00008.mp4
+  1280x720  |   2500  |      0  |   107  |  00:05:46  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-03-19 William & Paloma (Misha & Lera)\MOV00009.mp4
+  1280x720  |   2500  |    123  |    39  |  00:02:05  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-04-09 William (Misha)\MAH04109.mp4
+  1280x720  |   2500  |    122  |    45  |  00:02:24  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-04-09 William (Misha)\MAH04110.mp4
+  1280x720  |   2500  |    118  |   151  |  00:08:03  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-04-09 William (Misha)\MAH04111.mp4
+  1280x720  |   2500  |    120  |    77  |  00:04:05  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-04-09 William (Misha)\MAH04112.mp4
+  1280x720  |   2500  |    120  |   188  |  00:09:58  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-04-09 William (Misha)\MAH04113.mp4
+  1280x720  |   2500  |    117  |   238  |  00:12:41  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-04-09 William (Misha)\MAH04114.mp4
+  1280x720  |   2500  |    121  |   155  |  00:08:14  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-04-09 William (Misha)\MAH04115.mp4
+  1280x720  |   2500  |    124  |   198  |  00:10:27  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-04-09 William (Misha)\MAH04116.mp4
+  1280x720  |   2500  |    128  |    90  |  00:04:47  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2017-04-09 William (Misha)\MAH04117.mp4
+  1280x720  |   2500  |    118  |   186  |  00:09:55  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05355.mp4
+  1280x720  |   2500  |    122  |    22  |  00:01:11  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05357.mp4
+  1280x720  |   2500  |    124  |    53  |  00:02:50  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05358.mp4
+  1280x720  |   2500  |    115  |    79  |  00:04:14  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05359.mp4
+  1280x720  |   2500  |    123  |    87  |  00:04:38  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05360.mp4
+  1280x720  |   2500  |    120  |   273  |  00:14:28  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05361.mp4
+  1280x720  |   2500  |    114  |    60  |  00:03:12  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05362.mp4
+  1280x720  |   2500  |    119  |    60  |  00:03:10  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05363.mp4
+  1280x720  |   2500  |    114  |   154  |  00:08:09  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05364.mp4
+  1280x720  |   2500  |    118  |    76  |  00:04:03  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05365.mp4
+  1280x720  |   2500  |    115  |    79  |  00:04:15  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-23 Val (Misha)\MAH05366.mp4
+  1280x720  |   2500  |    117  |    38  |  00:02:05  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05452.mp4
+  1280x720  |   2500  |    119  |   153  |  00:08:08  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05453.mp4
+  1280x720  |   2500  |    114  |    64  |  00:03:23  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05454.mp4
+  1280x720  |   2500  |    116  |    90  |  00:04:47  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05455.mp4
+  1280x720  |   2500  |    116  |   339  |  00:18:05  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05456.mp4
+  1280x720  |   2500  |    112  |    19  |  00:01:00  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05457.mp4
+  1280x720  |   2500  |    113  |   157  |  00:08:22  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05458.mp4
+  1280x720  |   2500  |    109  |    14  |  00:00:47  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05459.mp4
+  1280x720  |   2500  |    111  |    86  |  00:04:36  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05460.mp4
+  1280x720  |   2500  |    115  |    58  |  00:03:08  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05461.mp4
+  1280x720  |   2500  |    115  |    90  |  00:04:47  |  d:\Dance\!VIDEO\!ZOUK\!INDIVIDUALS\2018-03-25 William (Misha)\MAH05462.mp4

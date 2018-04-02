@@ -1,0 +1,533 @@
+﻿Resolution  |  Video  |  Audio  |  Size  |  Duration  |  Name
+
+  1280x720  |   2181  |    113  |   110  |  00:06:42  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Adilio Porto\0834 - Zouk Contact Improvisation  Adilio Porto  UZCSC 20160625.mp4
+
+   640x480  |      0  |    765  |     8  |  00:01:27  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Adilio Porto\Adilio  Vicky 1.mp4
+
+  1280x720  |   1855  |    144  |    50  |  00:03:32  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Adilio Porto\Adilio & Lucia - Berlin Zouk Congress 2012.mp4
+
+   540x360  |    639  |      0  |    35  |  00:06:57  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Adilio Porto\Adilio Porto - lifts & acrobatics - Zouk Congres Berlin 2011.mp4
+
+   480x360  |    500  |    112  |    21  |  00:04:55  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Adilio Porto\demo\Adilio & Larissa - Zouk Lambada.mp4
+
+   608x360  |    584  |      0  |    46  |  00:09:26  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Adilio Porto\show\Adilio & Renata - the real begin of the Brazilian Zouk 20 years ago!.mp4
+
+   352x264  |    393  |    114  |    23  |  00:06:22  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Adilio Porto\show\Salao Brasil - Parte do espetaculo com as Lambadas - by Jaime aroxa (Low).mp4
+
+  1280x720  |   2500  |      0  |    52  |  00:02:49  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Alex de Carvalho\Alex & Mathilde - Dutch Zouk Congress 2015 - figure [HD, 720p].mp4
+  1280x720  |   4351  |    128  |    50  |  00:01:34  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Alex de Carvalho\How to Brazilian  Zouk  Dance Lesson  by Alex de Carvalho  Mathilde   LondonZouk Fest.mp4
+
+   480x360  |    447  |      0  |    13  |  00:03:34  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Audrey Isautier\demo\Alisson Sandi & Audrey Isautier - 2013 Prague Zouk Congress.mp4
+
+  1280x720  |   1984  |    126  |    76  |  00:05:02  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Audrey Isautier\demo\Alisson Sandi & Audrey Isautier - Party 1.mp4
+  1280x720  |   2364  |    144  |    65  |  00:03:38  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Audrey Isautier\demo\Alisson Sandi & Audrey Isautier - ZOUK HQ - 2011.mp4
+  1280x720  |   1937  |    144  |    46  |  00:03:05  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Audrey Isautier\show\Alisson Sandi & Audrey Isautier - Warsaw Zouk Libre Festival 2014.mp4
+  1280x720  |   2559  |    151  |    31  |  00:01:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\Bruno & Rubia - 1ª Aula de Sertanejo Universitário na Solum Escola de Dança [HD, 720p].mp4
+
+   426x240  |      0  |    270  |     3  |  00:01:23  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\Bruno Galhardo zouk workshop in DC zouk festival.webm
+
+   480x360  |    318  |      0  |     7  |  00:02:32  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Bachata Sí! (3) 2013-06-20.mp4
+   480x360  |    574  |      0  |    15  |  00:03:13  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Brno.mp4
+
+  1280x720  |   2488  |      0  |    65  |  00:03:35  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - CasaDeRitmo ZOUK Festival 2013 (1).mp4
+  1280x720  |   2488  |    128  |    76  |  00:04:03  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - CasaDeRitmo ZOUK Festival 2013 (2).mp4
+  1280x720  |   2488  |      0  |    55  |  00:03:01  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - CasaDeRitmo ZOUK Festival 2013 (3).mp4
+  1280x720  |   2069  |    192  |    54  |  00:03:21  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - CasaDeRitmo ZOUK Festival 2013 (4).mp4
+  1280x720  |   1686  |    192  |    73  |  00:05:27  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Corpo Carioca Congress 2013.mp4
+  1280x720  |   2254  |    192  |    70  |  00:04:03  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Dance Planet Prague.mp4
+  1280x720  |   1950  |    192  |    48  |  00:03:09  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Espaço Dance Workshop 2014.mp4
+  1280x720  |   2488  |    128  |    70  |  00:03:43  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Exalta Afro Festival 2014.mp4
+
+   568x320  |    505  |      0  |    14  |  00:03:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Men At Zouk.mp4
+
+  1280x720  |   1800  |      0  |    51  |  00:03:47  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - No name.mp4
+
+   400x224  |    174  |    128  |     9  |  00:04:23  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Oslo.mp4
+
+  1280x720  |   1971  |    144  |    40  |  00:02:39  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Praga.mp4
+  1280x720  |   2375  |    144  |    64  |  00:03:34  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Prague zouk & samba congress 2014 (1).mp4
+  1280x720  |   2007  |    192  |    50  |  00:03:11  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Prague zouk & samba congress 2014 (2).mp4
+
+   600x360  |    455  |      0  |    15  |  00:04:02  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Prague zouk & samba congress 2014 (3).mp4
+
+  1280x720  |   1933  |    144  |    84  |  00:05:40  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Prague zouk & samba congress 2014 (4).mp4
+  1280x720  |   1608  |    144  |    44  |  00:03:34  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Prague zouk & samba congress 2014 (5).mp4
+  1280x720  |   2488  |    128  |    69  |  00:03:39  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Semana da Cultura Latina 2012.mp4
+  1280x720  |   1770  |    192  |    66  |  00:04:44  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - SHAMA ESCOLA DE DANÇA.mp4
+
+   600x360  |    453  |      0  |    13  |  00:03:27  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - SONG Dj Kakah Bastista.mp4
+
+  1280x720  |   2038  |    192  |    55  |  00:03:26  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Zouk Austria Congress 2014 (1).mp4
+  1280x720  |   2054  |    144  |    45  |  00:02:55  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Zouk Austria Congress 2014 (2).mp4
+
+  1274x720  |   1746  |    192  |    85  |  00:06:10  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Zouk Curitiba por Rodolfo Quelhas 2013.mp4
+
+   480x360  |    362  |      0  |    14  |  00:04:16  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Zouk Day 2013 (1).mp4
+
+  1280x720  |   2488  |    128  |    69  |  00:03:40  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Zouk Day 2013 (2).mp4
+  1280x720  |   1961  |    192  |    56  |  00:03:41  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Eglantine - Zouk Rodolfo Quelhas.mp4
+  1280x720  |   2488  |    128  |    43  |  00:02:16  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Juliana - Zouk SEA 2014 Invitational Instructors Jack & Jill.mp4
+
+   480x360  |    614  |      0  |    15  |  00:03:18  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Rubia - 2011-07-14 Solum.mp4
+   480x360  |    511  |      0  |    15  |  00:03:33  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Rúbia - Curso de Condução Masculina de Zouk 2012-07-15.mp4
+
+  1280x720  |   2488  |      0  |    84  |  00:04:30  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Rubia - Work de zouk 2012-11-10.mp4
+
+   480x360  |    496  |      0  |    16  |  00:03:47  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Rúbia - Zouk (2012-03-04).mp4
+
+  1280x720  |   2046  |    192  |    52  |  00:03:18  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno & Xandy & Eglantine Zouk Libre Festival (HD).mp4
+  1280x720  |   2488  |    128  |    67  |  00:03:30  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno + Eglantine - Zurich Zou Congress 2015 - Demo 3 (HD).mp4
+  1280x720  |   2488  |    128  |    62  |  00:03:18  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno + Eglantine - Zurich Zouk Congress 2015 - Demo (HD).mp4
+  1280x720  |   2488  |    128  |    67  |  00:03:33  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Bruno + Eglantine - Zurich Zouk Congress 2015 - Demo 2 (HD).mp4
+  1280x720  |   1914  |    192  |    59  |  00:03:55  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Salsa Solo 2014 – Bruno Galhardo & Eglantine Oliveira (HD).mp4
+  1280x720  |   1800  |    108  |    40  |  00:02:57  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\demo\Zouk Battle - Dadinho & Aline & Bruno & Eglantine.mp4
+  1280x720  |   2337  |    192  |    42  |  00:02:21  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\show\Bruno & Eglantine - Zouk Austria Congress 2014.mp4
+
+   480x360  |    579  |      0  |    10  |  00:02:11  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\show\Bruno & Rúbia - Solum 2012.mp4
+
+  1280x720  |   2447  |    152  |    35  |  00:01:54  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\show\Bruno Galhardo & Rúbia Frutuoso - Zouk (SOLUM 5 Anos) (HD).mp4
+
+   480x360  |    629  |      0  |    12  |  00:02:30  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\show\Bruno Galhardo & Rúbia Frutuoso - Zouk Solum Escola de Dança (Low).mp4
+
+   960x720  |   1910  |    192  |    92  |  00:06:07  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\show\Se ela dança eu danço  Bruno e Rúbia 01.06.2011.mp4
+
+  1280x720  |   2488  |    128  |    32  |  00:01:43  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\show\Se ela dança eu danço  Bruno e Rúbia 15.06.2011.mp4
+
+   320x240  |    351  |      0  |    16  |  00:05:03  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\show\Se ela dança eu danço  Bruno e Rúbia semi-final & final.mp4
+
+  1280x720  |      0  |   1988  |    25  |  00:01:45  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\Workshop 3 with Bruno Galhardo  in DC Zouk Festival 2015.mp4
+  1280x720  |      0  |   2013  |    22  |  00:01:29  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Bruno Galhardo\Workshop with Bruno Galhardo in Washington DC.mp4
+
+  1270x720  |      0  |   1831  |    67  |  00:04:52  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Carlos da Silva\Carlos  Fernanda - Dutch Zouk Congress 2015 - demo (styling).mp4
+
+  1280x720  |      0  |   2246  |    68  |  00:04:06  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Carlos da Silva\Carlos  Sofie - zouk from Prague  SBF 2012.mp4
+  1280x720  |      0  |   2245  |    76  |  00:04:32  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Carlos da Silva\demo\Carlos  Sofie - zouk  SBF 2012.mp4
+
+   480x360  |    439  |      0  |    13  |  00:03:38  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Carlos da Silva\demo\Carlos & Fernanda da Silva, S.O.S. Zouk Workshop 15.6.2014 in Prague (Low).mp4
+
+  1280x720  |   2488  |      0  |    74  |  00:03:58  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Carlos da Silva\demo\Carlos and Dana zouk demo @ Corpo Carioca Zouk Congress (HD).mp4
+  1280x720  |   2359  |    192  |    26  |  00:01:28  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Carlos da Silva\dizc 2013 Workshop Carlos & Fernanda [HD, 720p].mp4
+  1280x720  |   2488  |    128  |    82  |  00:04:23  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Carlos da Silva\show\Carlos da Silva & Fernanda Vitoria, Zouk show at Bachaturo Festival, Warsaw 2012 HD (HD).mp4
+
+   640x360  |    538  |      0  |    23  |  00:05:15  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Carlos da Silva\SILF 2018 Workshop - Carlos and Fernanda, Zouk counter balance, demo with and without music.mp4
+
+  1280x720  |   2073  |    192  |   163  |  00:10:06  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Carlos Oliveira\Carlos & Anastasia - oplvl 11.08.mp4
+  1280x720  |   2181  |    120  |    96  |  00:05:49  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\0971 - Playing With The Arms  Anikas  Dadinho  UZCSC 20160626.mp4
+  1280x720  |   2158  |    121  |   133  |  00:08:09  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\0988 - Zouk Men  Ladies Style  Anikas  Dadinho  UZCSC 20160626.mp4
+  1280x720  |    781  |    662  |     9  |  00:00:51  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\3rd Middle East Zouk  Kizomba Festival 2013.mp4
+  1280x720  |    726  |    546  |    82  |  00:08:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho  Aline - Modern Zouk 08.06.14.mp4
+  1280x720  |    748  |    529  |    65  |  00:06:50  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho  Aline - Zouk  with Style 07.06.14.mp4
+  1280x720  |    782  |    576  |    65  |  00:06:23  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho  Aline - Zouk Modern Turns  07.06.14.mp4
+  1280x720  |    844  |    662  |    49  |  00:04:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho  Aline - Zouk RnB 07.06.14.mp4
+  1280x720  |      0  |   1436  |    94  |  00:08:43  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho  Aline - Zouk RnB 08.06.14.mp4
+  1280x720  |    729  |    553  |    60  |  00:06:17  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho  Aline - Zouk, Get Closer - 08.06.14.mp4
+  1280x720  |      0  |   2173  |    41  |  00:02:35  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho  Janaina - Zouk Workshop - Prague Zouk Congress 2013 - Day 02.mp4
+
+   640x480  |      0  |    905  |    37  |  00:05:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho  Suelen at Zouk Congress Russian Style!.mp4
+   640x480  |      0  |    561  |    25  |  00:05:28  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho  Suelen Zouk at Congress Russian Style!.mp4
+
+  1280x720  |   2296  |    192  |    78  |  00:04:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho & Aline - Zouk RnB 07.06.14 (HD).mp4
+
+  1270x720  |   2636  |    192  |    21  |  00:01:03  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho & Natalia - Dutch Zouk Congress 2015 - figure (zouk r&b fundamentals) [HD, 720p].mp4
+
+  1280x720  |   2500  |    128  |    54  |  00:02:52  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho and Aline Workshop IM Zouk 2014.mp4
+
+  720x1280  |      0  |   4384  |    63  |  00:01:59  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho e Aline Cleto no Ramalho's Beach Congress 2.mp4
+
+   640x480  |      0  |   1142  |     7  |  00:00:50  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho e Julie aula zouk-se Porto alegre.mp4
+
+   636x360  |    577  |      0  |    18  |  00:03:54  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Dadinho men style.mp4
+
+  1280x720  |   2488  |    128  |    62  |  00:03:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\20140125 Jefferson Dadinho  Aline Cleto Zouk Singapore 2.mp4
+  1280x720  |   2488  |    128  |    59  |  00:03:08  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\20140125 Jefferson Dadinho  Aline Cleto Zouk Singapore 3.mp4
+  1280x720  |   2488  |    128  |    68  |  00:03:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\20140125 Jefferson Dadinho  Aline Cleto Zouk Singapore 6.mp4
+
+   640x360  |    638  |      0  |    27  |  00:05:11  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\20140125 Jefferson Dadinho  Aline Cleto Zouk Singapore 7.mp4
+   640x360  |    530  |      0  |    21  |  00:04:42  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\20140125 Jefferson Dadinho  Aline Cleto Zouk Singapore 8.mp4
+
+  1280x720  |   2488  |    128  |    56  |  00:02:56  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho - Zouk Festival - Cuiabá.mp4
+  1280x720  |   2213  |    192  |    79  |  00:04:35  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Demo (2013 Corpo Carioca Congress).mp4
+  1280x720  |   2488  |    107  |    68  |  00:03:39  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Dutch Zouk Congress 2013.mp4
+  1280x720  |   2375  |    144  |    91  |  00:05:04  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Interfusion Danse Congress 2013.mp4
+
+   636x360  |    640  |      0  |    17  |  00:03:22  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Miami 2014.mp4
+
+  1280x720  |   2488  |    104  |    40  |  00:02:08  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Prague Zouk Congress 2014 (1).mp4
+  1280x720  |   2488  |      0  |    50  |  00:02:39  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Prague Zouk Congress 2014 (2).mp4
+  1280x720  |   2457  |    192  |    68  |  00:03:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Workshop Entre Passos.mp4
+  1280x720  |   2488  |    128  |    61  |  00:03:16  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Zouk (2013 Corpo Carioca Congress).mp4
+  1280x720  |   2488  |      0  |    51  |  00:02:46  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Zouk, p1 @ Moscow (HD).mp4
+  1280x720  |   2482  |    144  |    77  |  00:04:06  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Zouk, p2 @ Moscow (HD).mp4
+  1280x720  |   2518  |    144  |    72  |  00:03:49  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Zouk, p3 @ Moscow (HD).mp4
+  1280x720  |   2331  |    144  |    62  |  00:03:31  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Zouk, p4 @ Moscow (HD).mp4
+  1280x720  |   2488  |      0  |    72  |  00:03:52  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Zouk, p5 @ Moscow (HD).mp4
+  1280x720  |   2368  |    144  |    56  |  00:03:08  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Zouk, p6 @ Moscow (HD).mp4
+  1280x720  |   2488  |    128  |    44  |  00:02:21  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Aline - Zouk.mp4
+  1280x720  |   2023  |    192  |    32  |  00:02:04  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Janaina - Austria Congress 2013.mp4
+  1280x720  |   2488  |    128  |    93  |  00:04:57  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Janaina - Zouk Demo (Prague Zouk Congress 2013 day2).mp4
+  1280x720  |   1526  |    192  |    39  |  00:03:10  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Janaina Martins zouk demo (HD).mp4
+  1280x720  |   1904  |    144  |    56  |  00:03:51  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Kelly  Zouk R&B Demo  Dutch Zouk Congress 2014 (HD).mp4
+  1280x720  |   2488  |    107  |    69  |  00:03:43  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Kendy - Miami Workshop Zouk Demo (HD).mp4
+  1280x720  |   2461  |    192  |    85  |  00:04:28  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Rubia - B&G Niver Fest.mp4
+  1280x720  |   2426  |    192  |    63  |  00:03:23  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Rubia -B_G Niver Fest.mp4
+
+   480x360  |    449  |      0  |    20  |  00:05:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Suelen at Zouk Congress Russian Style! (Low-360p).mp4
+   480x360  |    449  |      0  |    20  |  00:05:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Suelen Branco - Zouk (Zouk Congress Russian Style!).mp4
+
+  1280x720  |   2488  |    111  |    76  |  00:04:02  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Dadinho & Suelen Branco Swiss Zouk Festival- Agosto de 2012- Zurich-Suiça (HD).mp4
+
+   480x360  |    353  |      0  |    10  |  00:03:16  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\FIEL 2014 - Dadinho and Aline Zouk-Lambada Workshop 2 (Low).mp4
+
+  1280x720  |   2488  |    128  |    92  |  00:04:54  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho & Alice Cleto 2014 Brazil Central Zouk Congress 02 (HD).mp4
+  1280x720  |   2488  |    128  |    24  |  00:01:16  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho & Alice Cleto 2014 Brazil Central Zouk Congress 07 (HD).mp4
+  1280x720  |   2488  |    128  |    78  |  00:04:10  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho & Alice Cleto 2014 Brazil Central Zouk Congress 11 (HD).mp4
+  1280x720  |   2364  |    192  |    59  |  00:03:15  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho & Alice Cleto 2014 Brazil Central Zouk Congress 15 (HD).mp4
+
+   640x360  |    575  |      0  |    17  |  00:03:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho & Nathália Moura Brazilian Zouk Dance Demo 4, London, UK, May 2015 (Low).mp4
+
+  1280x720  |   2488  |    128  |    68  |  00:03:35  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho _ Alice Cleto 2014 Brazil Central Zouk Congress 04.mp4
+
+   480x360  |    520  |      0  |    17  |  00:03:58  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho e Aline Cleto - Zouk day 2014 (Low).mp4
+   480x360  |    541  |      0  |    14  |  00:03:07  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho e Aline cleto - Zouk day 2014 (Low)1.mp4
+   480x360  |    570  |      0  |    18  |  00:03:52  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho e Aline Cleto - Zouk day 2014 (Low)2.mp4
+
+  1280x720  |   2424  |    144  |    74  |  00:04:04  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\demo\Jefferson Dadinho e Nathália Moura - Workshop de Zouk CBZ 13092014 (HD).mp4
+
+   480x360  |    316  |      0  |    12  |  00:04:10  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\FIEL 2014 - Dadinho and Aline Zouk-Lambada Workshop 1 Breakdown (Low).mp4
+
+  1280x720  |      0  |   2246  |    93  |  00:05:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Jefferson  Suelen zouk  SBF 2012.mp4
+  1280x720  |   2488  |    128  |    85  |  00:04:31  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Jefferson Dadinho & Alice Cleto 2014 Brazil Central Zouk Congress 01 (HD).mp4
+  1280x720  |   2488  |    128  |    78  |  00:04:07  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Jefferson Dadinho & Alice Cleto 2014 Brazil Central Zouk Congress 03 (HD).mp4
+  1280x720  |   2238  |    192  |    41  |  00:02:21  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Jefferson Dadinho & Alice Cleto 2014 Brazil Central Zouk Congress 06 (HD).mp4
+
+   640x356  |    505  |      0  |    16  |  00:03:43  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\show\Dadinho & Janaina - Prague zouk congress 2013.mp4
+
+  1280x720  |   1884  |    192  |    38  |  00:02:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\show\Dadinho & Suelen - Zouk  Swiss Zouk Festival 2012-08-04).mp4
+  1280x720  |   2488  |    128  |    38  |  00:02:02  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\show\Dadinho & Suelen Branco - Zouk (2012-07-01 IZSC Moscow).mp4
+  1280x720  |      0  |   2113  |    22  |  00:01:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Trecho da aula de zouk com Dadinho no Zouk Day 2012.mp4
+  1280x720  |   2622  |    144  |    22  |  00:01:08  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\ZNL Mexico 2015 - Dadinho and Ruana - YouTube [720p].mp4
+
+   406x720  |   1010  |    144  |    27  |  00:03:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\ZNL Mexico 2015 - Dadinho and Ruana 2 - YouTube [720p].mp4
+
+   426x240  |      0  |    270  |     7  |  00:03:05  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Dadinho Jefferson\Zouk Workshop.webm
+
+   352x288  |    387  |      0  |    18  |  00:05:11  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Freddy Marinho\demo\Freddy Marinho e Anna Luiza (2008).mp4
+
+  1280x720  |   2059  |    144  |    27  |  00:01:45  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Freddy Marinho\Fire Zouk Demo Freddy & Andressa Bonus Variations (HD).mp4
+  1280x720  |    786  |    905  |    49  |  00:03:56  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Freddy Marinho\Freddy  Andressa  Zouk Workshop   Leading  Following  Prague Zouk Congress 2013  Day 02.mp4
+  1280x720  |    634  |    506  |    74  |  00:08:44  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Freddy Marinho\Freddy  Andressa Zouk Master Class 13.12.14.mp4
+  1280x720  |    730  |    631  |    97  |  00:09:33  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Freddy Marinho\Freddy  Andressa Zouk Master Class 14.12.14.mp4
+  1280x720  |   1188  |    192  |    59  |  00:05:58  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Freddy Marinho\Freddy & Andressa - WestCoastSwing Moments - Overstyling in Brazilian Zouk. (HD).mp4
+
+   406x720  |   1007  |    144  |    18  |  00:02:13  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Freddy Marinho\FREDDY and Andressa  flowibg zouk (HD).mp4
+
+   480x360  |    337  |      0  |    16  |  00:05:38  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Freddy Marinho\Zouk tips (DONTs and DOs) from Andressa Castelhano Marinho and Freddy Marinho (Low).mp4
+
+   640x480  |    600  |    117  |    10  |  00:01:56  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Gilson Damasco\2013-12-07 180449.mp4
+   640x480  |    600  |    115  |    15  |  00:02:53  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Gilson Damasco\2013-12-07 double leading 1.mp4
+
+  1280x720  |      0  |   1590  |    18  |  00:01:34  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Gilson Damasco\Advanced Workshop With Gilson  Natasha In Israel Part 1 - 17.03.2012.mp4
+  1280x720  |      0  |   1787  |    30  |  00:02:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Gilson Damasco\Advanced Workshop With Gilson In Israel 16.03.2012.mp4
+  1280x720  |      0  |   1997  |    28  |  00:01:54  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Gilson Damasco\Beginners Workshop With Gilson  Natasha In Israel 16.03.2012.mp4
+  1280x720  |      0  |   2076  |    25  |  00:01:39  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Gilson Damasco\Beginners Workshop With Gilson In Israel 10.03.2012 Part 4.mp4
+
+   480x360  |    605  |      0  |    21  |  00:04:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Gilson Damasco\demo\Gilson & Natasha - Lambazouk (Paris).mp4
+
+  1280x720  |      0  |   1620  |    67  |  00:05:29  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Gilson Damasco\Gilson  Natasha - zouk  SBF 2012.mp4
+  1280x720  |   2181  |    128  |    78  |  00:04:45  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Gilson Damasco\Zouk Lambada Dance Basic Steps by Gilson & Mari.mp4
+
+   480x360  |    440  |      0  |    11  |  00:02:53  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jacub Jakoubek\demo\Jakub & Anna Vozhevskaia - Zurich Zouk Congress 2015.mp4
+
+  1280x720  |   2224  |    192  |    60  |  00:03:31  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jacub Jakoubek\demo\Jakub & Lucia - 2nd London Zoukfest Congress, March 2014.mp4
+  1280x720  |   1246  |    192  |    35  |  00:03:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jacub Jakoubek\demo\Jakub & Lucia - Aalborg 2013.mp4
+
+   640x360  |    514  |      0  |    20  |  00:04:44  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jacub Jakoubek\demo\Jakub & Lucia - Aalborg impro demo 2014 (Low).mp4
+
+  1280x720  |   2035  |    192  |    66  |  00:04:09  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jacub Jakoubek\demo\Jakub & Lucia - London ZoukFest 2014.mp4
+  1280x720  |   2488  |      0  |    74  |  00:03:57  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jacub Jakoubek\demo\Jakub & Lucia - Prague workshop 26.2.2014.mp4
+  1280x720  |   1469  |    192  |    53  |  00:04:30  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jacub Jakoubek\demo\Jakub & Lucia - Zouk Improvisation.mp4
+
+   544x360  |    335  |      0  |    11  |  00:03:42  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jacub Jakoubek\demo\Jakub and Lucia zouk demo (Low).mp4
+
+   480x360  |    617  |      0  |    20  |  00:04:00  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jacub Jakoubek\show\Crazy zouk & contemporary show in Stolarna – Ludek, Jakub, Jakub, Michal, Petra, Jitka, Hanka, K... (Low).mp4
+
+  1280x720  |   4445  |    132  |    10  |  00:00:18  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Joanna\Never Use Your Hips When doing a Body Roll - Brazilian Zouk Ladies Dance Styling Tutorial.mp4
+  1280x720  |   2330  |    192  |    85  |  00:04:44  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\demo\Jorge & Renata - 2012.mp4
+  1280x720  |   2488  |    128  |    65  |  00:03:38  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\demo\Jorge & Vanessa - 2013.mp4
+
+   480x360  |    357  |      0  |    19  |  00:05:52  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\demo\Jorge & Vanessa - Congresso cia Samba e Zouk 2013.mp4
+
+  1280x720  |   1790  |    192  |    59  |  00:04:12  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\demo\Jorge & Vanessa - De Zouk e Lambada do Rio de Janeiro (4) 2014 demo1.mp4
+
+   640x360  |    298  |      0  |    11  |  00:04:05  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\demo\Jorge & Vanessa - De Zouk e Lambada do Rio de Janeiro (4) 2014 demo2.mp4
+
+  1280x720  |   2488  |      0  |    95  |  00:05:06  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\demo\Jorge & Vanessa - Ipanema 2013.mp4
+  1280x720  |   2488  |    128  |   100  |  00:05:18  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\demo\Jorge & Vanessa - Prague Zouk Congress 2014.mp4
+  1280x720  |   2225  |    192  |    76  |  00:04:26  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\demo\Jorge & Vanessa - Summer Zouk in Rio.mp4
+  1280x720  |      0  |   1661  |     6  |  00:00:32  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\Jоrge Perez and Vanessa Rodrigues at Saint-Petersburg (11-12 November 2012).wmv.mp4
+  1280x720  |      0  |   1161  |    21  |  00:02:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\Jоrge Perez and Vanessa Rodrigues.wmv.mp4
+
+   640x360  |    581  |      0  |    17  |  00:03:32  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\show\Jorge & Vanessa - De Zouk e Lambada do Rio de Janeiro (4) 2014.mp4
+
+   450x360  |    366  |      0  |    14  |  00:04:21  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Jorge Peres\show\Jorge & Vanessa - Dos Bailadores Leiden 2013.mp4
+
+  1280x720  |   2488  |    128  |    77  |  00:04:08  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\2012 12 08 - zouk & the chocolate factory - workshops - 1 - Kadu & Larissa (HD).mp4
+  1280x720  |   2415  |    192  |    56  |  00:03:00  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa - AZC2013.mp4
+  1280x720  |   2488  |    112  |    94  |  00:04:59  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa - Nuroc - Best of the Best 2013.mp4
+
+   480x360  |    438  |      0  |    11  |  00:02:55  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa - Paris 2013.mp4
+
+  1280x720  |   2265  |    192  |    57  |  00:03:16  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa plus Jordan & Tatiana - Nuroc - Best of the Best 2013.mp4
+
+   240x320  |    401  |      0  |    19  |  00:05:27  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa Workshop de Zouk 2 (Low).mp4
+
+  1280x720  |   2488  |    103  |    80  |  00:04:14  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa Zouk Workshop in St. Petersburg! (HD).mp4
+  1280x720  |   2276  |    192  |    62  |  00:03:30  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa, Zouk Workshop 1, Snow Burner Zouk Fest 2014 (HD).mp4
+  1280x720  |   2224  |    192  |    71  |  00:04:09  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa, Zouk Workshop 2, Snow Burner Zouk Fest 2014 (HD).mp4
+  1280x720  |   2168  |    192  |    89  |  00:05:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa, Zouk Workshop 3, Snow Burner Zouk Fest 2014 (HD).mp4
+  1280x720  |   2166  |    192  |    64  |  00:03:48  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa, Zouk Workshop 4, Snow Burner Zouk Fest 2014 (HD).mp4
+  1280x720  |   2082  |    192  |    66  |  00:04:03  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa, Zouk Workshop 5, Snow Burner Zouk Fest 2014 (HD).mp4
+  1280x720  |   2104  |    192  |    62  |  00:03:46  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa, Zouk Workshop 6, Snow Burner Zouk Fest 2014 (HD).mp4
+  1280x720  |   2488  |    105  |    99  |  00:05:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu & Larissa.mp4
+  1280x720  |   2488  |      0  |    88  |  00:04:46  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu Pires & Larissa Thayane - Prague Zouk Congress 2014.mp4
+
+   640x424  |    530  |      0  |    19  |  00:04:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu Pires & Larissa Thayane - Zouk demo @ Sanxenxo _ 16.03.2013.mp4
+
+  1280x720  |   1800  |    128  |    61  |  00:04:26  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu Pires & Larissa Thayane - Zouk workshop (Prague Samba & Zouk Congress 2011).mp4
+  1280x720  |   2488  |      0  |    65  |  00:03:31  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\demo\Kadu Pires & Larissa Thayane zouk teacher demo (Full HD).mp4
+  1280x720  |   1660  |    192  |    12  |  00:00:57  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\How to do Brazilian Zouk Dance Steps Moves Intermediate.mp4
+  1280x720  |      0  |   2260  |     5  |  00:00:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\Kadu and Larissa Zouk Workshop at the LA Zouk Congress.mp4
+
+   480x256  |    404  |    109  |    13  |  00:03:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - Australian Dance Festival 2009.mp4
+
+   480x264  |    539  |    109  |    18  |  00:04:00  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - Australian Dance Festival 2010.mp4
+
+  1280x720  |   2042  |    152  |    69  |  00:04:27  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - Australian Salsa Open 2012.mp4
+
+   640x360  |    453  |      0  |    17  |  00:04:25  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - Brazilian Beat Congress 2011.mp4
+
+   320x240  |    257  |      0  |     8  |  00:03:46  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - HKSF 2009.flv
+
+  1280x720  |   2488  |      0  |    67  |  00:03:38  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - India International Dance Congress 2013.mp4
+  1280x720  |   1753  |    192  |    52  |  00:03:45  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - Snow Burner Zouk Fest 2014, Moscow.mp4
+
+   640x360  |    484  |      0  |    14  |  00:03:33  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - Sydney Latin Festival 2012.mp4
+
+   320x180  |    190  |    122  |     9  |  00:04:15  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa - Sydney Salsa Congress 2011.mp4
+
+  1280x720  |   1800  |    128  |    51  |  00:03:42  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Kadu & Larissa Zouk Show in St.Petersburg.mp4
+
+   640x480  |    600  |      0  |    12  |  00:02:34  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kadu Pires\show\Larissa Thayane - contemporary dance.mp4
+
+   480x360  |    447  |      0  |     8  |  00:02:16  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\BRASIL ZOUK OPEN 2010 Profissional Kamacho e Vanessa - CAMPEONATO NACIONAL Parte 11 2011.mp4
+   480x360  |    413  |      0  |     8  |  00:02:27  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\BRASIL ZOUK OPEN 2010 Profissional Kamacho e Vanessa - CAMPEONATO NACIONAL Parte 12  2010.mp4
+
+  1280x720  |   2436  |    144  |    59  |  00:03:13  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Anastasia - Brasil  Rio de Janeiro 2013.mp4
+
+   640x480  |    600  |      0  |    20  |  00:04:05  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Anastasia.mp4
+
+  1280x720  |   1681  |    192  |    49  |  00:03:42  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Brigitte - Zouktime! 2012.mp4
+  1280x720  |   2352  |    192  |    86  |  00:04:44  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Larissa - LA Zouk Congress 2014.mp4
+
+   480x360  |    567  |      0  |    18  |  00:03:57  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Lilian - Latina Pub 2009.mp4
+   480x360  |    501  |    107  |     4  |  00:01:07  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Priscila Aula Zouk no CDJA 2009.mp4
+
+   640x480  |   1032  |      0  |    29  |  00:03:39  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Suellen Violante - zouk 2011.flv
+   640x480  |    693  |      0  |    20  |  00:03:38  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\Kamacho & Vanessa - zouk 2010.flv
+
+   480x360  |    640  |      0  |     6  |  00:01:10  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\demo\kamacho e shizue Ilha do ZOuk 2009.mp4
+
+  1280x720  |    633  |    498  |   128  |  00:15:06  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\Kamacho  Joanna Zouk Master Class 13.12.14.mp4
+  1280x720  |      0  |   2109  |   109  |  00:07:01  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\Kamacho  Oksana Zouk Tricks Workshop 14.12.13.mp4
+  1280x720  |      0  |   1691  |    88  |  00:07:00  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\Kamacho  Oksana Zouk Workshop 14.12.13.mp4
+  1280x720  |      0  |   1299  |    99  |  00:10:04  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\Kamacho  Oksana Zouk Workshop 15.12.13.mp4
+
+   640x480  |   1159  |      0  |    11  |  00:01:19  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\Kamacho & Grace - zouk 2011.flv
+
+   640x360  |    640  |      0  |    20  |  00:03:53  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\Prague.zouk.kamacho (Low).mp4
+
+  1280x720  |   2488  |    128  |   257  |  00:13:41  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho - Show de Aniversário 2011 (feat Renata Peçanha).mp4
+
+   640x360  |    529  |      0  |    13  |  00:03:02  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho & Anastasiya - De Zouk e Lambada do Rio de Janeiro (4) 2014.mp4
+
+   848x480  |    790  |    128  |    28  |  00:04:25  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho & Grace Wanke & Ingrid Lacerda - Zouk Lambada Congress 2013.mp4
+
+  1280x720  |   2259  |    192  |    69  |  00:03:58  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho & Joanna - Russian Zouk Congress 2014.mp4
+  1280x720  |   2488  |    128  |    43  |  00:02:17  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho & Juliana Sanches - Prague Zouk Congress 2014.mp4
+  1280x720  |   2488  |    104  |    84  |  00:04:34  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho & Lucia Kubasova - Israel Zouk Congress 2013.mp4
+  1280x720  |   2135  |    192  |    73  |  00:04:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho & Sarah Zuccaro - LA Zouk Congress 2014.mp4
+  1280x720  |   2488  |    128  |    49  |  00:02:37  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho & Vanessa - Academia Jimmy de Oliveira 2012.mp4
+
+   854x480  |   1002  |    129  |    23  |  00:02:53  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho & Vanessa - Gravity.flv
+
+   480x360  |    439  |      0  |    10  |  00:02:48  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\show\Kamacho e Anna Callado zouk (Low).mp4
+
+  1280x720  |      0  |   1540  |   106  |  00:09:11  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\Wakko, Anna, Kamacho, Maria Zouk Workshop 14.12.13.mp4
+
+   406x720  |   1013  |    144  |    34  |  00:04:12  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Kamacho Tiago\ZNL Mexico 2015 - Kamacho workshop - YouTube [720p].mp4
+
+  1270x720  |      0  |   2208  |    30  |  00:01:49  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Leo Neves\Leo  Becky - Dutch Zouk Congress 2015 - figure (body contact).mp4
+  1270x720  |      0  |   1789  |    22  |  00:01:41  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Leo Neves\Leo  Becky - Dutch Zouk Congress 2015 - figure (body isolations).mp4
+  1270x720  |      0  |   1455  |    27  |  00:02:29  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Leo Neves\Leo  Becky - Dutch Zouk Congress 2015 - figure (move  walk).mp4
+
+  1280x720  |   2500  |      0  |    41  |  00:02:11  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Leo Neves\Leo & Becky - Dutch Zouk Congress 2015 - figure (just move) [HD, 720p].mp4
+  1280x720  |   1547  |    192  |    42  |  00:03:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Leo Neves\Leo Neves & Becky mk-int 12.08.17-step&demo.mp4
+
+   854x480  |    755  |    104  |    23  |  00:03:50  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker - Sun - Neo Zouk DNA Level 1 & 2.mp4
+
+  1280x720  |   2488  |    128  |    88  |  00:04:41  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Branca Carvalho - Zouk (Utrecht Netherlands).mp4
+  1280x720  |   2472  |    192  |    89  |  00:04:41  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Evelyn - Costa del Zouk.mp4
+
+   480x360  |    422  |      0  |    16  |  00:04:34  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Evelyn - SalsaZouk Fortaleza-ce i.mp4
+
+  1280x720  |   2488  |    128  |    68  |  00:03:41  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Evelyn - Salseros - Leiden.mp4
+  1280x720  |   1878  |    192  |    78  |  00:05:18  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Ingvild - Oslo festival.mp4
+
+   384x288  |    323  |    106  |    12  |  00:03:57  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Ruanita - JChaves.mp4
+
+   480x272  |    539  |      0  |    20  |  00:04:53  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Ruanita Santos - NeoZouk (2009).mp4
+
+  1280x720  |   2488  |    128  |   104  |  00:05:33  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Tamar Jalul - Zouk (2012 Rio).mp4
+  1280x720  |   1980  |      0  |    78  |  00:05:18  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Tamar Jalul - Zouk2 (2012 Rio).mp4
+
+   320x240  |    279  |    102  |     5  |  00:02:02  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker & Vicky.mp4
+
+   480x272  |    539  |      0  |    19  |  00:04:36  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Mafie Zouker and Ruanita Santos - 2009.mp4
+
+   480x360  |    501  |    110  |    13  |  00:03:02  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Workshop Mafie Zouker Brasília 2006 2.mp4
+   480x360  |    500  |    108  |    18  |  00:04:18  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\demo\Workshop Mafie Zouker Brasília 2006.mp4
+
+   320x240  |    251  |      0  |    10  |  00:04:49  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\show\Mafie Zouker & Larissa - Sydney Salsa Congress.flv
+
+   568x320  |    381  |      0  |     3  |  00:00:57  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Mafie Zouker\ZNL Mexico 2015 - Mafie workshop - YouTube [360p].mp4
+
+  1280x720  |   2488  |    118  |    58  |  00:03:07  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Marcelo Bal\demo\Marcelo Bal & Dana Daniela - LambaZouk in Prague Zouk Congress 2014 (HD).mp4
+  1280x720  |   1800  |    105  |    23  |  00:01:40  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Marcelo Bal\demo\ZOUK MarceloBal урок 01.08.2013.mp4
+
+   480x360  |    635  |      0  |    22  |  00:04:20  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\Anastasiia Nedobytkina - Five levels of ZOUK cambre.mp4
+
+   640x480  |    960  |    129  |    12  |  00:01:38  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Anastasiia Nedobytkina - Zouk and Contact Improvization (Minsk).flv
+
+  1280x720  |   2361  |    192  |    54  |  00:02:59  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Daniel & Leticia Estévez - London ZoukFest 2014.mp4
+  1280x720  |   2488  |    112  |    71  |  00:03:48  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Hugo Latiff & Milena Rocha.mp4
+  1280x720  |   1372  |    192  |    45  |  00:04:02  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Leo and Romina Brasazouk 2014 (HD).mp4
+
+   960x720  |   1363  |    192  |    34  |  00:03:03  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Leonardo & Becky Neves - DANÇA TERÊ 2013.mp4
+
+   320x240  |    200  |      0  |    10  |  00:05:03  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Max & Larissa - Brazilian Zouk (Low).mp4
+
+  1280x720  |   1800  |    128  |    60  |  00:04:23  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Neo-Zouk №1 Юрий Гаврилов и Юлия Иванова Dance Accelerator.mp4
+  1280x720  |   1800  |    128  |    70  |  00:05:15  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Neo-Zouk №2 Dance Accelerator Новосибирск.mp4
+  1280x720  |   1800  |    128  |    29  |  00:02:07  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Neo-Zouk №6 Y&Y Novosibirsk 2014.mp4
+  1280x720  |   2239  |    192  |    66  |  00:03:47  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Pedrinho & Erica   Zouk Workshop Demo   Prague Zouk Congress 2013   Day 02 (HD).mp4
+
+   640x360  |    471  |      0  |    16  |  00:04:02  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Saturday Workshop Pasty & Josta Zouk Berlin 2011 (Low).mp4
+
+  1280x720  |   2016  |    192  |    76  |  00:04:48  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\William & Oksana 5th Prague Zouk Congress 2014 demo 3 (HD).mp4
+  1280x720  |   1889  |    192  |    57  |  00:03:53  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Workshop Zouk fantasy 2013 - Adilson Marques e Tamar Jalul - Demo (HD).mp4
+
+   480x360  |    495  |      0  |    15  |  00:03:32  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Zouk - Rúbia Frutuoso e Jhonny (190114) (Low).mp4
+
+   640x360  |    585  |      0  |    14  |  00:02:53  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\demo\Zouk Fusion - Marcelo Eidy e Joyce Meira (Low).mp4
+
+  1280x720  |   1978  |    192  |    28  |  00:01:51  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\Intensivo de zouk - aula 4 - 32014 (HD).mp4
+  1280x720  |   2166  |    192  |   111  |  00:06:35  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\Leo Gomes & Ana Paula - oplvl 11.08.17.mp4
+  1280x720  |   1378  |    192  |    44  |  00:03:59  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\Maxim & Oksana - oplvl 11.08.17 - step.mp4
+  1280x720  |      0  |   2191  |    28  |  00:01:45  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\Pasty  Josta Advance Zouk Workshop at the Montreal Zouk  Bachata Festival 2012.mp4
+  1280x720  |   2312  |    192  |    95  |  00:05:20  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\Paulo & Luisa - oplvl 11.08.17.mp4
+  1280x720  |      0  |   1901  |    26  |  00:01:50  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\Pedrinho  Erica  Zouk Workshop - Zouk Tricks  Prague Zouk Congress 2013  Day 02.mp4
+  1280x720  |   2488  |    102  |    81  |  00:04:20  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\Abertura Beautiful Zouk 2014 (HD).mp4
+  1280x720  |   2083  |    192  |    49  |  00:03:01  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\CIA SOLUM de ZOUK - Dubstep (HD).mp4
+  1280x720  |   2488  |    128  |   353  |  00:19:00  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\IV Congresso Internacional de Zouk do Rio de Janeiro - Campeonato - Baterias Eliminatórias.mp4
+  1280x720  |   1653  |    192  |    55  |  00:04:13  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\Leonardo & Layssa performance 2012 Sydney Latin Festival (HD).mp4
+
+   480x360  |    618  |      0  |     3  |  00:00:45  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\Marcelo Granjeiro & Damyla Maria - Congresso Capital Zouk.mp4
+
+  1280x720  |   2488  |    128  |   238  |  00:12:34  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\Prague Zouk Congress 2014 teachers introduction.mp4
+
+   640x360  |    611  |      0  |    22  |  00:04:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\Prague Zouk Congress 2014 teachers show front.mp4
+
+   568x320  |    606  |      0  |    20  |  00:04:14  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\Prague Zouk Congress 2014 teachers show.mp4
+
+   480x360  |    474  |      0  |    12  |  00:03:16  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\Roda de Zouk da Aniversariante Ruanita (2006).mp4
+
+  1280x720  |   2291  |    192  |    57  |  00:03:14  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\Zouk Spring Break 2013. Dance show by  Bailamos  (Nikolaev) (HD).mp4
+  1280x720  |   2036  |    192  |    53  |  00:03:20  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\show\Выступление ребят из Украины, г. Николаев на Corpo Carioca Zouk International Congress 2013 (HD).mp4
+
+   640x480  |      0  |    911  |     5  |  00:00:44  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\Veronezi e Julie Zouk-se Porto Alegre.mp4
+
+  1280x720  |   2147  |    192  |    26  |  00:01:33  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\others\Zulu & Natasha mk-begint 12.08.17-step.mp4
+  1280x720  |      0  |   1238  |    31  |  00:03:21  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Paska\ecoZOUK  Развесовка в камбре  Alex Paska  Ksenia Salazkina [Art of Play].mp4
+  1280x720  |   2500  |    152  |    15  |  00:00:49  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Renato Veronezi\Babi & Renato, Workshop Zürich Zouk Congress 2014 [HD, 720p].mp4
+  1280x720  |   2135  |    144  |    60  |  00:03:40  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Renato Veronezi\demo\Renato Veronezi & Babi Pacheco - Vero Zouk 2nd London Zoukfest Congress 2014.mp4
+  1280x720  |   2365  |    192  |    73  |  00:04:00  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Renato Veronezi\demo\Renato Veronezi & Babi Pacheco - Zouk Day 2013 - Giros e Travas.mp4
+
+   480x360  |    571  |      0  |    15  |  00:03:09  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Renato Veronezi\demo\Renato Veronezi & Babi Pacheco - Zouk Day 2014 (Low).mp4
+   480x360  |    641  |      0  |    17  |  00:03:15  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Renato Veronezi\demo\Renato Veronezi & Babi Pacheco - Zouk Day 2014.mp4
+   480x360  |    619  |      0  |    19  |  00:03:49  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Renato Veronezi\demo\Renato Veronezi & Babi Pacheco.mp4
+   480x360  |    637  |      0  |    23  |  00:04:41  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Renato Veronezi\demo\Renato Veronezi & Carol Agatti - Bergs Congress 2011.mp4
+
+  1280x720  |   2488  |    128  |    16  |  00:00:52  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Renato Veronezi\show\Renato Veronezi & Bruno Galhardo Hip Hop Mens Styling Demo Brno ZoukTime Congress Sept 2014 (HD).mp4
+  1280x720  |   2488  |    102  |    45  |  00:02:26  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\demo\Man Style 2.mp4
+  1280x720  |    641  |    487  |    29  |  00:03:28  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\demo\Wakko  Masha Zouk Biomechanics Master Class 13.12.14.mp4
+  1280x720  |   2488  |    128  |   136  |  00:07:20  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\demo\Wakko & Evelyn - Zouk Party 08.05.13 at Brazuka (Full HD).mp4
+  1280x720  |   2488  |      0  |    87  |  00:04:46  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\demo\Wakko and Masha - Zouk, p2 @ Moscow (HD).mp4
+  1280x720  |   2488  |      0  |    81  |  00:04:27  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\demo\Wakko and Masha - Zouk, p3 @ Moscow (HD).mp4
+  1280x720  |   1800  |    108  |    38  |  00:02:48  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\demo\Wakko Oliveira - Zouk Lady Style.mp4
+  1280x720  |   1612  |    192  |    51  |  00:03:59  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\demo\Wakko Oliveira - Zouk Man Style (2012 Bachaturo).mp4
+  1280x720  |   1935  |    152  |    59  |  00:04:00  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\demo\Zouk with Wakko & Masha in Dnepr (HD).mp4
+  1280x720  |   2488  |    104  |    23  |  00:01:14  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\Man Style.mp4
+  1280x720  |   2488  |    128  |    71  |  00:03:52  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\rueda\Zouk Casino Class 22.04.13 at Brazuka Dance School (HD).mp4
+
+   320x240  |    258  |      0  |    12  |  00:04:46  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\show\Wakko & Ju.flv
+
+   480x360  |    340  |    102  |     7  |  00:02:26  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\show\Wakko & Masha - 2013.mp4
+
+  1280x720  |   1800  |    101  |    36  |  00:02:37  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\show\Wakko & Olya - 2013.mp4
+
+   480x360  |    469  |      0  |    11  |  00:02:55  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\show\Wakko и Masha - 2014.mp4
+
+   320x240  |    256  |      0  |     4  |  00:01:41  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Wakko Oliveira\Латерау назад .mp4
+
+   540x360  |    489  |      0  |    13  |  00:03:08  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Will Zouker (Wilbert Romero)\demo\Will Zouker & Graziele Santos - Men at Zouk 2014.mp4
+
+  1280x720  |   1826  |    192  |    49  |  00:03:25  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Will Zouker (Wilbert Romero)\demo\Will Zouker & Lorena Colla - 2014 (1).mp4
+
+   202x360  |    272  |      0  |     7  |  00:03:00  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Will Zouker (Wilbert Romero)\demo\Will Zouker & Lorena Colla - 2014 (2).mp4
+
+   480x360  |    540  |      0  |    19  |  00:04:11  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Will Zouker (Wilbert Romero)\demo\Will Zouker & Monica Oliveira - Zouk Unlimited.mp4
+
+   540x360  |    537  |      0  |    19  |  00:04:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Will Zouker (Wilbert Romero)\demo\Will Zouker & Monica Oliveira.mp4
+
+   480x360  |    417  |      0  |    11  |  00:03:18  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Will Zouker (Wilbert Romero)\demo\Will Zouker & Ruanita Santos.mp4
+   480x360  |    381  |      0  |     1  |  00:00:24  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Will Zouker (Wilbert Romero)\Will Zouker & Ruanita Santos - узел.mp4
+
+  1280x720  |   2488  |    128  |    81  |  00:04:20  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\demo\William & Lenka - Zurich Zouk Congress 2015.mp4
+  1280x720  |   2488  |    128  |    95  |  00:05:04  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\demo\William & Lenka Neo - Zouk Analysis Workshop Prague.mp4
+  1280x720  |   1333  |    192  |    42  |  00:03:50  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\demo\William & Lenka zouk demo Brazuka birthday fest [HD, 720p](1).mp4
+  1280x720  |   1719  |    192  |    48  |  00:03:31  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\demo\William & Lenka zouk demo Brazuka birthday fest [HD, 720p].mp4
+  1280x720  |   2190  |    192  |    53  |  00:03:09  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\demo\William Teixeira & Lenka Neoralová - dancing ZOUK!!!!!! (HD).mp4
+  1280x720  |   2488  |    113  |    74  |  00:03:57  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\demo\William Teixeira & Paloma Alves - 5th Prague Zouk Congress 2014.mp4
+
+   480x360  |    263  |      0  |    13  |  00:05:07  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\demo\William Teixeira & Paloma Alves - Uai Zouk 2012 - Disco Lies (Low-360p).mp4
+   480x360  |    640  |      0  |    18  |  00:03:32  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\demo\William Teixeira & Paloma Alves - Zouk in Rio 2013 (Low).mp4
+
+  1280x720  |   2488  |    114  |    74  |  00:03:58  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\demo\William Teixeira and Paloma Alves teacher demo 3 ZAC 2014 (HD).mp4
+  1280x720  |   4374  |    128  |    48  |  00:01:29  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\How to Dance Brazilian Zouk Dance Lesson Tutorial by William Teixeira e Paloma Alves.mp4
+  1280x720  |   1895  |    192  |    51  |  00:03:27  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\show\William & Paloma - Congresso Internacional de Zouk e Lambada (4) 2014.mp4
+  1280x720  |   2077  |    192  |   119  |  00:07:21  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\William  Paloma mk-int 13.08.17-step.mp4
+  1280x720  |   2007  |    192  |    45  |  00:02:53  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\William  Paloma- Zouk CounterbalanceReach Class Breakdown  Seattle Dance Festival 2017.mp4
+  1280x720  |   1703  |    192  |    46  |  00:03:26  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\William & Paloma mk-int 12.08.17-step.mp4
+  1280x720  |   2500  |    152  |    73  |  00:03:49  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\william and paloma weekend, workshop, krakau [HD, 720p].mp4
+
+   406x720  |   1001  |    144  |     9  |  00:01:10  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\William Teixeira\ZNL Zouk Music Festival Mexico 2015 - William and Paloma teach infinity step - YouTube [720p].mp4
+
+  1280x720  |   2488  |    124  |    79  |  00:04:14  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Xandy Liberato\demo\Xandy & Evelyn - Prague Zouk Congress 2014.mp4
+  1280x720  |   1819  |    192  |    24  |  00:01:43  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Xandy Liberato\demo\Xandy & Natasha @ Zouk On the Beach Festival (HD).mp4
+  1280x720  |   2447  |    192  |    92  |  00:04:52  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Xandy Liberato\demo\Xandy Liberato & Evelyn Magyari - Zouk Libre Festival 2014.mp4
+  1280x720  |   2488  |    128  |   116  |  00:06:08  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Xandy Liberato\demo\Xandy Liberato & Evelyn Magyari - Zouk Workshop 07.05.13 at Brazuka (Full HD).mp4
+  1280x720  |   1615  |    192  |    65  |  00:05:05  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Xandy Liberato\demo\Zouk Training 2013   Xandy Liberato & Evelyn Magyari (HD).mp4
+  1280x720  |   1467  |    192  |    56  |  00:04:46  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Xandy Liberato\demo\ZOUKTIME Brno - Demo Xandy Liberato & Evelyn Magyari 2013 (HD-720p).mp4
+  1280x720  |   1657  |    192  |    64  |  00:04:50  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Xandy Liberato\Moscow Zouk Congress 2013 - Xandy & Evelyn - Zouk Advanced (HD).mp4
+  1280x720  |   1291  |    126  |    39  |  00:03:51  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Xandy Liberato\Workshop Brazilian Zouk Xandy Liberato Anderson  &amp; Brenda - YouTube [720p].mp4
+  1280x720  |   2488  |    128  |    48  |  00:02:35  |  d:\Dance\!VIDEO\!ZOUK\!PEOPLE\Xandy Liberato\Xandy Liberato & Evelyn Magyari - London Zouk Fest 2013.mp4

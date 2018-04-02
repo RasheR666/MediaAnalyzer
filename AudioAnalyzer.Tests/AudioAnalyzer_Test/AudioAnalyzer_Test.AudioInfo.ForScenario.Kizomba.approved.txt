@@ -1,0 +1,157 @@
+﻿   Ext  |  Size  |  Duration  |  Bitrate  |     BPM  |  Name
+  .mp3  |     9  |  00:03:11  |      320  |   92.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\DJ Kayel\Dj Kayel - Bang Bang (My Baby Shot Me Down ft. Sheïna) 2014 -Kizomba 2014-.mp3
+  .mp3  |     9  |  00:03:52  |      320  |   89.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\DJ Kayel\Dj Kayel - Good for You [ Kizomba2o15 ].mp3
+  .mp3  |     5  |  00:04:19  |      192  |  152.38  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\DJ Vini\OTHER\DJ VINI  Xavier Naidoo - 12-Cassandra steen.mp3
+  .mp3  |     8  |  00:04:47  |      256  |  155.32  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\DJ Vini\Zouk Remixes [2012]\18 - Wo Willst Do Hin (feat. Xavier Naidoo).mp3
+  .mp3  |     3  |  00:04:02  |      128  |   88.01  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\DJ Vini\Zouk Remixes [2013]\01 - Don't Judge Me (feat. Chris Brown).mp3
+  .mp3  |     3  |  00:03:37  |      128  |  140.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\DJ Vini\Zouk Remixes [2013]\03 - Diz Me O Que Fazer.mp3
+  .mp3  |     3  |  00:04:06  |      128  |  156.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\DJ Vini\Zouk Remixes [2013]\06 - Our First Time.mp3
+  .mp3  |     3  |  00:03:37  |      128  |  135.34  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\DJ Vini\Zouk Remixes [2013]\08 - I Bruise Easily.mp3
+  .mp3  |     3  |  00:03:25  |      128  |   81.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\DJ Vini\Zouk Remixes [2013]\14 - Sure Thing.mp3
+  .mp3  |     4  |  00:04:54  |      128  |   88.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\M&N Pro\01 - Midnight Remixes [2013]\01 - M&N Pro - Don't Judge Me (feat. Chris Brown).mp3
+  .mp3  |     9  |  00:04:14  |      320  |   84.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNFAVORITE\M&N Pro\02 - Midnight Remixes 2 [2014]\20 - M&N Pro - Let Me See (feat. Usher & Rick Ross) [2013].mp3
+  .mp3  |     7  |  00:03:24  |      320  |   81.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\2018\SoMo - Simplethings (мalcσмremix).mp3
+  .mp3  |     2  |  00:02:58  |      128  |  154.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\All I Know Are Sad Songs - All I Know Are Sad Songs (SADKIZ by DJ DREEKS) [vk.comdjlevsky kizomba2016].mp3
+  .mp3  |     3  |  00:03:46  |      128  |  130.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\AQUILO - Sorry (Kizomba Remix By Ramon) [vk.comdjlevsky kizomba2017].mp3
+  .mp3  |     3  |  00:04:10  |      128  |   94.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\Disclosure - Help Me Lose My Mind (Mazde Rmx - JB Urban Zouk Version.mp3
+  .mp3  |     2  |  00:02:35  |      128  |  140.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\DJ Alnova - Anytime (feat. Brian McKnight) [Daniel de Bourg cover] kizomba remix.mp3
+  .mp3  |     7  |  00:03:07  |      320  |   95.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\DJ Paimon - Controlla Remix (95 tempo).mp3
+  .mp3  |     3  |  00:03:44  |      128  |   87.26  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\Fairy Face - STARBOY ǀ Kizomba Remix By Ramon10635.mp3
+  .mp3  |    11  |  00:04:50  |      320  |   77.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\Jaime Lancaster  Karen Souza - The Show Must Go On (Kizomba remix by AYago).mp3
+  .mp3  |     4  |  00:05:15  |      128  |  160.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\JB - Hotel California (feat. The Eagles).mp3
+  .mp3  |     9  |  00:03:57  |      320  |   93.10  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\JB - Make you feel (95 tempo).mp3
+  .mp3  |     3  |  00:04:03  |      128  |   87.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\JB - Paradise (JB remix).mp3
+  .mp3  |     3  |  00:03:44  |      128  |   84.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\JoJo - Marvin's Room (Can't Do better) (KIZOMBA- BY PALAVRABEATZ) REMIX.mp3
+  .mp3  |     8  |  00:03:42  |      320  |   90.21  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\love-you-anyway-by-dj-michbuze-kizomba-remix-zmn-2014 (95 tempo).mp3
+  .mp3  |     9  |  00:04:20  |      320  |  142.38  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\Say My Name - Destiny's Child - Dj Lindo Remix (Zouk Music).mp3
+  .mp3  |     4  |  00:05:15  |      128  |  160.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\VersuS - Eclipse.mp3
+  .mp3  |    12  |  00:05:38  |      320  |   82.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\VersuS - Hidden Dimensions (kizomba remix) [2017].mp3
+  .mp3  |     4  |  00:05:20  |      128  |   84.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\VersuS - Whispers.mp3
+  .mp3  |    11  |  00:04:55  |      320  |  139.98  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\VersuS feat. Fleurie - Breathe (Kizomba Remix) [2017] Cutted.mp3
+  .mp3  |    12  |  00:05:22  |      320  |  139.98  |  d:\Dance\!MUSIC\KIZOMBA\DJs\!UNSORTED\VersuS feat. Fleurie - Breathe (Kizomba Remix) [2017].mp3
+  .mp3  |     7  |  00:03:24  |      320  |  140.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Chad\Back To The Start - Somo - Dj Chad Remix (Zouk Music).mp3
+  .mp3  |     6  |  00:03:00  |      320  |  150.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Chad\Dj Chad - Fetty Wap - Trap Queen Ft. Josh Levi, KHS - Piano Cover - Remix Zouk Kizomba - 2015.mp3
+  .mp3  |     7  |  00:03:15  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Chad\Stezy  Dj Chad - Filomena Maricoa - Nhanhado (cover) - Kizomba Zouk Remix 2016 (httpvk.comkizombachatarh).mp3
+  .mp3  |     7  |  00:03:12  |      320  |  160.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Malcom\3005 - Childish Gambino - Malcom Remix (Zouk Music).mp3
+  .mp3  |     6  |  00:02:56  |      320  |   95.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Malcom\Drake - One Dance (Cover) (Malcom remix)[vk.comdjlevsky kizomba2016].mp3
+  .mp3  |     3  |  00:03:44  |      128  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Malcom\Filomena Maricoa - Nhanhado (мalcσмremix)[vk.comdjlevsky kizomba2016].mp3
+  .mp3  |     3  |  00:03:50  |      128  |  150.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Malcom\Justin Bieber - Hold Tight (Cover SoMo) (Remixed ByMalcom) SLOW MOTION.mp3
+  .mp3  |    10  |  00:04:43  |      320  |   88.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Malcom\Mario - Let Me Love You (Remixed ByMalcom).mp3
+  .mp3  |     9  |  00:04:09  |      320  |   78.30  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Alon e Taraxa Remix Dj Radikal.mp3
+  .mp3  |    10  |  00:04:27  |      320  |   88.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\ANSELMO RALPH - REI - Kizomba Remix - DJ RADIKAL.mp3
+  .mp3  |     9  |  00:04:10  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\As Long as You Love Me-Kizomba Remix-Dj Radikal feat Violon Paolo Dodaj-Percus Serge Tatnou.mp3
+  .mp3  |     8  |  00:03:53  |      320  |   94.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\BE OK - Kizomba Remix - DJ RADIKAL.mp3
+  .mp3  |     9  |  00:03:59  |      320  |  160.34  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Carousel - tarraxa remix - dj radikal.mp3
+  .mp3  |     6  |  00:03:02  |      320  |   88.29  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Castle in the snow-Tarraxa Remix-Dj Radikal.mp3
+  .mp3  |     9  |  00:04:15  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Crush-Kizomba Remix-DJ RADIKAL mp3.mp3
+  .mp3  |     9  |  00:04:01  |      320  |   99.99  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Diz Que é só Comigo - Kizomba Remix.mp3
+  .mp3  |    10  |  00:04:43  |      320  |  158.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Dizias que Não-Kizomba Remix-Dj Radi.mp3
+  .mp3  |     7  |  00:03:17  |      320  |   85.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Håller mig vaken-Tarraxa remix-Dj Radikal feat. Al Goliat.mp3
+  .mp3  |     6  |  00:02:56  |      320  |   75.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\i cant wait - kizomba remix - dj radikal.mp3
+  .mp3  |     8  |  00:03:52  |      320  |  140.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Je fuis Paris-kizomba remix-Dj Radik.mp3
+  .mp3  |     8  |  00:03:53  |      320  |  140.01  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Let me love you- A G - Kizomba Remix - Dj Radikal.mp3
+  .mp3  |     7  |  00:03:28  |      320  |   70.76  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\O R   N A H -Kizomba Remix-DJ RADIKAL.mp3
+  .mp3  |     8  |  00:03:52  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Obedear - Kizomba Remix - Dj Radikal.mp3
+  .mp3  |     7  |  00:03:23  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\On & On (feat Daniel Levi)-kizomba remix-dj Radikal.mp3
+  .mp3  |     8  |  00:03:55  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Primeira Dama - Kizomba Remix - DJ RADIKAL.mp3
+  .mp3  |    10  |  00:04:31  |      320  |   88.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Sola - Kizomba Remix - DJ RADIKAL.mp3
+  .mp3  |     8  |  00:03:50  |      320  |   74.24  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Sou nds Li ke Hea ven-kizomba remix-Dj radikal.mp3
+  .mp3  |    12  |  00:05:37  |      320  |   80.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2016\Tem Cuid ado - Ansel mo Ral ph -Kizomba Remix Dj Radikal.mp3
+  .mp3  |     7  |  00:03:12  |      320  |   92.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2017\DJ RADIKAL Share Ravidson-Me leva contigo.mp3
+  .mp3  |     9  |  00:04:05  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2017\Imaginamos - Kizomba Remix - DJ RADI.mp3
+  .mp3  |    12  |  00:05:19  |      320  |   82.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2017\Journey to Fairyland-Kizomba Remix-Dj Radikal feat Mirjana Bodjan.mp3
+  .mp3  |     8  |  00:03:32  |      320  |  138.00  |  d:\Dance\!MUSIC\KIZOMBA\DJs\DJ Radikal\2017\Think - Kizomba Remix - DJ RADIKAL.mp3
+  .mp3  |     8  |  00:03:37  |      320  |   92.90  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\01. Jennifer Dias - Sorry (Kizomba Remix).mp3
+  .mp3  |     8  |  00:03:31  |      320  |   93.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\05. Stony - Magia.mp3
+  .mp3  |    11  |  00:04:55  |      320  |   91.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\09. Calema - Vai.mp3
+  .mp3  |     8  |  00:03:48  |      320  |   91.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\11. Saaphy - Porque .mp3
+  .mp3  |     8  |  00:03:41  |      320  |   83.50  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Anselmo Ralph - Casa Comigo.mp3
+  .mp3  |     9  |  00:03:55  |      320  |   95.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Becky G - Sola.mp3
+  .mp3  |     4  |  00:03:22  |      177  |   87.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Calema - Tudo Por Amor ft. Kataleya.mp3
+  .mp3  |     8  |  00:03:50  |      320  |   92.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Daddy Killa - Perdoname[vk.comdjlevsky kizomba2016].mp3
+  .mp3  |     2  |  00:03:13  |      128  |   92.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\DJ Samuka feat. Ravidson - Me Leva Contigo Kizomba2o17.mp3
+  .mp3  |     3  |  00:03:47  |      128  |   92.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Dynamo feat. Josslyn - Boca Louca.mp3
+  .mp3  |     3  |  00:04:10  |      128  |  140.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Hotline Bling - Kaysha (Zouk Music).mp3
+  .mp3  |     3  |  00:04:22  |      128  |   85.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\i-shouldve-told-ya-motafied.mp3
+  .mp3  |     4  |  00:03:58  |      161  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Jey V -Te Kurto Bué (Lyric Video Official ).mp3
+  .mp3  |     9  |  00:04:08  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Kaysha - Shape Of You Kizomba2o17.mp3
+  .mp3  |     6  |  00:03:38  |      256  |   89.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Mallaryah Assim Vais Me Matar 2014.mp3
+  .mp3  |     8  |  00:03:50  |      320  |   83.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Massimo Scalici - I Don't Wanna Know (kizomba Version - Official Video).mp3
+  .mp3  |     3  |  00:04:01  |      128  |   88.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\STONY - JUMP RMX FEAT. ELJI BEATZKILLA (cover Rihanna) [2016].mp3
+  .mp3  |     8  |  00:03:54  |      320  |   83.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Te Quero Bué - Bruna Tatiana (Zouk Music).mp3
+  .mp3  |     4  |  00:04:07  |      160  |   88.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\!UNSORTED\Zona 5 - Eu sou solteiro ft. Paul G.mp3
+  .mp3  |     7  |  00:03:28  |      320  |   82.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\02 Promessa.mp3
+  .mp3  |     8  |  00:03:37  |      320  |   85.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\03 Única Mulher.mp3
+  .mp3  |     7  |  00:03:09  |      320  |  152.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\04 Estas No POnto.mp3
+  .mp3  |     9  |  00:04:16  |      320  |   94.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\05 Vai Com Calma.mp3
+  .mp3  |     8  |  00:03:44  |      320  |  150.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\06 Mente Para Mim.mp3
+  .mp3  |     9  |  00:04:20  |      320  |  140.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\07 Se Fosse Eu.mp3
+  .mp3  |     7  |  00:03:29  |      320  |   91.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\08 Moça Relacha.mp3
+  .mp3  |     8  |  00:03:45  |      320  |   95.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\09 Aplauso Para ti.mp3
+  .mp3  |    10  |  00:04:24  |      320  |   81.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\10 Tem Cuidado.mp3
+  .mp3  |     7  |  00:03:21  |      320  |   93.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\11 Vou-te Salvar.mp3
+  .mp3  |    10  |  00:04:40  |      320  |  141.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\12 Eras Mais Feliz.mp3
+  .mp3  |    11  |  00:05:06  |      320  |  120.02  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\13 Eu te Amava Mais.mp3
+  .mp3  |     9  |  00:04:16  |      320  |   89.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\14 Rei.mp3
+  .mp3  |     8  |  00:03:49  |      320  |  128.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\15 Parte a Loiça Toda.mp3
+  .mp3  |    10  |  00:04:42  |      320  |  140.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\16 É Hoje.mp3
+  .mp3  |    10  |  00:04:43  |      320  |  132.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A Dor Do Cupido (2013)\17 Muito Obrigado.mp3
+  .mp3  |     7  |  00:03:19  |      320  |  138.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A dor do Cupido (Single) (2011)\01 Animal.mp3
+  .mp3  |    11  |  00:05:05  |      320  |  119.99  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A dor do Cupido (Single) (2011)\02 Recuar.mp3
+  .mp3  |    10  |  00:04:39  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A dor do Cupido (Single) (2011)\03 Nao me toca.mp3
+  .mp3  |     8  |  00:03:34  |      320  |  128.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A dor do Cupido (Single) (2011)\04 Ta Dificil.mp3
+  .mp3  |     8  |  00:03:50  |      320  |  128.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - A dor do Cupido (Single) (2011)\05 O que k adianta.mp3
+  .mp3  |     9  |  00:04:09  |      320  |   99.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\01 Nào vim do nada.mp3
+  .mp3  |     8  |  00:03:43  |      320  |  120.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\02 Ela è.mp3
+  .mp3  |     9  |  00:04:19  |      320  |   90.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\03 Minha bebe.mp3
+  .mp3  |     9  |  00:04:12  |      320  |  149.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\04 Nào liga.mp3
+  .mp3  |     7  |  00:03:29  |      320  |  102.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\05 Agora podes dançar.mp3
+  .mp3  |     9  |  00:04:15  |      320  |  117.98  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\06 O meu melhor amigo.mp3
+  .mp3  |    10  |  00:04:35  |      320  |  159.97  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\07 Pòs casamento.mp3
+  .mp3  |     9  |  00:04:11  |      320  |  160.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\08 Nào vai embora.mp3
+  .mp3  |    11  |  00:05:09  |      320  |  144.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\09 Deixa vir.mp3
+  .mp3  |     8  |  00:03:36  |      320  |   88.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\10 Um dois.mp3
+  .mp3  |    10  |  00:04:44  |      320  |  120.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\11 Nào vai dar parte 2.mp3
+  .mp3  |    11  |  00:04:58  |      320  |  130.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\12 Escravo.mp3
+  .mp3  |     8  |  00:03:54  |      320  |   97.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\13 Padrasto.mp3
+  .mp3  |     8  |  00:03:32  |      320  |   99.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\14 Nào hà problema.mp3
+  .mp3  |    13  |  00:05:49  |      320  |   86.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - As Últimas Histórias de Amor (2006)\15 Vem comigo.mp3
+  .mp3  |     3  |  00:04:13  |      128  |  146.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\01 Não sou ninguem pt. Cage one.mp3
+  .mp3  |     3  |  00:04:00  |      128  |  138.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\02 Primeira vez.mp3
+  .mp3  |     5  |  00:05:44  |      128  |  142.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\03 O papa voltará.mp3
+  .mp3  |     3  |  00:03:35  |      128  |  109.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\04 Domesticado pt. Sondokan-Hamilton.mp3
+  .mp3  |     4  |  00:04:41  |      128  |  120.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\05 Fanatismo pt. Madlice Lukete.mp3
+  .mp3  |     4  |  00:04:39  |      128  |   99.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\06 Tu vais ver.mp3
+  .mp3  |     4  |  00:05:12  |      128  |  155.37  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\07 Ha quem queira.mp3
+  .mp3  |     3  |  00:03:51  |      128  |   91.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\08 Vem nos ajudar pt. Hamilton, Lázaro.mp3
+  .mp3  |     4  |  00:04:38  |      128  |  130.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\09 Playboy casado.mp3
+  .mp3  |     3  |  00:03:41  |      128  |   92.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\10 Arrependido.mp3
+  .mp3  |     3  |  00:03:22  |      128  |  118.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\11 Vai doer.mp3
+  .mp3  |     3  |  00:03:17  |      128  |  125.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\12 E a minha filha pt. Edson Estrela, Ducho-Nguabi.mp3
+  .mp3  |     2  |  00:03:14  |      128  |  140.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\13 Beijo outra Boca.mp3
+  .mp3  |     3  |  00:04:04  |      128  |  159.97  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\14 Bem feito p'ra mim.mp3
+  .mp3  |     3  |  00:03:47  |      128  |  110.66  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\15 Não sirvo p'ra ti.mp3
+  .mp3  |     4  |  00:04:33  |      128  |  143.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\16 Relógio Bomba.mp3
+  .mp3  |     3  |  00:03:47  |      128  |   86.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - O Cupido (2009)\17 Assumir barulho pt. Nelson Freitas.mp3
+  .mp3  |     3  |  00:03:26  |      128  |   99.99  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralf-Vai pegar fogo  ft T.C, JC.mp3
+  .mp3  |     5  |  00:03:57  |      192  |  100.05  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph & Kadaff Feat. Papitchulo - Let's Get Party.mp3
+  .mp3  |     3  |  00:02:43  |      192  |   88.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo ralph ft Cage one-chega.mp3
+  .mp3  |     4  |  00:04:49  |      128  |  120.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph ft Heavy C-nao vai dar part 3.mp3
+  .mp3  |     4  |  00:03:41  |      160  |  107.99  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph ft Man Killa-Bounce.mp3
+  .mp3  |     6  |  00:04:45  |      192  |  134.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph-A Minha Mulher.mp3
+  .mp3  |     4  |  00:03:56  |      160  |   83.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph-a sua numero um.mp3
+  .mp3  |    10  |  00:04:29  |      320  |   89.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph-Atira Agua Feat Nelson Freitas & Eddy Parker.mp3
+  .mp3  |     3  |  00:04:11  |      128  |   90.01  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph-Gato por Lebre.mp3
+  .mp3  |     6  |  00:03:30  |      256  |  102.97  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph-No Passado (Feat Marita Vénus).mp3
+  .mp3  |     4  |  00:04:59  |      128  |   85.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph-Sabe Paixao (feat. Yanusa).mp3
+  .mp3  |     4  |  00:05:12  |      128  |  131.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph-Segue o Teu Caminho.mp3
+  .mp3  |     5  |  00:03:52  |      192  |   85.04  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph-Ta Bom Tarrachar.mp3
+  .mp3  |     3  |  00:04:20  |      128  |  159.99  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo Ralph-Tem Calma.mp3
+  .mp3  |     8  |  00:03:50  |      320  |   88.99  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Anselmo-o que tu queres de mim.mp3
+  .mp3  |     3  |  00:03:23  |      128  |  125.13  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\AnselmoRalph-QueroTeDeVolta.mp3
+  .mp3  |     8  |  00:03:35  |      320  |  127.11  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Bonus [Desejos c- Na Madrugada].mp3
+  .mp3  |     5  |  00:03:55  |      192  |  131.32  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Bonus[Banda calypso feat. anselmo ralph-som da áfrica.mp3
+  .mp3  |     9  |  00:04:12  |      320  |  100.11  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Bonus[Jd e Anselmo Ralph - Ela Dança.mp3
+  .mp3  |     4  |  00:04:42  |      128  |   88.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Bonus[Trio Fam & anselmo Ralph-nos dois.mp3
+  .mp3  |     3  |  00:03:38  |      128  |  100.98  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Por Tras dos Albuns (2012)\Bonus[ZK ft. Anselmo Ralph-esta Noite.mp3
+  .mp3  |     3  |  00:03:53  |      128  |   85.00  |  d:\Dance\!MUSIC\KIZOMBA\SINGERS\Anselmo Ralph\Anselmo Ralph - Unica Mulher.mp3

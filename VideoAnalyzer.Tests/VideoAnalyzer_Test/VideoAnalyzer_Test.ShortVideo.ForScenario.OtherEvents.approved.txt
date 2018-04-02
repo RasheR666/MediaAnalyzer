@@ -1,0 +1,10 @@
+﻿Resolution  |  Video  |  Audio  |  Size  |  Duration  |  Name
+
+   720x480  |   1127  |    128  |     0  |  00:00:05  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 133330.flv
+   720x480  |   1169  |    128  |     1  |  00:00:08  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 134144.flv
+   720x480  |   1165  |    128  |     1  |  00:00:08  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 12 135446.flv
+   720x480  |   1144  |    130  |     1  |  00:00:08  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 14 27 34.flv
+   720x480  |    970  |    123  |     0  |  00:00:04  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 14 39 52.flv
+   720x480  |   1163  |    128  |     1  |  00:00:09  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2011-11-12 - Leonardo Neves & Layssa Liebscher\Explanation\Leonardo Neves e Layssa Liebsher 2011 11 13 15 39 00.flv
+
+  1280x720  |   2488  |    121  |     1  |  00:00:03  |  d:\Dance\!VIDEO\!ZOUK\!OTHER EVENTS\2012-07-05 - Mafie Zouker In Moscow\Воркшоп с Mafie Zouker в Москве 1-1.mp4

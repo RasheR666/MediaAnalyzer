@@ -1,0 +1,355 @@
+﻿   Ext  |  Size  |  Duration  |  Bitrate  |     BPM  |  Name
+  .mp3  |     2  |  00:04:09  |        0  |  100.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2012\Massari  OGB  Tone Works - Real Love Zouk Remix.mp3
+  .mp3  |     5  |  00:04:01  |      183  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2012\Ricky Boy - Djan Dicidi [2011] - 8. Tem Ki Ser Dimeu (feat. Djodje).mp3
+  .mp3  |     3  |  00:03:47  |      128  |   82.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2014\Naldo Benny - Faz sentir.mp3
+  .mp3  |     7  |  00:03:15  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2014\Sylwia Grzeszczak - Sen o przyszłości [neozouk remix].mp3
+  .mp3  |     9  |  00:04:12  |      320  |  129.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2015\15_Drake_-_Feel_Love_(Feat._Sean_Garrett).mp3
+  .mp3  |     5  |  00:03:50  |      189  |  120.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2015\Boyce Avenue - Daylight.mp3
+  .mp3  |     4  |  00:03:48  |      164  |  104.10  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2015\Boyce Avenue - Skyscraper (Feat- Megan Nicole).mp3
+  .mp3  |     9  |  00:04:19  |      320  |  108.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2015\Ed Sheeran - Photograph.mp3
+  .mp3  |     8  |  00:03:32  |      320  |  128.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2015\Ellie Goulding - Beating Heart.mp3
+  .mp3  |     5  |  00:03:57  |      177  |  144.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2015\Elliott Yamin - You.mp3
+  .mp3  |     8  |  00:03:51  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2015\Jordin Sparks - Watch You Go.mp3
+  .mp3  |     8  |  00:03:38  |      320  |  119.99  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2015\Zella Day - 1965.mp3
+  .mp3  |     8  |  00:03:37  |      320  |   93.93  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Alex Aiono - Work The Middle (93 tempo).mp3
+  .mp3  |     8  |  00:03:54  |      320  |   92.15  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Bang La Decks - Zouka (Original Mix) (95 tempo).mp3
+  .mp3  |     2  |  00:03:12  |      128  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Bowie & Ellusive - Silent (ft. Hype Turner).mp3
+  .mp3  |     3  |  00:04:10  |      128  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Branko - Let Me Go ft. Nonku Phiri  Mr. Carmack.mp3
+  .mp3  |     3  |  00:03:58  |      128  |   87.50  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Branko - Made of Gold (feat. SKIP&DIE & Fellow).mp3
+  .mp3  |     7  |  00:03:10  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Dante Klein - Harder ft. HAILZ (Official Music Video) (90 tempo).mp3
+  .mp3  |     8  |  00:03:36  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Don't Be Afraid - Dru (Zouk Music).mp3
+  .mp3  |     9  |  00:04:08  |      320  |  156.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Ela Gosta De Brincar - Terra Preta (Zouk Music).mp3
+  .mp3  |     5  |  00:02:37  |      320  |  151.99  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Feliz e Ponto - Silva (Zouk Music).mp3
+  .mp3  |     6  |  00:02:48  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\G Girls - Milk and Honey.mp3
+  .mp3  |     9  |  00:04:04  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\J. Balvin - Tranquila.mp3
+  .mp3  |     9  |  00:04:01  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Justin Bieber - Sorry (Latino Remix  Audio) ft. J Balvin (90 tempo).mp3
+  .mp3  |     6  |  00:04:39  |      192  |   93.50  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Kafé - Nós 4.mp3
+  .mp3  |     7  |  00:03:23  |      320  |   94.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Kamelia - Amor.mp3
+  .mp3  |     8  |  00:03:46  |      320  |   92.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Kamelia - Suave.mp3
+  .mp3  |     9  |  00:04:06  |      320  |   91.80  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Little Mix - No More Sad Songs (feat. Machine Gun Kelly) (90 tempo).mp3
+  .mp3  |     8  |  00:03:53  |      320  |   91.80  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Little Mix - Touch (90 tempo).mp3
+  .mp3  |     7  |  00:03:16  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\L'One - Якутяночка Моя (ft. Варвара Визбор).mp3
+  .mp3  |     7  |  00:03:23  |      320  |   83.70  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Major Lazer - Cold Water (feat. Justin Bieber  MØ) (Official Lyric Video) (90 tempo).mp3
+  .mp3  |     7  |  00:03:23  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Major Lazer  MOTi - Boom (Feat. Ty Dolla ign, Wizkid,  Kranium) (90 tempo).mp3
+  .mp3  |     6  |  00:03:02  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Major Lazer - Sua Cara (feat. Anitta  Pabllo Vittar) (90 tempo).mp3
+  .mp3  |     9  |  00:04:10  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Maroon 5 - Cold (feat. Future) (90 tempo).mp3
+  .mp3  |     6  |  00:02:43  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Meghan Trainor - Better (feat. Yo Gotti).mp3
+  .mp3  |     8  |  00:03:45  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Muneca - Vai (LLP Remix) Official Video (90 tempo).mp3
+  .mp3  |     8  |  00:03:33  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Nobody - Danelle  Salda (Zouk Music).mp3
+  .mp3  |     9  |  00:04:05  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\OneRepublic - No Vacancy (90 tempo).mp3
+  .mp3  |     8  |  00:03:44  |      320  |   89.30  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Serena Corleone - Feel So Good (95 tempo).mp3
+  .mp3  |     7  |  00:03:22  |      320  |   96.90  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Shakira - Chantaje ft. Maluma (95 tempo).mp3
+  .mp3  |     7  |  00:03:06  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Shawn Mendes - Treat You Better.mp3
+  .mp3  |     7  |  00:03:27  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Sia - Cheap Thrills (Original).mp3
+  .mp3  |     8  |  00:03:49  |      320  |   86.45  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Sia - Never Give Up (95 tempo).mp3
+  .mp3  |     8  |  00:03:51  |      320  |   93.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\So In Love - P. Lowe (Zouk Music).mp3
+  .mp3  |    10  |  00:04:24  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Unthinkable (Saxo Version) - P. Lowe Feat. Shaudeh Price (Zouk Music).mp3
+  .mp3  |     4  |  00:03:28  |      192  |   92.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Usher - Wait For It.mp3
+  .mp3  |     8  |  00:03:42  |      320  |   91.10  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2017\Vice ft Jasmine Thompson  Skizzy Mars - Steady 1234 (Bad Royale Remix) (90 tempo).mp3
+  .mp3  |     4  |  00:03:40  |      165  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2018\Dj JoRa NeW SoNG 2017 - 50 CENT P.I.M.P - NEW SONG 2017.mp3
+  .mp3  |     8  |  00:03:44  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!!Zouk Beat\2018\Endredom - Son d'Play (Zouk Music).mp3
+  .mp3  |     5  |  00:02:34  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2013\Flume - Holding On [320].mp3
+  .mp3  |    10  |  00:04:12  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\ARival - TMNT 2012 (OST-HD Черепашки-ниндзя  Teenage Mutant Ninja Turtles) TMNT 2012 (Vk.ComOstHD).mp3
+  .mp3  |     4  |  00:04:33  |      128  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\Beal  Ras feat Troo L.S. - I like It.mp3
+  .mp3  |     5  |  00:03:48  |      192  |  101.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\Bobby Brackins Feat. Dev - A1.mp3
+  .mp3  |     4  |  00:04:42  |      128  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\Disclosure feat. Eliza Doolittle - You and Me (Flume remix).mp3
+  .mp3  |     6  |  00:03:26  |      246  |   82.50  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\Juicy J, Wiz Khalifa  Ty Dolla Sign - Shell Shocked (OST TMNT 2014).mp3
+  .mp3  |     7  |  00:03:17  |      320  |   91.50  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\Nicky B - Tik Tok.mp3
+  .mp3  |     7  |  00:03:21  |      320  |   87.50  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\Skrillex Feat. Sirah - Kyoto (Original Mix).mp3
+  .mp3  |     4  |  00:05:08  |      128  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\Söhne Mannheims - 11-Zurück zu dir.mp3
+  .mp3  |     3  |  00:03:30  |      128  |   80.85  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\Xavier Naidoo - 22-Halte Durch (Zouk Remix 2011).mp3
+  .mp3  |     7  |  00:04:01  |      273  |  146.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2014\Xavier Naidoo - Alles kann besser werden (Naidoo-Herberger-Spezial Remix).mp3
+  .mp3  |     9  |  00:04:16  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\01 - Wo willst du hin_ (Radio Edit).mp3
+  .mp3  |     9  |  00:04:10  |      320  |  134.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\01 Often.mp3
+  .mp3  |     8  |  00:03:39  |      320  |  122.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\01. Flatline.mp3
+  .mp3  |     9  |  00:04:07  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\01. High For This.mp3
+  .mp3  |    10  |  00:04:21  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\01. X.mp3
+  .mp3  |     6  |  00:02:57  |      320  |  100.39  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\02 - Talk Dirty (Feat. 2 Chainz).mp3
+  .mp3  |     7  |  00:03:13  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\02 - Wiggle (Feat. Snoop Dogg).mp3
+  .mp3  |     8  |  00:03:46  |      320  |   91.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\02. Princess Of China (Invisible Men Remix).mp3
+  .mp3  |     4  |  00:04:11  |      160  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\03 - Dope Fiend.mp3
+  .mp3  |    11  |  00:04:57  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\03. Everytime.mp3
+  .mp3  |     9  |  00:04:03  |      320  |  156.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\03. Our First Time.mp3
+  .mp3  |     9  |  00:04:00  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\05 Love Like That (feat. K. Michelle).mp3
+  .mp3  |     9  |  00:04:08  |      320  |  128.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\06 - 2012.mp3
+  .mp3  |     3  |  00:03:18  |      164  |   84.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\08 - Coming Home (Feat- DeStorm Power).mp3
+  .mp3  |    12  |  00:05:19  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\08. Tie My Hands (feat. Robin Thicke).mp3
+  .mp3  |     8  |  00:03:41  |      320  |   97.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\09 - All Hands On Deck (Produced By Stargate).mp3
+  .mp3  |     7  |  00:03:05  |      320  |  160.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\09 Lego House.mp3
+  .mp3  |     6  |  00:04:40  |      192  |  154.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\10 - Corre.mp3
+  .mp3  |    11  |  00:04:47  |      320  |  148.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\10. Valerie.mp3
+  .mp3  |    10  |  00:04:41  |      320  |  158.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\11 Thinking Out Loud.mp3
+  .mp3  |     7  |  00:03:20  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\11. Nothing Like Us (Bonus Track).mp3
+  .mp3  |    12  |  00:05:14  |      320  |  137.75  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\11. Where Do We Draw The Line.mp3
+  .mp3  |    10  |  00:04:29  |      320  |  146.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\12. Autumn Leaves (Feat. Kendrick Lamar).mp3
+  .mp3  |     9  |  00:04:10  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\12. Love The Way You Lie (Part II) (Piano Version).mp3
+  .mp3  |    11  |  00:04:59  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\12. Sleep.mp3
+  .mp3  |     9  |  00:04:16  |      320  |  132.02  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\13. The Last Song.mp3
+  .mp3  |    10  |  00:04:21  |      320  |  147.99  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\15. High For This (The Weeknd Cover).mp3
+  .mp3  |    11  |  00:04:59  |      320  |  152.03  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\16 I See Fire.mp3
+  .mp3  |     8  |  00:03:37  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\17 - Wildfire (Produced By Michel).mp3
+  .mp3  |    10  |  00:04:39  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\17. Love Me Like You Do.mp3
+  .mp3  |     7  |  00:03:12  |      320  |  134.03  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\17. Your Song (Bonus Track).mp3
+  .mp3  |     4  |  00:04:33  |      128  |  136.71  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\18 Fall For Your Type (Feat. Jamie Foxx).mp3
+  .mp3  |     3  |  00:03:53  |      128  |  120.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\18 Panty Droppa (The Complete Edition).mp3
+  .mp3  |    12  |  00:05:22  |      320  |  132.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\19 - Para Sempre (Remix) (feat. Luiza Chao).mp3
+  .mp3  |     4  |  00:03:44  |      160  |  133.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Abel Miller (Feat. Loick Essien) - Take Care  very very nice SEXY.mp3
+  .mp3  |     9  |  00:04:12  |      320  |   98.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\AlunaGeorge - You Know You Like It (Dj Snake Remix).mp3
+  .mp3  |     2  |  00:02:57  |      128  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Aquilo - Human (Marian Hill Remix).mp3
+  .mp3  |     8  |  00:03:29  |      320  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Beyonce - Drunk In Love (The Weeknd Remix).mp3
+  .mp3  |     8  |  00:03:27  |      320  |  160.16  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Cassie feat. Wiz Khalifa - Paradise.mp3
+  .mp3  |    11  |  00:04:58  |      320  |  127.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Elliot Moss - Slip.mp3
+  .mp3  |     3  |  00:03:14  |      128  |   82.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Inna feat. Marian Hill - Diggy Down.mp3
+  .mp3  |     2  |  00:03:51  |        0  |   84.09  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Katy B - Drunk In Love Vulnerable (BeyonceTinashe Cover).mp3
+  .mp3  |     4  |  00:03:12  |      200  |  100.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Lil Jon Feat. DJ Snake vs Pitbull  Ludacris - Turn Down For What (Remix) - Soundvor.ru.mp3
+  .mp3  |     5  |  00:06:04  |      128  |   93.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Lorde - Tennis Court (Flume Remix).mp3
+  .mp3  |     2  |  00:03:03  |      128  |  160.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Marian Hill - One Time (Aquilo Remix).mp3
+  .mp3  |     7  |  00:03:03  |      320  |  132.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Neon Jungle - Waiting Game (Banks Cover).mp3
+  .mp3  |     7  |  00:03:23  |      320  |  152.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Nick Jonas - Chains.mp3
+  .mp3  |     9  |  00:04:20  |      320  |  139.99  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\ONUKA - Time (NoGrid Remix).mp3
+  .mp3  |    12  |  00:05:26  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Porter Robinson - Divinity (feat. Amy Millan) [ODESZA Remix].mp3
+  .mp3  |     7  |  00:03:08  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Sean Garret - Patron feat. Pharrell.mp3
+  .mp3  |     3  |  00:03:41  |      128  |   89.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Selena Gomez - Good For You (feat. AAP Rocky).mp3
+  .mp3  |     3  |  00:03:45  |      128  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Selena Gomez - The Heart Wants What It Wants.mp3
+  .mp3  |    10  |  00:04:41  |      320  |  120.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Sevyn Streeter - It Won't Stop (ft. Chris Brown).mp3
+  .mp3  |     6  |  00:03:41  |      241  |  115.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\SoMo - Ride (feat. Ty Dolla ign  K Camp) (Remix).mp3
+  .mp3  |     3  |  00:03:36  |      128  |  113.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\The Weeknd - The Hills (Rendition) by SoMo.mp3
+  .mp3  |    10  |  00:04:02  |      320  |  113.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\The Weeknd - The Hills.mp3
+  .mp3  |    12  |  00:05:25  |      320  |  114.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\The Weeknd - Wicked Games (50 оттенков серого).mp3
+  .mp3  |     7  |  00:05:38  |      192  |  160.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\The XX - Angels (Dakota ReWork).mp3
+  .mp3  |     8  |  00:03:40  |      320  |  130.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Tiaan - Dive Deep.mp3
+  .mp3  |    10  |  00:04:40  |      320  |  114.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Tinashe - Days In The West [Ekali Remix].mp3
+  .mp3  |     4  |  00:04:42  |      128  |  160.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2015\Vanic X Zella Day - Hypnotic.mp3
+  .mp3  |     7  |  00:03:26  |      320  |  144.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Aquilo - Better Off Without You.mp3
+  .mp3  |    12  |  00:05:17  |      320  |  100.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Ed Sheeran - I See Fire (Kygo Remix).mp3
+  .mp3  |     3  |  00:03:50  |      128  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Kiiara - Intention.mp3
+  .mp3  |     9  |  00:03:56  |      320  |  154.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Kygo - Nothing Left (feat. Will Heard).mp3
+  .mp3  |     8  |  00:03:37  |      320  |  147.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Little Mix - Salute (Troyboi Remix).mp3
+  .mp3  |     9  |  00:03:00  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Miguel - Sure Thing (Phazz Remix).mp3
+  .mp3  |     4  |  00:03:23  |      192  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Mike Posner - Be As You Are (Jordan XL Remix).mp3
+  .mp3  |     8  |  00:03:43  |      320  |  147.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Mike Posner ft Lil Wayne - Bow Chicka Bow Wow (Remix).mp3
+  .mp3  |     7  |  00:03:54  |      256  |  124.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Nick Jonas - Close (ft. Tove Lo).mp3
+  .mp3  |     7  |  00:03:25  |      320  |  100.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Sak Noel Salvi ft. Sean Paul - Trumpets [vk.comreggaetondhqtwerk].mp3
+  .mp3  |     8  |  00:03:29  |      320  |   89.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Selena Gomez - Good For You (J Farell Remix).mp3
+  .mp3  |     9  |  00:04:02  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\Skrillex  Diplo pres. Jack Ü - Mind (ft. Kai).mp3
+  .mp3  |     8  |  00:03:54  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2016\The Weeknd - Often (Kygo Remix).mp3
+  .mp3  |    10  |  00:04:40  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\01 -Atb And Jes - Together.mp3
+  .mp3  |     9  |  00:04:05  |      320  |  135.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\01 Hotline Bling.mp3
+  .mp3  |    23  |  00:10:13  |      320  |   90.21  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\04 - Röyksopp & Robyn - Monument (97 tempo).mp3
+  .mp3  |    10  |  00:04:22  |      320  |   81.71  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Alicia Keys - Unthinkable (95 tempo).mp3
+  .mp3  |     8  |  00:03:49  |      320  |  123.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Britney Spears-- - Make Me... (feat. G-Eazy).mp3
+  .mp3  |     8  |  00:03:30  |      320  |  134.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Bruno Mars - Thats What I Like [Official Video].mp3
+  .mp3  |     7  |  00:03:12  |      320  |  122.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Calvin & Harris Disciples - How Deep Is Your Love (Rendition) by SoMo.mp3
+  .mp3  |    12  |  00:05:22  |      320  |   85.50  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Cathedrals - OOO AAA (95 tempo).mp3
+  .mp3  |     7  |  00:03:25  |      320  |  125.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\ELHAE - Needs  Fetty Wap - Like A Star feat. Nicki Minaj.mp3
+  .mp3  |     6  |  00:02:49  |      320  |  144.99  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Era Istrefi feat. Felix Snow - Redrum.mp3
+  .mp3  |     3  |  00:02:38  |      196  |  117.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Hotline Bling - Drake - (William Singe Cover).mp3
+  .mp3  |     4  |  00:03:49  |      166  |  113.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Janine And The Mixtape - We Could Be Better [Official Audio].mp3
+  .mp3  |     3  |  00:02:54  |      159  |  116.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Jeremih X Trey Songz - Birthday Sex-Foreign (Remix) (Will Singe Cover).mp3
+  .mp3  |     7  |  00:03:24  |      320  |   91.80  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Krewella - Team (90 tempo).mp3
+  .mp3  |     7  |  00:03:22  |      320  |   81.90  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\MAX - Holla (90 tempo).mp3
+  .mp3  |     2  |  00:03:00  |      128  |  144.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Nick Jonas - Bacon ft. Ty Dolla $ign.mp3
+  .mp3  |     8  |  00:03:46  |      320  |   85.50  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Not Your Dope feat. Oly - What You Do to Me (feat. Oly) (95 tempo).mp3
+  .mp3  |     2  |  00:03:08  |      128  |   93.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Omar Kadir - Catch Up.mp3
+  .mp3  |     7  |  00:03:21  |      320  |   87.40  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Otilia - You, you (95 tempo).mp3
+  .mp3  |     6  |  00:02:43  |      320  |   89.24  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\R3hab feat. Little Daylight - Truth or Dare (92 tempo).mp3
+  .mp3  |     2  |  00:02:46  |      128  |  128.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Say My Name - Destiny's Child - (William Singe Cover).mp3
+  .mp3  |     7  |  00:03:23  |      320  |   83.70  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Sim - Anitta Feat. Cone Crew (Zouk Music) (90 tempo).mp3
+  .mp3  |     3  |  00:03:35  |      128  |  121.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Travis Garland - Favors ft Tove Lo & 2 Chainz (Audio).mp3
+  .mp3  |     3  |  00:04:02  |      128  |  105.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Travis Garland - You Made Your Bed (So Lay In It).mp3
+  .mp3  |     9  |  00:04:03  |      320  |  130.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2017\Yuna - Crush (feat. Usher).mp3
+  .mp3  |     7  |  00:04:06  |      256  |  114.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2018\57-JMR - Shivers.mp3
+  .mp3  |     7  |  00:04:04  |      256  |  138.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2018\Agora Feat. Tribo da Periferia.mp3
+  .mp3  |     7  |  00:03:17  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2018\Dimitri Vegas  Like Mike vs Diplo  Kid Ink - Hey Baby (feat. Deb's Daughter) [Official Video].mp3
+  .mp3  |     8  |  00:03:41  |      320  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2018\Misael - Longe do Fim [Official Video].mp3
+  .mp3  |     7  |  00:03:29  |      320  |  112.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\!Other Beat\2018\Um44k - 4 Da Manhã.mp3
+  .mp3  |    10  |  00:04:46  |      320  |   91.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\00 - Other\1 - Acredita.mp3
+  .mp3  |     9  |  00:03:54  |      320  |   91.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\00 - Other\1 - Jbpl (Ja Bo Pom Lume).mp3
+  .mp3  |     4  |  00:04:51  |      128  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\00 - Other\2Much - Uma em Um Milhão (Official Video UHD 4K).mp3
+  .mp3  |     9  |  00:03:59  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\00 - Other\2Much - VOU NO FIEL.mp3
+  .mp3  |     3  |  00:03:31  |      128  |   93.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\00 - Other\2MUCH & LIL STAR - Baza Comigo.mp3
+  .mp3  |    11  |  00:05:12  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\00 - Other\Bo E Nha Vida  feat. 2Much.mp3
+  .mp3  |     4  |  00:04:23  |      128  |   92.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\00 - Other\DJ Samuka - Atenção feat. Mika Mendes & 2Much [2015].mp3
+  .mp3  |     7  |  00:04:29  |      192  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\01 - Não Quero Nem Saber.mp3
+  .mp3  |     6  |  00:04:01  |      192  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\02 - Situação.mp3
+  .mp3  |     4  |  00:04:40  |      128  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\03 - Confession.mp3
+  .mp3  |     6  |  00:04:03  |      192  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\04 - Bo Pode Ser Sincera.mp3
+  .mp3  |     6  |  00:03:57  |      192  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\05 - Na Minha Casa.mp3
+  .mp3  |     3  |  00:03:47  |      128  |   86.03  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\06 - Dangerous (feat. Sp).mp3
+  .mp3  |     7  |  00:04:28  |      192  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\07 - Anjo (feat. Ravidson).mp3
+  .mp3  |     7  |  00:04:28  |      192  |   89.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\08 - Quando Vais.mp3
+  .mp3  |     4  |  00:04:28  |      128  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\09 - Feel your Body.mp3
+  .mp3  |     6  |  00:04:22  |      192  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\10 - Não Desistas.mp3
+  .mp3  |     6  |  00:03:51  |      192  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\11 - Temperatura.mp3
+  .mp3  |     6  |  00:04:12  |      192  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\12 - I Wanna Dance.mp3
+  .mp3  |     3  |  00:04:20  |      128  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\13 - Fazer Amor.mp3
+  .mp3  |     6  |  00:04:10  |      192  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\01 - Working hard\14 - Eu Era (feat. Deezywonder).mp3
+  .mp3  |    10  |  00:04:25  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\02 - Baby\1 - Baby Baby.mp3
+  .mp3  |     9  |  00:04:14  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\02 - Baby\2 - Best You Ever Had (feat_ Ravidson).mp3
+  .mp3  |    10  |  00:04:45  |      320  |   89.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\02 - Baby\3 - Ta Bom (feat_ Nsoki).mp3
+  .mp3  |     9  |  00:04:07  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\02 - Baby\4 - Apaga a Luz.mp3
+  .mp3  |     9  |  00:04:09  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\02 - Baby\5 - Sou Fiel.mp3
+  .mp3  |     9  |  00:04:15  |      320  |   87.02  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\02 - Baby\6 - Por Magia (Situacao Part_II).mp3
+  .mp3  |     9  |  00:03:56  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\02 - Baby\7 - Perco Juizo.mp3
+  .mp3  |     9  |  00:04:13  |      320  |   89.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\01 - Droga Pura.mp3
+  .mp3  |    11  |  00:04:49  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\02 - Uma Em um Milhao.mp3
+  .mp3  |    10  |  00:04:21  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\03 - Deixa Te Levar.mp3
+  .mp3  |    10  |  00:04:32  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\04 - Bu Podi Bai.mp3
+  .mp3  |     9  |  00:03:58  |      320  |   91.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\05 - Nao Es So Meu.mp3
+  .mp3  |     8  |  00:03:53  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\06 - Nha Cretcheu.mp3
+  .mp3  |     8  |  00:03:39  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\07 - Invisti Na Bo.mp3
+  .mp3  |     9  |  00:04:02  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\08 - Bo Corp.mp3
+  .mp3  |    11  |  00:05:03  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\09 - Ka Tem.mp3
+  .mp3  |     8  |  00:03:41  |      320  |   89.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\10 - Quero Te Provar.mp3
+  .mp3  |     8  |  00:03:29  |      320  |   94.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\11 - Para Di Fadigam.mp3
+  .mp3  |    10  |  00:04:40  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\12 - Vampiro.mp3
+  .mp3  |    10  |  00:04:45  |      320  |   89.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\13 - Ta Bom.mp3
+  .mp3  |     8  |  00:03:49  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\2Much\03 - Stronger\14 - Perco o Juizo.mp3
+  .mp3  |     8  |  00:03:34  |      320  |   92.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Alvaro\07 - Musa (Feat AudioBox - by Dalto Max).mp3
+  .mp3  |     9  |  00:04:10  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Alvaro\Alvaro feat. Nikka - Te Amar (2015).mp3
+  .mp3  |     3  |  00:04:22  |      128  |  130.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Carlos da Silva\Carlos da Silva - Baby baby.mp3
+  .mp3  |     3  |  00:04:10  |      128  |  136.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Carlos da Silva\Carlos da Silva - Larga ele e vem.mp3
+  .mp3  |    10  |  00:04:31  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Carlos da Silva\Carlos da Silva - O nosso amor.mp3
+  .mp3  |     7  |  00:03:25  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Carlos da Silva\Carlos da Silva - Realizado.mp3
+  .mp3  |     8  |  00:03:41  |      320  |  130.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Carlos da Silva\Carlos da Silva - Recomecar.mp3
+  .mp3  |     8  |  00:03:41  |      320  |  156.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Carlos da Silva\Carlos da Silva - Vem pra me amar(2).mp3
+  .mp3  |     3  |  00:03:39  |      128  |  156.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Carlos da Silva\Carlos da Silva - Vem pra me amar.mp3
+  .mp3  |     9  |  00:04:11  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Carlos da Silva\Carlos da Silva - Verdadeiro Amor.mp3
+  .mp3  |     9  |  00:04:09  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Carlos da Silva\Carlos da Silva - Zoukear.mp3
+  .mp3  |     3  |  00:04:03  |      128  |  100.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2005\01 - Chega aí.mp3
+  .mp3  |     3  |  00:04:11  |      128  |   98.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2005\02 - Solta o som.mp3
+  .mp3  |     2  |  00:02:55  |      128  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2005\03 - Amor à luz de velas.mp3
+  .mp3  |     2  |  00:02:33  |      128  |   98.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2005\03 - Não posso mais (feat. Eddy Mc).mp3
+  .mp3  |     3  |  00:03:33  |      128  |  100.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2005\06 - Se rolar rolou.mp3
+  .mp3  |     3  |  00:03:19  |      128  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2005\07 - Dois mundos.mp3
+  .mp3  |     2  |  00:02:59  |      128  |   95.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2005\08 - Depois da meia noite.mp3
+  .mp3  |     4  |  00:04:44  |      128  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2005\10 - Encontrar.mp3
+  .mp3  |     2  |  00:03:01  |      128  |   96.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2005\11 - Parabens pra voce.mp3
+  .mp3  |     3  |  00:02:55  |      180  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2008 - A lus de velas\01 - Amor a luz de velas +.mp3
+  .mp3  |     3  |  00:03:52  |      128  |   97.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2008 - A lus de velas\02 - Chega aí.mp3
+  .mp3  |     3  |  00:03:27  |      128  |   94.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2008 - A lus de velas\05 - Você me ganhou +.mp3
+  .mp3  |     5  |  00:03:04  |      256  |  115.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2008 - A lus de velas\06 - 7 pecados capitais.mp3
+  .mp3  |     6  |  00:03:26  |      256  |  134.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2008 - A lus de velas\08 - Teu silêncio.mp3
+  .mp3  |     4  |  00:05:05  |      128  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2008 - A lus de velas\09 - Encontrar.mp3
+  .mp3  |     7  |  00:04:12  |      256  |  140.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2008 - A lus de velas\10 - So pra mim.mp3
+  .mp3  |     8  |  00:03:34  |      320  |  130.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\01 - Teu Olhar.mp3
+  .mp3  |     8  |  00:03:36  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\02 - Me Faz Bem.mp3
+  .mp3  |     8  |  00:03:48  |      320  |  130.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\03 - Jeito Estranho.mp3
+  .mp3  |     8  |  00:03:46  |      320  |  136.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\04 - Nas Ondas do Amor.mp3
+  .mp3  |     6  |  00:02:53  |      320  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\05 - Lua.mp3
+  .mp3  |     6  |  00:02:54  |      320  |  105.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\06 - Curtindo a Vida.mp3
+  .mp3  |     9  |  00:03:56  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\07 - Aonde Esta Voce.mp3
+  .mp3  |     7  |  00:03:10  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\08 - Amor a Luz de Velas.mp3
+  .mp3  |    10  |  00:04:20  |      320  |  135.98  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\09 - Encontrar.mp3
+  .mp3  |     9  |  00:03:58  |      320  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\10 - Minha Ilha.mp3
+  .mp3  |     8  |  00:03:35  |      320  |   94.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\11 - Fantasias.mp3
+  .mp3  |     7  |  00:03:23  |      320  |  130.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2010 - Paulo Mac\12 - Sensual.mp3
+  .mp3  |     9  |  00:03:54  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\01 - Vontade de Amor.mp3
+  .mp3  |     8  |  00:03:44  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\02 - Toda Vez Que Eu Te Vejo.mp3
+  .mp3  |    10  |  00:04:23  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\03 - Mais Que Prazer.mp3
+  .mp3  |     7  |  00:03:10  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\04 - Amor a Luz de Velas.mp3
+  .mp3  |     9  |  00:04:07  |      320  |  105.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\05 - So pra Mim.mp3
+  .mp3  |     9  |  00:04:05  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\06 - Intencoes.mp3
+  .mp3  |     7  |  00:03:21  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\07 - Ate a Noite Acabar.mp3
+  .mp3  |     9  |  00:04:16  |      320  |  136.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\08 - Encontrar (Remix).mp3
+  .mp3  |     8  |  00:03:34  |      320  |  130.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\09 - Teu Olhar (Remix).mp3
+  .mp3  |     7  |  00:03:11  |      320  |   95.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\10 - Eu Quero Ver Voce Mexer.mp3
+  .mp3  |    12  |  00:05:36  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2011 - Singles\11 - Mais Que Prazer (Remix).mp3
+  .mp3  |     8  |  00:03:33  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\01 - O Que Me Deixa Louco.mp3
+  .mp3  |     9  |  00:04:04  |      320  |  110.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\02 - Imutavel.mp3
+  .mp3  |     8  |  00:03:30  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\03 - O Desejo Esta no Ar.mp3
+  .mp3  |    10  |  00:04:37  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\04 - Tao Perfeito.mp3
+  .mp3  |     9  |  00:04:07  |      320  |  146.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\05 - Codinome Prazer.mp3
+  .mp3  |     9  |  00:04:04  |      320  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\06 - Planos a Dois.mp3
+  .mp3  |     8  |  00:03:37  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\07 - A Nossa Musica.mp3
+  .mp3  |     8  |  00:03:54  |      320  |  130.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\08 - O Mundo Da Voltas.mp3
+  .mp3  |     8  |  00:03:51  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\09 - Prisioneiro da Paixao.mp3
+  .mp3  |     9  |  00:04:06  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\10 - Quando Voce Foi Embora.mp3
+  .mp3  |    10  |  00:04:46  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\11 - Feita a Mao.mp3
+  .mp3  |     9  |  00:03:55  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\12 - Ate Amanhecer.mp3
+  .mp3  |     8  |  00:03:38  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\13 - Quarto 313.mp3
+  .mp3  |     8  |  00:03:51  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2012 - Imutavel\14 - Vontade de Amor (Remix).mp3
+  .mp3  |     9  |  00:04:05  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\01 - O Circo Pega Fogo.mp3
+  .mp3  |     9  |  00:03:56  |      320  |   95.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\02 - Recomecar.mp3
+  .mp3  |     9  |  00:04:01  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\03 - Prazer a Dois.mp3
+  .mp3  |     9  |  00:03:56  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\04 - Temporal.mp3
+  .mp3  |     9  |  00:04:06  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\05 - Voraz.mp3
+  .mp3  |     7  |  00:03:18  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\06 - Algo Mais.mp3
+  .mp3  |     9  |  00:03:53  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\07 - Xadrez.mp3
+  .mp3  |    11  |  00:04:55  |      320  |  140.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\08 - Never Back Down.mp3
+  .mp3  |     9  |  00:03:56  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\09 - Bem Mais Voce.mp3
+  .mp3  |     7  |  00:03:20  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\10 - Nao Posso Evitar.mp3
+  .mp3  |     9  |  00:04:14  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\11 - Magnetica.mp3
+  .mp3  |     9  |  00:04:02  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\12 - Agora ou Nunca Mais.mp3
+  .mp3  |    11  |  00:05:11  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\13 - Intencoes.mp3
+  .mp3  |     8  |  00:03:26  |      320  |   85.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2013 - Xadrez\14 - A Nossa Musica (Remix).mp3
+  .mp3  |     9  |  00:03:54  |      320  |   86.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\01 - Danca Sexy.mp3
+  .mp3  |     9  |  00:04:14  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\02 - After-Party.mp3
+  .mp3  |    10  |  00:04:24  |      320  |  129.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\03 - Surreal.mp3
+  .mp3  |     8  |  00:03:35  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\04 - Tentacao.mp3
+  .mp3  |     7  |  00:03:18  |      320  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\05 - Blackout.mp3
+  .mp3  |    10  |  00:04:24  |      320  |   82.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\06 - Toda Noite.mp3
+  .mp3  |     8  |  00:03:30  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\07 - Romance das Escadas.mp3
+  .mp3  |     9  |  00:03:57  |      320  |   86.99  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\08 - Na Tua Teia.mp3
+  .mp3  |     8  |  00:03:43  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\09 - Close To Me.mp3
+  .mp3  |     9  |  00:03:56  |      320  |   88.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\10 - Tapas & Beijos.mp3
+  .mp3  |     9  |  00:04:11  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\11 - Eu Ja Disse I Love You.mp3
+  .mp3  |     8  |  00:03:46  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\12 - Noites de Amor.mp3
+  .mp3  |     7  |  00:03:19  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\13 - Fazer Amor no Chao.mp3
+  .mp3  |    10  |  00:04:35  |      320  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\14 - Obsessao.mp3
+  .mp3  |     8  |  00:03:34  |      320  |   84.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Albums\2016 - AM PM\15 - Romance das Escadas (Versao R&B).mp3
+  .mp3  |     3  |  00:03:34  |      128  |  100.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Caldeirão do Huck [2007]\17 - Chega ai (feat. Niggas).mp3
+  .mp3  |     3  |  00:03:49  |      128  |  129.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Pancadão do caldeirão do huck [2006]\Paulo Mac - 10-Minha versão ( hip-hop - RMX) -2005.mp3
+  .mp3  |     3  |  00:04:00  |      128  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Zouk 2 Soul [2006]\Alvaro - Não Faz Assim (feat. D'Black).mp3
+  .mp3  |     3  |  00:03:38  |      128  |  100.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Zouk 2 Soul [2006]\D'Black - Assim.mp3
+  .mp3  |     3  |  00:04:11  |      128  |   98.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Zouk 2 Soul [2006]\D'Black - Maria Maria (cover).mp3
+  .mp3  |     3  |  00:03:29  |      128  |  135.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Zouk 2 Soul [2006]\D'Black - Sem Ar (Zouk Remix).mp3
+  .mp3  |     3  |  00:03:52  |      128  |   97.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Zouk 2 Soul [2006]\Paulo Mac - Chega Aí.mp3
+  .mp3  |     4  |  00:04:45  |      128  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Zouk 2 Soul [2006]\Paulo Mac - Encontrar.mp3
+  .mp3  |     2  |  00:03:11  |      128  |   95.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Zouk 2 Soul [2006]\Paulo Mac - Quero Ver Você Mexer.mp3
+  .mp3  |     5  |  00:06:11  |      128  |   82.50  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\Mixtapes\Zouk 2 Soul [2006]\Ravin - Lettin go (Arkkanjo Zouk Edit).mp3
+  .mp3  |     2  |  00:02:39  |      128  |  105.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2012\Paulo Mac - Curtindo a vida (Club remix) [2012].mp3
+  .mp3  |     9  |  00:04:00  |      320  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2012\Paulo Mac - Minha Ilha (Piano version) [2012].mp3
+  .mp3  |     4  |  00:04:34  |      128  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2012\Paulo Mac - My First Dubstep (Version 2) [2012].mp3
+  .mp3  |     9  |  00:04:07  |      320  |  127.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2013\Paulo Mac - Nao Pare (feat. JF) [Produção Dalto Max  Ricardo Martins] [2013].mp3
+  .mp3  |    11  |  00:05:10  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2013\Paulo Mac - Perfeita Demais (feat. Cox (2Much)) [2013].mp3
+  .mp3  |     7  |  00:03:21  |      320  |  128.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2013\Paulo Mac - Segundas Intenções (Funk Mix) [2013].mp3
+  .mp3  |     9  |  00:04:08  |      320  |  128.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2013\Paulo Mac - Segundas Intenções [2013].mp3
+  .mp3  |     9  |  00:04:21  |      320  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2013\Paulo Mac - The Dance of Love [2013].mp3
+  .mp3  |     3  |  00:03:25  |      128  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2014\Paulo Mac - Fazer Amor no Chão [2014].mp3
+  .mp3  |     3  |  00:03:21  |      128  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2014\Paulo Mac - Não posso evitar (Kizomba Remix).mp3
+  .mp3  |     3  |  00:04:06  |      128  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2014\Paulo Mac - O circo pega fogo (Kizomba Remix).mp3
+  .mp3  |     8  |  00:03:53  |      320  |  129.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2014\Paulo Mac - VIP.mp3
+  .mp3  |     3  |  00:04:05  |      128  |   87.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2014\Paulo Mac - Vontade de Amor (Kizomba Remix).mp3
+  .mp3  |     5  |  00:03:53  |      192  |   83.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2014\Paulo Mac - Xadrez (RnB Version).mp3
+  .mp3  |     3  |  00:04:24  |      121  |   82.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2015\Paulo Mac - Toda noite [2015].mp3
+  .mp3  |     3  |  00:03:56  |      128  |   84.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2015\Paulo Mac - Voraz (feat. Arkkanjo) (Kizomba Remix).mp3
+  .mp3  |     7  |  00:03:29  |      320  |  160.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2017\Paulo Mac  feat. Dguedz - EXCITA.mp3
+  .mp3  |     9  |  00:04:09  |      320  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2017\Paulo Mac - Mágica no Ar.mp3
+  .mp3  |     8  |  00:03:31  |      320  |   88.01  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\2017\Paulo Mac - Tentação [RB Version].mp3
+  .mp3  |     6  |  00:02:59  |      320  |  120.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - 7 Pecados capitais (Hip-hop remix).mp3
+  .mp3  |     6  |  00:03:43  |      256  |  122.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - A Boa (feat. Alvaro) [2011].mp3
+  .mp3  |     2  |  00:02:54  |      128  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - Amor à luz de velas [2008].mp3
+  .mp3  |     5  |  00:05:43  |      128  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - Encontrar (feat. DJ Leandrow).mp3
+  .mp3  |     4  |  00:04:49  |      128  |  154.28  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - Encontrar (Unknown Zouk Remix).mp3
+  .mp3  |     7  |  00:04:08  |      256  |   90.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - Mais que prazer (Piano version).mp3
+  .mp3  |     5  |  00:03:11  |      256  |   95.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - Quero ver você mexer (Hip-hop Remix) [2007].mp3
+  .mp3  |     5  |  00:03:15  |      256  |   85.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - Se rende (feat Arkhan'jo).mp3
+  .mp3  |     4  |  00:04:24  |      128  |  126.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - Tarde demais.mp3
+  .mp3  |     3  |  00:03:19  |      128  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - Teu olhar (feat. DJ Leandrow).mp3
+  .mp3  |     3  |  00:03:36  |      128  |  130.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Paulo Mac\OTHER\Paulo Mac - Teu Olhar [2009].mp3
+  .mp3  |     7  |  00:03:47  |      261  |  135.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Ainda Bem (zouk version).mp3
+  .mp3  |     3  |  00:03:18  |      128  |  154.76  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Amado (Acustico).mp3
+  .mp3  |     3  |  00:03:18  |      128  |  155.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Amado.mp3
+  .mp3  |     3  |  00:03:42  |      128  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Brigas.mp3
+  .mp3  |     2  |  00:03:11  |      128  |   95.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Ciclo.mp3
+  .mp3  |     3  |  00:03:40  |      128  |   96.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Delirar.mp3
+  .mp3  |     3  |  00:03:51  |      128  |  125.02  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - E Serio (Acustico).mp3
+  .mp3  |     3  |  00:03:55  |      128  |  125.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - E Serio.mp3
+  .mp3  |     3  |  00:03:54  |      128  |  152.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Eu e voce.mp3
+  .mp3  |     3  |  00:03:28  |      128  |  140.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Paradoxo.mp3
+  .mp3  |     4  |  00:04:40  |      128  |  150.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Punhal.mp3
+  .mp3  |     3  |  00:03:55  |      128  |  135.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Tempestade (Acustico).mp3
+  .mp3  |     3  |  00:04:01  |      128  |  135.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Tempestade.mp3
+  .mp3  |     4  |  00:04:29  |      128  |  131.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Um convite (Acustico).mp3
+  .mp3  |     4  |  00:04:29  |      128  |  131.00  |  d:\Dance\!MUSIC\ZOUK\SINGERs\Well Assis\OTHER\Well Assis - Um convite.mp3
