@@ -20,14 +20,21 @@ namespace AudioAnalyzer
 
 		public override string ToString()
 		{
-			var sb = new StringBuilder();
-			sb.AppendFormat("{0,6}  ", Extension).Append("|");
-			sb.AppendFormat("  {0,4}  ", Size / MB).Append("|");
-			sb.AppendFormat("  {0,8}  ", Duration).Append("|");
-			sb.AppendFormat("  {0,7}  ", Bitrate).Append("|");
-			sb.AppendFormat("  {0,6}  ", BPM).Append("|");
-			sb.AppendFormat($"  {Name}");
-			return sb.ToString();
+			try
+			{
+				var sb = new StringBuilder();
+				sb.AppendFormat("{0,6}  ", Extension).Append("|");
+				sb.AppendFormat("  {0,4}  ", Size/MB).Append("|");
+				sb.AppendFormat("  {0,8}  ", Duration).Append("|");
+				sb.AppendFormat("  {0,7}  ", Bitrate).Append("|");
+				sb.AppendFormat("  {0,6}  ", BPM).Append("|");
+				sb.AppendFormat($"  {Name}");
+				return sb.ToString();
+			}
+			catch(Exception ex)
+			{
+				return $"Exception while trying transform to string audio file {Name}";
+			}
 		}
 
 		private const int MB = 1024 * 1024;
