@@ -24,15 +24,22 @@ namespace VideoAnalyzer
 
         public override string ToString()
         {
-			var sb = new StringBuilder();
-			sb.AppendFormat("{0,10}  ", Width + "x" + Height).Append("|");
-	        sb.AppendFormat("  {0,5}  ", VideoBitrate).Append("|");
-	        sb.AppendFormat("  {0,5}  ", AudioBitrate).Append("|");
-	        sb.AppendFormat("  {0,4}  ", Size/MB).Append("|");
-			sb.AppendFormat("  {0,8}  ", Duration).Append("|");
-			sb.AppendFormat($"  {Name}");
-	        return sb.ToString();
-        }
+	        try
+	        {
+		        var sb = new StringBuilder();
+		        sb.AppendFormat("{0,10}  ", Width + "x" + Height).Append("|");
+		        sb.AppendFormat("  {0,5}  ", VideoBitrate).Append("|");
+		        sb.AppendFormat("  {0,5}  ", AudioBitrate).Append("|");
+		        sb.AppendFormat("  {0,4}  ", Size/MB).Append("|");
+		        sb.AppendFormat("  {0,8}  ", Duration).Append("|");
+				sb.AppendFormat("  {0}  ", Name);
+				return sb.ToString();
+	        }
+			catch (Exception ex)
+			{
+				return $"Exception while trying transform to string audio file {Name}";
+			}
+		}
 
 	    private const int MB = 1024*1024;
     }

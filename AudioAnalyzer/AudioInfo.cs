@@ -28,7 +28,7 @@ namespace AudioAnalyzer
 				sb.AppendFormat("  {0,8}  ", Duration).Append("|");
 				sb.AppendFormat("  {0,7}  ", Bitrate).Append("|");
 				sb.AppendFormat("  {0,6}  ", BPM).Append("|");
-				sb.AppendFormat($"  {Name}");
+				sb.AppendFormat("  {0}  ", Name);
 				return sb.ToString();
 			}
 			catch(Exception ex)
