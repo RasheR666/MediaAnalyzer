@@ -2,12 +2,12 @@
 
 namespace VideoAnalyzer.Loggers
 {
-    public class WrongFileExtensionLogger : VideoLoggerBase
+	public class WrongFileExtensionLogger : VideoLoggerBase
 	{
-        public WrongFileExtensionLogger(string outputDirectory) 
+		public WrongFileExtensionLogger(string outputDirectory)
 			: base(outputDirectory, "WrongExtension")
-        {
-        }
+		{
+		}
 
 		protected override bool NeedToBeSkipped(VideoInfo video)
 		{
@@ -15,6 +15,5 @@ namespace VideoAnalyzer.Loggers
 		}
 
 		private const string correctExtension = ".mp4";
-
-    }
+	}
 }

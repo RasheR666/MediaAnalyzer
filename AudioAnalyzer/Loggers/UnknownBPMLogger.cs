@@ -1,10 +1,8 @@
-using System.IO;
-
 namespace AudioAnalyzer.Loggers
 {
 	public class UnknownBPMLogger : AudioLoggerBase
 	{
-		public UnknownBPMLogger(string outputDirectory) 
+		public UnknownBPMLogger(string outputDirectory)
 			: base(outputDirectory, "UnknownBPM")
 		{
 		}

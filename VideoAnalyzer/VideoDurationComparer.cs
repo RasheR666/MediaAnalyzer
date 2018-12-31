@@ -19,10 +19,10 @@ namespace VideoAnalyzer
 
 		private void Log(SortedSet<VideoInfo> videos, string outputDirectory, string logName)
 		{
-			using (var logger  = new VideoDurationLogger(outputDirectory, logName))
+			using(var logger = new VideoDurationLogger(outputDirectory, logName))
 			{
 				logger.LogHeader();
-				foreach (var video in videos)
+				foreach(var video in videos)
 				{
 					logger.Log(video);
 				}

@@ -1,11 +1,10 @@
 using System;
-using System.IO;
 
 namespace AudioAnalyzer.Loggers
 {
 	public class WrongFileExtensionLogger : AudioLoggerBase
 	{
-		public WrongFileExtensionLogger(string outputDirectory) 
+		public WrongFileExtensionLogger(string outputDirectory)
 			: base(outputDirectory, "WrongExtension")
 		{
 		}

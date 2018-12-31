@@ -5,9 +5,10 @@ using MediaInfoNET;
 
 namespace VideoAnalyzer
 {
-    public class VideoInfoProvider : MediaInfoProviderBase<VideoInfo>
+	public class VideoInfoProvider : MediaInfoProviderBase<VideoInfo>
 	{
-		public VideoInfoProvider(string inputDirectory) : base(inputDirectory)
+		public VideoInfoProvider(string inputDirectory)
+			: base(inputDirectory)
 		{
 		}
 
@@ -17,16 +18,16 @@ namespace VideoAnalyzer
 		}
 
 		protected override VideoInfo GetMediaInfo(MediaFile video)
-        {
-            var videoInfo = new VideoInfo();
+		{
+			var videoInfo = new VideoInfo();
 
-            videoInfo.Name = video.File;
-            videoInfo.Extension = video.Extension.ToLower();
-            videoInfo.Size = video.FileSize;
-	        if (video.Video.Count > 0)
-	        {
-		        var streamVideo = video.Video[0];
-		        videoInfo.Duration = streamVideo.DurationString;
+			videoInfo.Name = video.File;
+			videoInfo.Extension = video.Extension.ToLower();
+			videoInfo.Size = video.FileSize;
+			if(video.Video.Count > 0)
+			{
+				var streamVideo = video.Video[0];
+				videoInfo.Duration = streamVideo.DurationString;
 
 				videoInfo.Width = streamVideo.Width;
 				videoInfo.Height = streamVideo.Height;
@@ -34,12 +35,12 @@ namespace VideoAnalyzer
 				videoInfo.VideoBitrate = streamVideo.Bitrate;
 			}
 
-            if (video.Audio.Count > 0)
-                videoInfo.AudioBitrate = video.Audio[0].Bitrate;
+			if(video.Audio.Count > 0)
+				videoInfo.AudioBitrate = video.Audio[0].Bitrate;
 
-            return videoInfo;
-        }
+			return videoInfo;
+		}
 
 		protected override string Type => "video";
-    }
+	}
 }

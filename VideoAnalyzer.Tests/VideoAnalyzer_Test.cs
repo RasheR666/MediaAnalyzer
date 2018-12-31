@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using Alphaleonis.Win32.Filesystem;
 using ApprovalTests;
 using ApprovalTests.Namers;
@@ -16,6 +12,11 @@ namespace VideoAnalyzer.Tests
 	[UseApprovalSubdirectory("VideoAnalyzer_Test")]
 	public class VideoAnalyzer_Test
 	{
+		public VideoAnalyzer_Test()
+		{
+			videoAnalyzer = new VideoAnalyzer();
+		}
+
 		[Test]
 		[TestCaseSource(nameof(TestCases))]
 		public void ShortVideo(string inputDirectory, string outputDirectory)
@@ -53,7 +54,7 @@ namespace VideoAnalyzer.Tests
 
 		private void MakeApprovement(string inputDirectory, string outputDirectory, string logName)
 		{
-			using (ApprovalResults.ForScenario(outputDirectory))
+			using(ApprovalResults.ForScenario(outputDirectory))
 			{
 				var actualDirectory = Path.Combine(OutputDirectory, outputDirectory);
 				videoAnalyzer.Analyze(inputDirectory, actualDirectory);
@@ -75,12 +76,7 @@ namespace VideoAnalyzer.Tests
 			}
 		}
 
-		private string OutputDirectory = @"d:\Projects\MediaAnalyzer\VideoAnalyzer.Tests\bin";
+		private readonly string OutputDirectory = @"d:\Projects\MediaAnalyzer\VideoAnalyzer.Tests\bin";
 		private readonly VideoAnalyzer videoAnalyzer;
-
-		public VideoAnalyzer_Test()
-		{
-			videoAnalyzer = new VideoAnalyzer();
-		}
 	}
 }

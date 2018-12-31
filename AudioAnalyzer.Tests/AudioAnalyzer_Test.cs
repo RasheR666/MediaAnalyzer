@@ -12,6 +12,11 @@ namespace AudioAnalyzer.Tests
 	[UseApprovalSubdirectory("AudioAnalyzer_Test")]
 	public class AudioAnalyzer_Test
 	{
+		public AudioAnalyzer_Test()
+		{
+			audioAnalyzer = new AudioAnalyzer();
+		}
+
 		[Test]
 		[TestCaseSource(nameof(TestCases))]
 		public void AudioInfo(string inputDirectory, string outputDirectory)
@@ -35,7 +40,7 @@ namespace AudioAnalyzer.Tests
 
 		private void MakeApprovement(string inputDirectory, string outputDirectory, string logName)
 		{
-			using (ApprovalResults.ForScenario(outputDirectory))
+			using(ApprovalResults.ForScenario(outputDirectory))
 			{
 				var actualDirectory = Path.Combine(OutputDirectory, outputDirectory);
 				audioAnalyzer.Analyze(inputDirectory, actualDirectory);
@@ -58,12 +63,7 @@ namespace AudioAnalyzer.Tests
 			}
 		}
 
-		private string OutputDirectory = @"d:\Projects\MediaAnalyzer\VideoAnalyzer.Tests\bin";
+		private readonly string OutputDirectory = @"d:\Projects\MediaAnalyzer\VideoAnalyzer.Tests\bin";
 		private readonly AudioAnalyzer audioAnalyzer;
-
-		public AudioAnalyzer_Test()
-		{
-			audioAnalyzer = new AudioAnalyzer();
-		}
 	}
 }

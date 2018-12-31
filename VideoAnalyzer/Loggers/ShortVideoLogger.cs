@@ -4,7 +4,7 @@ namespace VideoAnalyzer.Loggers
 {
 	public class ShortVideoLogger : VideoLoggerBase
 	{
-		public ShortVideoLogger(string outputDirectory) 
+		public ShortVideoLogger(string outputDirectory)
 			: base(outputDirectory, "ShortVideo")
 		{
 		}

@@ -12,6 +12,11 @@ namespace VideoAnalyzer.Tests
 	[UseApprovalSubdirectory("VideoDurationComparer_Test")]
 	public class VideoDurationComparer_Test
 	{
+		public VideoDurationComparer_Test()
+		{
+			videoDurationComparer = new VideoDurationComparer();
+		}
+
 		[Test]
 		[TestCaseSource(nameof(TestCases))]
 		public void Duration_1(string inputDirectory, string outputDirectory)
@@ -28,7 +33,7 @@ namespace VideoAnalyzer.Tests
 
 		private void MakeApprovement(string inputDirectory, string outputDirectory, string logName)
 		{
-			using (ApprovalResults.ForScenario(outputDirectory))
+			using(ApprovalResults.ForScenario(outputDirectory))
 			{
 				var actualDirectory = Path.Combine(OutputDirectory, outputDirectory);
 				videoDurationComparer.Compare(inputDirectory, inputDirectory, actualDirectory);
@@ -50,12 +55,7 @@ namespace VideoAnalyzer.Tests
 			}
 		}
 
-		private string OutputDirectory = @"d:\Projects\MediaAnalyzer\VideoAnalyzer.Tests\bin";
+		private readonly string OutputDirectory = @"d:\Projects\MediaAnalyzer\VideoAnalyzer.Tests\bin";
 		private readonly VideoDurationComparer videoDurationComparer;
-
-		public VideoDurationComparer_Test()
-		{
-			videoDurationComparer = new VideoDurationComparer();
-		}
 	}
 }

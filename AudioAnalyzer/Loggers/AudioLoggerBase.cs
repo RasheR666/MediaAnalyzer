@@ -4,16 +4,16 @@ namespace AudioAnalyzer.Loggers
 {
 	public abstract class AudioLoggerBase : LoggerBase<AudioInfo>
 	{
-		protected AudioLoggerBase(string outputDirectory, string loggerName) 
+		protected AudioLoggerBase(string outputDirectory, string loggerName)
 			: base(outputDirectory, loggerName, AudioLoggerConstants.Header)
 		{
 		}
 
 		public override void Log(AudioInfo audio)
 		{
-			if (NeedToBeSkipped(audio))
+			if(NeedToBeSkipped(audio))
 				return;
-			
+
 			Logger.WriteLine(audio);
 		}
 

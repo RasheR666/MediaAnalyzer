@@ -4,8 +4,6 @@ namespace MediaAnalyzer.Core.Loggers
 {
 	public class CompositeLogger<T> : ILog<T> where T : IMediaInfo
 	{
-		private ILog<T>[] loggers;
-
 		public CompositeLogger(params ILog<T>[] loggers)
 		{
 			this.loggers = loggers;
@@ -28,8 +26,10 @@ namespace MediaAnalyzer.Core.Loggers
 
 		private void PerformActionForAll(Action<ILog<T>> action)
 		{
-			foreach (var log in loggers)
+			foreach(var log in loggers)
 				action(log);
 		}
+
+		private readonly ILog<T>[] loggers;
 	}
 }

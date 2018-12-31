@@ -10,7 +10,7 @@ namespace MediaAnalyzer.Core
 	{
 		protected MediaInfoProviderBase(string inputDirectory)
 		{
-			if (!Directory.Exists(inputDirectory))
+			if(!Directory.Exists(inputDirectory))
 				throw new Exception("Указанный путь не является директорией");
 
 			this.inputDirectory = inputDirectory;

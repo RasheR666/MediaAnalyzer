@@ -4,17 +4,17 @@ namespace VideoAnalyzer.Loggers
 {
 	public abstract class VideoLoggerBase : LoggerBase<VideoInfo>
 	{
-		protected VideoLoggerBase(string outputDirectory, string loggerName) 
+		protected VideoLoggerBase(string outputDirectory, string loggerName)
 			: base(outputDirectory, loggerName, VideoLoggerConstants.Header)
 		{
 		}
 
 		public override void Log(VideoInfo video)
 		{
-			if (NeedToBeSkipped(video))
+			if(NeedToBeSkipped(video))
 				return;
 
-			if (lastWidth != video.Width || lastHeight != video.Height)
+			if(lastWidth != video.Width || lastHeight != video.Height)
 				Logger.WriteLine();
 			Logger.WriteLine(video);
 

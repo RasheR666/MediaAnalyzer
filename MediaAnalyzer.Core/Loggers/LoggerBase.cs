@@ -4,8 +4,6 @@ namespace MediaAnalyzer.Core.Loggers
 {
 	public abstract class LoggerBase<T> : ILog<T> where T : IMediaInfo
 	{
-		private readonly string logHeader;
-
 		protected LoggerBase(string outputDirectory, string loggerName, string logHeader)
 		{
 			this.logHeader = logHeader;
@@ -25,5 +23,6 @@ namespace MediaAnalyzer.Core.Loggers
 		public abstract void Log(T mediaInfo);
 
 		protected StreamWriter Logger { get; }
+		private readonly string logHeader;
 	}
 }

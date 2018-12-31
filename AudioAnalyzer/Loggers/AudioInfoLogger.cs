@@ -1,10 +1,8 @@
-using System.IO;
-
 namespace AudioAnalyzer.Loggers
 {
 	public class AudioInfoLogger : AudioLoggerBase
 	{
-		public AudioInfoLogger(string outputDirectory) 
+		public AudioInfoLogger(string outputDirectory)
 			: base(outputDirectory, "AudioInfo")
 		{
 		}

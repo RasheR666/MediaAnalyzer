@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using VideoAnalyzer;
 
 namespace MediaAnalyzer
@@ -12,17 +8,17 @@ namespace MediaAnalyzer
 		public static void Main(string[] args)
 		{
 			var command = args[0];
-			if (audioInfo.Equals(command, StringComparison.InvariantCultureIgnoreCase))
+			if(audioInfo.Equals(command, StringComparison.InvariantCultureIgnoreCase))
 			{
 				var analyzer = new AudioAnalyzer.AudioAnalyzer();
 				analyzer.Analyze(args[1], args[2]);
 			}
-			else if (videoInfo.Equals(command, StringComparison.InvariantCultureIgnoreCase))
+			else if(videoInfo.Equals(command, StringComparison.InvariantCultureIgnoreCase))
 			{
 				var analyzer = new VideoAnalyzer.VideoAnalyzer();
 				analyzer.Analyze(args[1], args[2]);
 			}
-			else if (videoDurationComparison.Equals(command, StringComparison.InvariantCultureIgnoreCase))
+			else if(videoDurationComparison.Equals(command, StringComparison.InvariantCultureIgnoreCase))
 			{
 				var comparer = new VideoDurationComparer();
 				comparer.Compare(args[1], args[2], args[3]);
